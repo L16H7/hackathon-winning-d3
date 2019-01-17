@@ -1,0 +1,2437 @@
+[
+  {
+    "location": "BAGO",
+    "unsafe_non_drinking_water": 132007,
+    "unsafe_non_drinking_water_percentage": 34.13
+  },
+  {
+    "location": "Bago",
+    "unsafe_non_drinking_water": 24242,
+    "unsafe_non_drinking_water_percentage": 22.63
+  },
+  {
+    "location": "Tanatpin",
+    "unsafe_non_drinking_water": 30561,
+    "unsafe_non_drinking_water_percentage": 93.96
+  },
+  {
+    "location": "Kawa",
+    "unsafe_non_drinking_water": 43513,
+    "unsafe_non_drinking_water_percentage": 94.44
+  },
+  {
+    "location": "Waw",
+    "unsafe_non_drinking_water": 13578,
+    "unsafe_non_drinking_water_percentage": 36.62
+  },
+  {
+    "location": "Nyaunglebin",
+    "unsafe_non_drinking_water": 1972,
+    "unsafe_non_drinking_water_percentage": 4.41
+  },
+  {
+    "location": "Kyauktaga",
+    "unsafe_non_drinking_water": 5862,
+    "unsafe_non_drinking_water_percentage": 11.35
+  },
+  {
+    "location": "Daik U",
+    "unsafe_non_drinking_water": 5523,
+    "unsafe_non_drinking_water_percentage": 12.07
+  },
+  {
+    "location": "Shwegyin",
+    "unsafe_non_drinking_water": 6756,
+    "unsafe_non_drinking_water_percentage": 31.02
+  },
+  {
+    "location": "TOUNGOO",
+    "unsafe_non_drinking_water": 43152,
+    "unsafe_non_drinking_water_percentage": 17.3
+  },
+  {
+    "location": "Toungoo",
+    "unsafe_non_drinking_water": 9801,
+    "unsafe_non_drinking_water_percentage": 17.06
+  },
+  {
+    "location": "Yaedashe",
+    "unsafe_non_drinking_water": 13570,
+    "unsafe_non_drinking_water_percentage": 26.86
+  },
+  {
+    "location": "Kyaukkyi",
+    "unsafe_non_drinking_water": 5294,
+    "unsafe_non_drinking_water_percentage": 23.14
+  },
+  {
+    "location": "Pyu",
+    "unsafe_non_drinking_water": 5894,
+    "unsafe_non_drinking_water_percentage": 10.73
+  },
+  {
+    "location": "Oatwin",
+    "unsafe_non_drinking_water": 5233,
+    "unsafe_non_drinking_water_percentage": 14.19
+  },
+  {
+    "location": "Htantapin",
+    "unsafe_non_drinking_water": 3360,
+    "unsafe_non_drinking_water_percentage": 12.55
+  },
+  {
+    "location": "PYAY",
+    "unsafe_non_drinking_water": 45969,
+    "unsafe_non_drinking_water_percentage": 19.48
+  },
+  {
+    "location": "Pyay",
+    "unsafe_non_drinking_water": 5406,
+    "unsafe_non_drinking_water_percentage": 9.23
+  },
+  {
+    "location": "Paukkhaung",
+    "unsafe_non_drinking_water": 7449,
+    "unsafe_non_drinking_water_percentage": 23.03
+  },
+  {
+    "location": "Padaung",
+    "unsafe_non_drinking_water": 15951,
+    "unsafe_non_drinking_water_percentage": 41.01
+  },
+  {
+    "location": "Paunde",
+    "unsafe_non_drinking_water": 9412,
+    "unsafe_non_drinking_water_percentage": 25.65
+  },
+  {
+    "location": "Thegon",
+    "unsafe_non_drinking_water": 3947,
+    "unsafe_non_drinking_water_percentage": 10.98
+  },
+  {
+    "location": "Shwedaung",
+    "unsafe_non_drinking_water": 3804,
+    "unsafe_non_drinking_water_percentage": 11.33
+  },
+  {
+    "location": "THAYAWADY",
+    "unsafe_non_drinking_water": 54451,
+    "unsafe_non_drinking_water_percentage": 20.11
+  },
+  {
+    "location": "Thayawady",
+    "unsafe_non_drinking_water": 6689,
+    "unsafe_non_drinking_water_percentage": 18.26
+  },
+  {
+    "location": "Letpadan",
+    "unsafe_non_drinking_water": 6273,
+    "unsafe_non_drinking_water_percentage": 14.43
+  },
+  {
+    "location": "Minhla",
+    "unsafe_non_drinking_water": 5875,
+    "unsafe_non_drinking_water_percentage": 19.02
+  },
+  {
+    "location": "Okpo",
+    "unsafe_non_drinking_water": 6186,
+    "unsafe_non_drinking_water_percentage": 19.4
+  },
+  {
+    "location": "Zigon",
+    "unsafe_non_drinking_water": 8350,
+    "unsafe_non_drinking_water_percentage": 45.85
+  },
+  {
+    "location": "Nattalin",
+    "unsafe_non_drinking_water": 11761,
+    "unsafe_non_drinking_water_percentage": 25.7
+  },
+  {
+    "location": "Monyo",
+    "unsafe_non_drinking_water": 1138,
+    "unsafe_non_drinking_water_percentage": 3.42
+  },
+  {
+    "location": "Gyobingauk",
+    "unsafe_non_drinking_water": 8179,
+    "unsafe_non_drinking_water_percentage": 26.74
+  },
+  {
+    "location": "PATHEIN",
+    "unsafe_non_drinking_water": 126036,
+    "unsafe_non_drinking_water_percentage": 31.98
+  },
+  {
+    "location": "Kangyidaunt",
+    "unsafe_non_drinking_water": 23141,
+    "unsafe_non_drinking_water_percentage": 53.86
+  },
+  {
+    "location": "Kyaungon",
+    "unsafe_non_drinking_water": 4326,
+    "unsafe_non_drinking_water_percentage": 10.45
+  },
+  {
+    "location": "Kyonpyaw",
+    "unsafe_non_drinking_water": 3126,
+    "unsafe_non_drinking_water_percentage": 5.25
+  },
+  {
+    "location": "Ngaputaw",
+    "unsafe_non_drinking_water": 24719,
+    "unsafe_non_drinking_water_percentage": 66.14
+  },
+  {
+    "location": "Pathein",
+    "unsafe_non_drinking_water": 23140,
+    "unsafe_non_drinking_water_percentage": 35.04
+  },
+  {
+    "location": "Yekyi",
+    "unsafe_non_drinking_water": 1567,
+    "unsafe_non_drinking_water_percentage": 5.64
+  },
+  {
+    "location": "Thapaung",
+    "unsafe_non_drinking_water": 18248,
+    "unsafe_non_drinking_water_percentage": 49.01
+  },
+  {
+    "location": "Ngayokaung",
+    "unsafe_non_drinking_water": 2402,
+    "unsafe_non_drinking_water_percentage": 23.55
+  },
+  {
+    "location": "Hainggyikyun",
+    "unsafe_non_drinking_water": 11452,
+    "unsafe_non_drinking_water_percentage": 39.39
+  },
+  {
+    "location": "Shwethaungyan",
+    "unsafe_non_drinking_water": 4071,
+    "unsafe_non_drinking_water_percentage": 39.99
+  },
+  {
+    "location": "Ngwehsaung",
+    "unsafe_non_drinking_water": 2992,
+    "unsafe_non_drinking_water_percentage": 31.59
+  },
+  {
+    "location": "Ngathaingchaung",
+    "unsafe_non_drinking_water": 6852,
+    "unsafe_non_drinking_water_percentage": 29.9
+  },
+  {
+    "location": "PHYAPON",
+    "unsafe_non_drinking_water": 210494,
+    "unsafe_non_drinking_water_percentage": 88.53
+  },
+  {
+    "location": "Kyaiklatt",
+    "unsafe_non_drinking_water": 41627,
+    "unsafe_non_drinking_water_percentage": 95.15
+  },
+  {
+    "location": "Daydaye",
+    "unsafe_non_drinking_water": 44035,
+    "unsafe_non_drinking_water_percentage": 90.59
+  },
+  {
+    "location": "Phyapon",
+    "unsafe_non_drinking_water": 41216,
+    "unsafe_non_drinking_water_percentage": 99.01
+  },
+  {
+    "location": "Bogale",
+    "unsafe_non_drinking_water": 65792,
+    "unsafe_non_drinking_water_percentage": 86.58
+  },
+  {
+    "location": "Ahmar ",
+    "unsafe_non_drinking_water": 17824,
+    "unsafe_non_drinking_water_percentage": 64.15
+  },
+  {
+    "location": "MAUBIN",
+    "unsafe_non_drinking_water": 91070,
+    "unsafe_non_drinking_water_percentage": 39.93
+  },
+  {
+    "location": "Nyaungdon",
+    "unsafe_non_drinking_water": 18127,
+    "unsafe_non_drinking_water_percentage": 35.4
+  },
+  {
+    "location": "Danubyu",
+    "unsafe_non_drinking_water": 6836,
+    "unsafe_non_drinking_water_percentage": 15.26
+  },
+  {
+    "location": "Pantanaw",
+    "unsafe_non_drinking_water": 22202,
+    "unsafe_non_drinking_water_percentage": 36.83
+  },
+  {
+    "location": "Maubin",
+    "unsafe_non_drinking_water": 43905,
+    "unsafe_non_drinking_water_percentage": 61.15
+  },
+  {
+    "location": "MYAUNGMYA",
+    "unsafe_non_drinking_water": 125778,
+    "unsafe_non_drinking_water_percentage": 69.85
+  },
+  {
+    "location": "Myaungmya",
+    "unsafe_non_drinking_water": 41488,
+    "unsafe_non_drinking_water_percentage": 62.7
+  },
+  {
+    "location": "Wakema",
+    "unsafe_non_drinking_water": 58902,
+    "unsafe_non_drinking_water_percentage": 87.33
+  },
+  {
+    "location": "Einme",
+    "unsafe_non_drinking_water": 25388,
+    "unsafe_non_drinking_water_percentage": 54.65
+  },
+  {
+    "location": "LABUTTA",
+    "unsafe_non_drinking_water": 131546,
+    "unsafe_non_drinking_water_percentage": 87.42
+  },
+  {
+    "location": "Mawlamyinegyun",
+    "unsafe_non_drinking_water": 69014,
+    "unsafe_non_drinking_water_percentage": 92.16
+  },
+  {
+    "location": "Labutta",
+    "unsafe_non_drinking_water": 47974,
+    "unsafe_non_drinking_water_percentage": 86.99
+  },
+  {
+    "location": "Pyinsalu",
+    "unsafe_non_drinking_water": 14558,
+    "unsafe_non_drinking_water_percentage": 71.23
+  },
+  {
+    "location": "HINTHADA",
+    "unsafe_non_drinking_water": 25035,
+    "unsafe_non_drinking_water_percentage": 8.39
+  },
+  {
+    "location": "Kyangin",
+    "unsafe_non_drinking_water": 6020,
+    "unsafe_non_drinking_water_percentage": 22.42
+  },
+  {
+    "location": "Zalun",
+    "unsafe_non_drinking_water": 2544,
+    "unsafe_non_drinking_water_percentage": 6.05
+  },
+  {
+    "location": "Myanaung",
+    "unsafe_non_drinking_water": 4845,
+    "unsafe_non_drinking_water_percentage": 8.09
+  },
+  {
+    "location": "Laymyethna",
+    "unsafe_non_drinking_water": 2789,
+    "unsafe_non_drinking_water_percentage": 10.63
+  },
+  {
+    "location": "Hinthada",
+    "unsafe_non_drinking_water": 3210,
+    "unsafe_non_drinking_water_percentage": 3.73
+  },
+  {
+    "location": "Ingapu",
+    "unsafe_non_drinking_water": 5627,
+    "unsafe_non_drinking_water_percentage": 9.83
+  },
+  {
+    "location": "HAKA",
+    "unsafe_non_drinking_water": 1173,
+    "unsafe_non_drinking_water_percentage": 5.95
+  },
+  {
+    "location": "HaKa",
+    "unsafe_non_drinking_water": 806,
+    "unsafe_non_drinking_water_percentage": 8.13
+  },
+  {
+    "location": "Thantlang",
+    "unsafe_non_drinking_water": 367,
+    "unsafe_non_drinking_water_percentage": 3.75
+  },
+  {
+    "location": "FALAM",
+    "unsafe_non_drinking_water": 3854,
+    "unsafe_non_drinking_water_percentage": 13.18
+  },
+  {
+    "location": "Falam",
+    "unsafe_non_drinking_water": 1089,
+    "unsafe_non_drinking_water_percentage": 12.92
+  },
+  {
+    "location": "Tedim",
+    "unsafe_non_drinking_water": 1559,
+    "unsafe_non_drinking_water_percentage": 10.62
+  },
+  {
+    "location": "Tonzaung",
+    "unsafe_non_drinking_water": 829,
+    "unsafe_non_drinking_water_percentage": 24.3
+  },
+  {
+    "location": "Rihkhuadal(Sub-Tsp)",
+    "unsafe_non_drinking_water": 51,
+    "unsafe_non_drinking_water_percentage": 4.26
+  },
+  {
+    "location": "Cikha(Sub-Tsp)",
+    "unsafe_non_drinking_water": 326,
+    "unsafe_non_drinking_water_percentage": 21.31
+  },
+  {
+    "location": "MINDAT",
+    "unsafe_non_drinking_water": 23634,
+    "unsafe_non_drinking_water_percentage": 56.04
+  },
+  {
+    "location": "Mindat",
+    "unsafe_non_drinking_water": 5811,
+    "unsafe_non_drinking_water_percentage": 68.19
+  },
+  {
+    "location": "Matupi",
+    "unsafe_non_drinking_water": 1147,
+    "unsafe_non_drinking_water_percentage": 15.02
+  },
+  {
+    "location": "Kanpalet",
+    "unsafe_non_drinking_water": 1892,
+    "unsafe_non_drinking_water_percentage": 47.57
+  },
+  {
+    "location": "Paletwa",
+    "unsafe_non_drinking_water": 9720,
+    "unsafe_non_drinking_water_percentage": 73.12
+  },
+  {
+    "location": "Reazu(Sub-Tsp)",
+    "unsafe_non_drinking_water": 2,
+    "unsafe_non_drinking_water_percentage": 0.08
+  },
+  {
+    "location": "Sami(Sub-Tsp)",
+    "unsafe_non_drinking_water": 5062,
+    "unsafe_non_drinking_water_percentage": 81.34
+  },
+  {
+    "location": "MYITKYINA",
+    "unsafe_non_drinking_water": 21139,
+    "unsafe_non_drinking_water_percentage": 23.85
+  },
+  {
+    "location": "Myitkyina",
+    "unsafe_non_drinking_water": 4384,
+    "unsafe_non_drinking_water_percentage": 8.67
+  },
+  {
+    "location": "Waingmaw",
+    "unsafe_non_drinking_water": 6697,
+    "unsafe_non_drinking_water_percentage": 33.86
+  },
+  {
+    "location": "Ingyanyan",
+    "unsafe_non_drinking_water": 141,
+    "unsafe_non_drinking_water_percentage": 49.47
+  },
+  {
+    "location": "Tanaing",
+    "unsafe_non_drinking_water": 1315,
+    "unsafe_non_drinking_water_percentage": 20.55
+  },
+  {
+    "location": "Chiphwe",
+    "unsafe_non_drinking_water": 1864,
+    "unsafe_non_drinking_water_percentage": 96.53
+  },
+  {
+    "location": "Hsotlaw",
+    "unsafe_non_drinking_water": 930,
+    "unsafe_non_drinking_water_percentage": 86.67
+  },
+  {
+    "location": "Hsinbo(Sub-Tsp)",
+    "unsafe_non_drinking_water": 940,
+    "unsafe_non_drinking_water_percentage": 46.81
+  },
+  {
+    "location": "Hsadone(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1454,
+    "unsafe_non_drinking_water_percentage": 90.31
+  },
+  {
+    "location": "Kanpaikti(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1371,
+    "unsafe_non_drinking_water_percentage": 93.27
+  },
+  {
+    "location": "Shinbwayyan(Sub-Tsp)",
+    "unsafe_non_drinking_water": 737,
+    "unsafe_non_drinking_water_percentage": 34.6
+  },
+  {
+    "location": "Panwa(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1306,
+    "unsafe_non_drinking_water_percentage": 94.98
+  },
+  {
+    "location": "MOHNYIN",
+    "unsafe_non_drinking_water": 22836,
+    "unsafe_non_drinking_water_percentage": 22.58
+  },
+  {
+    "location": "Mohnyin",
+    "unsafe_non_drinking_water": 5796,
+    "unsafe_non_drinking_water_percentage": 19.2
+  },
+  {
+    "location": "Mogaung",
+    "unsafe_non_drinking_water": 4943,
+    "unsafe_non_drinking_water_percentage": 19.85
+  },
+  {
+    "location": "Phakant",
+    "unsafe_non_drinking_water": 10569,
+    "unsafe_non_drinking_water_percentage": 31.9
+  },
+  {
+    "location": "Hopin(Sub-Tsp)",
+    "unsafe_non_drinking_water": 306,
+    "unsafe_non_drinking_water_percentage": 3.24
+  },
+  {
+    "location": "Kamine(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1222,
+    "unsafe_non_drinking_water_percentage": 34.93
+  },
+  {
+    "location": "BHAMO",
+    "unsafe_non_drinking_water": 11214,
+    "unsafe_non_drinking_water_percentage": 17.6
+  },
+  {
+    "location": "Bhamo",
+    "unsafe_non_drinking_water": 3452,
+    "unsafe_non_drinking_water_percentage": 14.29
+  },
+  {
+    "location": "Shwegu",
+    "unsafe_non_drinking_water": 1941,
+    "unsafe_non_drinking_water_percentage": 12.26
+  },
+  {
+    "location": "Momauk",
+    "unsafe_non_drinking_water": 1353,
+    "unsafe_non_drinking_water_percentage": 15.67
+  },
+  {
+    "location": "Mansi",
+    "unsafe_non_drinking_water": 3443,
+    "unsafe_non_drinking_water_percentage": 32.62
+  },
+  {
+    "location": "Myohla(Sub-Tsp)",
+    "unsafe_non_drinking_water": 403,
+    "unsafe_non_drinking_water_percentage": 50.82
+  },
+  {
+    "location": "Lwe`ge`(Sub-Tsp)",
+    "unsafe_non_drinking_water": 57,
+    "unsafe_non_drinking_water_percentage": 3.79
+  },
+  {
+    "location": "Dotphoneyan(Sub-Tsp)",
+    "unsafe_non_drinking_water": 565,
+    "unsafe_non_drinking_water_percentage": 25.3
+  },
+  {
+    "location": "PUTAO",
+    "unsafe_non_drinking_water": 11638,
+    "unsafe_non_drinking_water_percentage": 73.36
+  },
+  {
+    "location": "Putao",
+    "unsafe_non_drinking_water": 7469,
+    "unsafe_non_drinking_water_percentage": 69.52
+  },
+  {
+    "location": "Sumprabum",
+    "unsafe_non_drinking_water": 431,
+    "unsafe_non_drinking_water_percentage": 89.98
+  },
+  {
+    "location": "Machanbaw",
+    "unsafe_non_drinking_water": 902,
+    "unsafe_non_drinking_water_percentage": 52.47
+  },
+  {
+    "location": "Khaunglanphoo",
+    "unsafe_non_drinking_water": 1677,
+    "unsafe_non_drinking_water_percentage": 98.01
+  },
+  {
+    "location": "Naungmoon",
+    "unsafe_non_drinking_water": 890,
+    "unsafe_non_drinking_water_percentage": 94.38
+  },
+  {
+    "location": "Pannandin(Sub-Tsp)",
+    "unsafe_non_drinking_water": 269,
+    "unsafe_non_drinking_water_percentage": 100
+  },
+  {
+    "location": "LOIKAW",
+    "unsafe_non_drinking_water": 132007,
+    "unsafe_non_drinking_water_percentage": 34.13
+  },
+  {
+    "location": "Loikaw",
+    "unsafe_non_drinking_water": 24242,
+    "unsafe_non_drinking_water_percentage": 22.63
+  },
+  {
+    "location": "Dimawso",
+    "unsafe_non_drinking_water": 30561,
+    "unsafe_non_drinking_water_percentage": 93.96
+  },
+  {
+    "location": "Phruso",
+    "unsafe_non_drinking_water": 43513,
+    "unsafe_non_drinking_water_percentage": 94.44
+  },
+  {
+    "location": "Shardaw",
+    "unsafe_non_drinking_water": 13578,
+    "unsafe_non_drinking_water_percentage": 36.62
+  },
+  {
+    "location": "BAWLAKHE",
+    "unsafe_non_drinking_water": 1972,
+    "unsafe_non_drinking_water_percentage": 4.41
+  },
+  {
+    "location": "Bawlakhe",
+    "unsafe_non_drinking_water": 5862,
+    "unsafe_non_drinking_water_percentage": 11.35
+  },
+  {
+    "location": "Parsaung",
+    "unsafe_non_drinking_water": 5523,
+    "unsafe_non_drinking_water_percentage": 12.07
+  },
+  {
+    "location": "Meisi",
+    "unsafe_non_drinking_water": 6756,
+    "unsafe_non_drinking_water_percentage": 31.02
+  },
+  {
+    "location": "Ywathit(Sub-Tsp)",
+    "unsafe_non_drinking_water": 43152,
+    "unsafe_non_drinking_water_percentage": 17.3
+  },
+  {
+    "location": "HPA-AN",
+    "unsafe_non_drinking_water": 60465,
+    "unsafe_non_drinking_water_percentage": 37.45
+  },
+  {
+    "location": "Hpa-an",
+    "unsafe_non_drinking_water": 26441,
+    "unsafe_non_drinking_water_percentage": 29.64
+  },
+  {
+    "location": "Hlaingbwe",
+    "unsafe_non_drinking_water": 6779,
+    "unsafe_non_drinking_water_percentage": 21.46
+  },
+  {
+    "location": "Thandaunggyi",
+    "unsafe_non_drinking_water": 3295,
+    "unsafe_non_drinking_water_percentage": 56.72
+  },
+  {
+    "location": "Paingkyon(Sub-Tsp)",
+    "unsafe_non_drinking_water": 8923,
+    "unsafe_non_drinking_water_percentage": 50.19
+  },
+  {
+    "location": "ShanYwathit(Sub-Tsp)",
+    "unsafe_non_drinking_water": 3308,
+    "unsafe_non_drinking_water_percentage": 88.07
+  },
+  {
+    "location": "Leiktho(Sub-Tsp)",
+    "unsafe_non_drinking_water": 8514,
+    "unsafe_non_drinking_water_percentage": 85.77
+  },
+  {
+    "location": "Bawgali(Sub-Tsp)",
+    "unsafe_non_drinking_water": 3205,
+    "unsafe_non_drinking_water_percentage": 94.13
+  },
+  {
+    "location": "PHARPON",
+    "unsafe_non_drinking_water": 3737,
+    "unsafe_non_drinking_water_percentage": 57.47
+  },
+  {
+    "location": "Pharpon",
+    "unsafe_non_drinking_water": 1302,
+    "unsafe_non_drinking_water_percentage": 51.18
+  },
+  {
+    "location": "Kamamaung(Sub-Tsp)",
+    "unsafe_non_drinking_water": 2435,
+    "unsafe_non_drinking_water_percentage": 61.52
+  },
+  {
+    "location": "MYAWADY",
+    "unsafe_non_drinking_water": 9981,
+    "unsafe_non_drinking_water_percentage": 22.68
+  },
+  {
+    "location": "Myawady",
+    "unsafe_non_drinking_water": 8342,
+    "unsafe_non_drinking_water_percentage": 20.22
+  },
+  {
+    "location": "Sugali(Sub-Tsp)",
+    "unsafe_non_drinking_water": 647,
+    "unsafe_non_drinking_water_percentage": 60.98
+  },
+  {
+    "location": "Wawlaymyaing(Sub-Tsp)",
+    "unsafe_non_drinking_water": 992,
+    "unsafe_non_drinking_water_percentage": 58.46
+  },
+  {
+    "location": "KAWKAREIK",
+    "unsafe_non_drinking_water": 48129,
+    "unsafe_non_drinking_water_percentage": 50.1
+  },
+  {
+    "location": "Kawkareik",
+    "unsafe_non_drinking_water": 17260,
+    "unsafe_non_drinking_water_percentage": 37.94
+  },
+  {
+    "location": "Kyarinseikkyi",
+    "unsafe_non_drinking_water": 12453,
+    "unsafe_non_drinking_water_percentage": 56.5
+  },
+  {
+    "location": "Payarthonezu(Sub-Tsp)",
+    "unsafe_non_drinking_water": 10415,
+    "unsafe_non_drinking_water_percentage": 58.53
+  },
+  {
+    "location": "Kyaidon(Sub-Tsp)",
+    "unsafe_non_drinking_water": 8001,
+    "unsafe_non_drinking_water_percentage": 74.55
+  },
+  {
+    "location": "MAGWAY",
+    "unsafe_non_drinking_water": 70634,
+    "unsafe_non_drinking_water_percentage": 24.24
+  },
+  {
+    "location": "Magway",
+    "unsafe_non_drinking_water": 12956,
+    "unsafe_non_drinking_water_percentage": 18.87
+  },
+  {
+    "location": "Yenangyoung",
+    "unsafe_non_drinking_water": 6302,
+    "unsafe_non_drinking_water_percentage": 19.39
+  },
+  {
+    "location": "Chauk",
+    "unsafe_non_drinking_water": 15725,
+    "unsafe_non_drinking_water_percentage": 35.24
+  },
+  {
+    "location": "Taungdwingyi",
+    "unsafe_non_drinking_water": 5554,
+    "unsafe_non_drinking_water_percentage": 9.22
+  },
+  {
+    "location": "Myothit",
+    "unsafe_non_drinking_water": 9803,
+    "unsafe_non_drinking_water_percentage": 26.53
+  },
+  {
+    "location": "Natmauk",
+    "unsafe_non_drinking_water": 20294,
+    "unsafe_non_drinking_water_percentage": 41.91
+  },
+  {
+    "location": "MINBU",
+    "unsafe_non_drinking_water": 23666,
+    "unsafe_non_drinking_water_percentage": 14.57
+  },
+  {
+    "location": "Minbu",
+    "unsafe_non_drinking_water": 7765,
+    "unsafe_non_drinking_water_percentage": 17.72
+  },
+  {
+    "location": "PwintPhyu",
+    "unsafe_non_drinking_water": 2010,
+    "unsafe_non_drinking_water_percentage": 5.05
+  },
+  {
+    "location": "Ngape",
+    "unsafe_non_drinking_water": 4677,
+    "unsafe_non_drinking_water_percentage": 37.55
+  },
+  {
+    "location": "Salin",
+    "unsafe_non_drinking_water": 4164,
+    "unsafe_non_drinking_water_percentage": 7.49
+  },
+  {
+    "location": "Saytottara",
+    "unsafe_non_drinking_water": 5050,
+    "unsafe_non_drinking_water_percentage": 46.85
+  },
+  {
+    "location": "THAYET",
+    "unsafe_non_drinking_water": 69814,
+    "unsafe_non_drinking_water_percentage": 38.82
+  },
+  {
+    "location": "Thayet",
+    "unsafe_non_drinking_water": 13677,
+    "unsafe_non_drinking_water_percentage": 52.66
+  },
+  {
+    "location": "Minhla",
+    "unsafe_non_drinking_water": 17536,
+    "unsafe_non_drinking_water_percentage": 55.46
+  },
+  {
+    "location": "Mindon",
+    "unsafe_non_drinking_water": 7919,
+    "unsafe_non_drinking_water_percentage": 47.11
+  },
+  {
+    "location": "Kamma",
+    "unsafe_non_drinking_water": 8476,
+    "unsafe_non_drinking_water_percentage": 44.28
+  },
+  {
+    "location": "Aunglan",
+    "unsafe_non_drinking_water": 12071,
+    "unsafe_non_drinking_water_percentage": 20.95
+  },
+  {
+    "location": "Sinpaungwe`",
+    "unsafe_non_drinking_water": 10135,
+    "unsafe_non_drinking_water_percentage": 35.33
+  },
+  {
+    "location": "PAKOKKU",
+    "unsafe_non_drinking_water": 46100,
+    "unsafe_non_drinking_water_percentage": 20.07
+  },
+  {
+    "location": "PakokkU",
+    "unsafe_non_drinking_water": 8698,
+    "unsafe_non_drinking_water_percentage": 13.11
+  },
+  {
+    "location": "Yesagyo",
+    "unsafe_non_drinking_water": 7582,
+    "unsafe_non_drinking_water_percentage": 16.02
+  },
+  {
+    "location": "Myaing",
+    "unsafe_non_drinking_water": 15584,
+    "unsafe_non_drinking_water_percentage": 29.05
+  },
+  {
+    "location": "Pauk",
+    "unsafe_non_drinking_water": 12196,
+    "unsafe_non_drinking_water_percentage": 31.3
+  },
+  {
+    "location": "Seikphyu",
+    "unsafe_non_drinking_water": 2040,
+    "unsafe_non_drinking_water_percentage": 8.71
+  },
+  {
+    "location": "GANGAW",
+    "unsafe_non_drinking_water": 14767,
+    "unsafe_non_drinking_water_percentage": 26.19
+  },
+  {
+    "location": "Gangaw",
+    "unsafe_non_drinking_water": 4836,
+    "unsafe_non_drinking_water_percentage": 16.17
+  },
+  {
+    "location": "Htilin",
+    "unsafe_non_drinking_water": 3330,
+    "unsafe_non_drinking_water_percentage": 31.62
+  },
+  {
+    "location": "Saw",
+    "unsafe_non_drinking_water": 2669,
+    "unsafe_non_drinking_water_percentage": 32.06
+  },
+  {
+    "location": "Kyaukhtu(Sub-Tsp)",
+    "unsafe_non_drinking_water": 3932,
+    "unsafe_non_drinking_water_percentage": 51.68
+  },
+  {
+    "location": "MANDALAY",
+    "unsafe_non_drinking_water": 19194,
+    "unsafe_non_drinking_water_percentage": 5.92
+  },
+  {
+    "location": "Aungmyetharzan",
+    "unsafe_non_drinking_water": 1574,
+    "unsafe_non_drinking_water_percentage": 3.17
+  },
+  {
+    "location": "Chanayetharzan",
+    "unsafe_non_drinking_water": 890,
+    "unsafe_non_drinking_water_percentage": 2.67
+  },
+  {
+    "location": "Mahaaungmye",
+    "unsafe_non_drinking_water": 1528,
+    "unsafe_non_drinking_water_percentage": 3.64
+  },
+  {
+    "location": "Chanmyatharzi",
+    "unsafe_non_drinking_water": 2744,
+    "unsafe_non_drinking_water_percentage": 5.17
+  },
+  {
+    "location": "Pyigyidagun",
+    "unsafe_non_drinking_water": 1821,
+    "unsafe_non_drinking_water_percentage": 4.15
+  },
+  {
+    "location": "Amarapura",
+    "unsafe_non_drinking_water": 1747,
+    "unsafe_non_drinking_water_percentage": 3.52
+  },
+  {
+    "location": "Patheingyi",
+    "unsafe_non_drinking_water": 8890,
+    "unsafe_non_drinking_water_percentage": 16.78
+  },
+  {
+    "location": "PYINOOLWIN",
+    "unsafe_non_drinking_water": 54316,
+    "unsafe_non_drinking_water_percentage": 25.27
+  },
+  {
+    "location": "PyinOoLwin",
+    "unsafe_non_drinking_water": 12030,
+    "unsafe_non_drinking_water_percentage": 22.54
+  },
+  {
+    "location": "Madaya",
+    "unsafe_non_drinking_water": 12170,
+    "unsafe_non_drinking_water_percentage": 20.75
+  },
+  {
+    "location": "Sinku",
+    "unsafe_non_drinking_water": 7603,
+    "unsafe_non_drinking_water_percentage": 22.02
+  },
+  {
+    "location": "Mogok",
+    "unsafe_non_drinking_water": 9737,
+    "unsafe_non_drinking_water_percentage": 27.63
+  },
+  {
+    "location": "Thabeikkyin",
+    "unsafe_non_drinking_water": 9831,
+    "unsafe_non_drinking_water_percentage": 38.18
+  },
+  {
+    "location": "Tagaung(Sub-Tsp)",
+    "unsafe_non_drinking_water": 2945,
+    "unsafe_non_drinking_water_percentage": 39.84
+  },
+  {
+    "location": "KYAUKSE",
+    "unsafe_non_drinking_water": 24747,
+    "unsafe_non_drinking_water_percentage": 14.56
+  },
+  {
+    "location": "Kyaukse",
+    "unsafe_non_drinking_water": 10138,
+    "unsafe_non_drinking_water_percentage": 17.55
+  },
+  {
+    "location": "Singaing",
+    "unsafe_non_drinking_water": 4230,
+    "unsafe_non_drinking_water_percentage": 12.6
+  },
+  {
+    "location": "Myitthar",
+    "unsafe_non_drinking_water": 7038,
+    "unsafe_non_drinking_water_percentage": 15.29
+  },
+  {
+    "location": "TadaU",
+    "unsafe_non_drinking_water": 3341,
+    "unsafe_non_drinking_water_percentage": 10.24
+  },
+  {
+    "location": "MYINGYAN",
+    "unsafe_non_drinking_water": 45820,
+    "unsafe_non_drinking_water_percentage": 18.86
+  },
+  {
+    "location": "Myingyan",
+    "unsafe_non_drinking_water": 6802,
+    "unsafe_non_drinking_water_percentage": 10.91
+  },
+  {
+    "location": "Taungtha",
+    "unsafe_non_drinking_water": 11011,
+    "unsafe_non_drinking_water_percentage": 22.09
+  },
+  {
+    "location": "Natogyi",
+    "unsafe_non_drinking_water": 4656,
+    "unsafe_non_drinking_water_percentage": 11.37
+  },
+  {
+    "location": "Kyaukpadaung",
+    "unsafe_non_drinking_water": 20964,
+    "unsafe_non_drinking_water_percentage": 33.83
+  },
+  {
+    "location": "Ngazun",
+    "unsafe_non_drinking_water": 2387,
+    "unsafe_non_drinking_water_percentage": 8.57
+  },
+  {
+    "location": "NYAUNGU",
+    "unsafe_non_drinking_water": 8300,
+    "unsafe_non_drinking_water_percentage": 15.24
+  },
+  {
+    "location": "NyaungU",
+    "unsafe_non_drinking_water": 6708,
+    "unsafe_non_drinking_water_percentage": 15.02
+  },
+  {
+    "location": "Ngathayauk(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1592,
+    "unsafe_non_drinking_water_percentage": 16.23
+  },
+  {
+    "location": "YAME`THIN",
+    "unsafe_non_drinking_water": 19810,
+    "unsafe_non_drinking_water_percentage": 17.06
+  },
+  {
+    "location": "Yame`thin",
+    "unsafe_non_drinking_water": 11174,
+    "unsafe_non_drinking_water_percentage": 19.51
+  },
+  {
+    "location": "Pyawbwe",
+    "unsafe_non_drinking_water": 8636,
+    "unsafe_non_drinking_water_percentage": 14.67
+  },
+  {
+    "location": "MEIKTILA",
+    "unsafe_non_drinking_water": 41859,
+    "unsafe_non_drinking_water_percentage": 20.91
+  },
+  {
+    "location": "Meiktila",
+    "unsafe_non_drinking_water": 11446,
+    "unsafe_non_drinking_water_percentage": 16.72
+  },
+  {
+    "location": "Mahlaing",
+    "unsafe_non_drinking_water": 4396,
+    "unsafe_non_drinking_water_percentage": 13.19
+  },
+  {
+    "location": "Thazi",
+    "unsafe_non_drinking_water": 13839,
+    "unsafe_non_drinking_water_percentage": 30.83
+  },
+  {
+    "location": "Wundwin",
+    "unsafe_non_drinking_water": 12178,
+    "unsafe_non_drinking_water_percentage": 22.73
+  },
+  {
+    "location": "MAWLAMYINE",
+    "unsafe_non_drinking_water": 72914,
+    "unsafe_non_drinking_water_percentage": 28.79
+  },
+  {
+    "location": "Mawlamyine",
+    "unsafe_non_drinking_water": 12532,
+    "unsafe_non_drinking_water_percentage": 21.81
+  },
+  {
+    "location": "Kyaikemaraw",
+    "unsafe_non_drinking_water": 17425,
+    "unsafe_non_drinking_water_percentage": 44.81
+  },
+  {
+    "location": "Chaungzon",
+    "unsafe_non_drinking_water": 6622,
+    "unsafe_non_drinking_water_percentage": 23.7
+  },
+  {
+    "location": "Thanbyuzayat",
+    "unsafe_non_drinking_water": 11469,
+    "unsafe_non_drinking_water_percentage": 31.65
+  },
+  {
+    "location": "Mudon",
+    "unsafe_non_drinking_water": 11109,
+    "unsafe_non_drinking_water_percentage": 28.26
+  },
+  {
+    "location": "Ye",
+    "unsafe_non_drinking_water": 8082,
+    "unsafe_non_drinking_water_percentage": 26.95
+  },
+  {
+    "location": "Lamine(Sub-Tsp)",
+    "unsafe_non_drinking_water": 4827,
+    "unsafe_non_drinking_water_percentage": 25.9
+  },
+  {
+    "location": "Khawzar(Sub-Tsp)",
+    "unsafe_non_drinking_water": 848,
+    "unsafe_non_drinking_water_percentage": 17.6
+  },
+  {
+    "location": "THATON",
+    "unsafe_non_drinking_water": 69232,
+    "unsafe_non_drinking_water_percentage": 40.89
+  },
+  {
+    "location": "Thaton",
+    "unsafe_non_drinking_water": 15789,
+    "unsafe_non_drinking_water_percentage": 32.7
+  },
+  {
+    "location": "Paung",
+    "unsafe_non_drinking_water": 15949,
+    "unsafe_non_drinking_water_percentage": 36.47
+  },
+  {
+    "location": "Kyaikto",
+    "unsafe_non_drinking_water": 14864,
+    "unsafe_non_drinking_water_percentage": 39.03
+  },
+  {
+    "location": "Bilin",
+    "unsafe_non_drinking_water": 22630,
+    "unsafe_non_drinking_water_percentage": 57.68
+  },
+  {
+    "location": "OTTARA(NORTH)",
+    "unsafe_non_drinking_water": 17288,
+    "unsafe_non_drinking_water_percentage": 13.93
+  },
+  {
+    "location": "Tatkon",
+    "unsafe_non_drinking_water": 7992,
+    "unsafe_non_drinking_water_percentage": 15.44
+  },
+  {
+    "location": "Zeyarthiri",
+    "unsafe_non_drinking_water": 3984,
+    "unsafe_non_drinking_water_percentage": 15.28
+  },
+  {
+    "location": "Ottarathiri",
+    "unsafe_non_drinking_water": 3707,
+    "unsafe_non_drinking_water_percentage": 19.86
+  },
+  {
+    "location": "Pobbathiri",
+    "unsafe_non_drinking_water": 1605,
+    "unsafe_non_drinking_water_percentage": 5.81
+  },
+  {
+    "location": "DEKKHINA(SOUTH)",
+    "unsafe_non_drinking_water": 16807,
+    "unsafe_non_drinking_water_percentage": 12.17
+  },
+  {
+    "location": "Pyinmana",
+    "unsafe_non_drinking_water": 6489,
+    "unsafe_non_drinking_water_percentage": 16.36
+  },
+  {
+    "location": "Lewe",
+    "unsafe_non_drinking_water": 9452,
+    "unsafe_non_drinking_water_percentage": 14.5
+  },
+  {
+    "location": "Zabuthiri",
+    "unsafe_non_drinking_water": 429,
+    "unsafe_non_drinking_water_percentage": 1.63
+  },
+  {
+    "location": "Dekkhinathiri",
+    "unsafe_non_drinking_water": 437,
+    "unsafe_non_drinking_water_percentage": 6.25
+  },
+  {
+    "location": "SITTWAY",
+    "unsafe_non_drinking_water": 77342,
+    "unsafe_non_drinking_water_percentage": 70.79
+  },
+  {
+    "location": "Sittway",
+    "unsafe_non_drinking_water": 6051,
+    "unsafe_non_drinking_water_percentage": 20.84
+  },
+  {
+    "location": "Ponnagyun",
+    "unsafe_non_drinking_water": 23553,
+    "unsafe_non_drinking_water_percentage": 92.97
+  },
+  {
+    "location": "Pauktaw",
+    "unsafe_non_drinking_water": 28451,
+    "unsafe_non_drinking_water_percentage": 93.15
+  },
+  {
+    "location": "Yathedaung",
+    "unsafe_non_drinking_water": 19287,
+    "unsafe_non_drinking_water_percentage": 79.24
+  },
+  {
+    "location": "MYAUKU",
+    "unsafe_non_drinking_water": 126075,
+    "unsafe_non_drinking_water_percentage": 86.36
+  },
+  {
+    "location": "MyaukU",
+    "unsafe_non_drinking_water": 36903,
+    "unsafe_non_drinking_water_percentage": 88.87
+  },
+  {
+    "location": "Kyauktaw",
+    "unsafe_non_drinking_water": 34519,
+    "unsafe_non_drinking_water_percentage": 94.59
+  },
+  {
+    "location": "Minbya",
+    "unsafe_non_drinking_water": 35008,
+    "unsafe_non_drinking_water_percentage": 95.58
+  },
+  {
+    "location": "Myebon",
+    "unsafe_non_drinking_water": 19645,
+    "unsafe_non_drinking_water_percentage": 62.69
+  },
+  {
+    "location": "MAUNGTAW",
+    "unsafe_non_drinking_water": 11382,
+    "unsafe_non_drinking_water_percentage": 59.41
+  },
+  {
+    "location": "Maungtaw",
+    "unsafe_non_drinking_water": 3138,
+    "unsafe_non_drinking_water_percentage": 42.46
+  },
+  {
+    "location": "Buthidaung",
+    "unsafe_non_drinking_water": 7971,
+    "unsafe_non_drinking_water_percentage": 70.77
+  },
+  {
+    "location": "Taungpyoletwe(Sub-TSP)",
+    "unsafe_non_drinking_water": 273,
+    "unsafe_non_drinking_water_percentage": 53.95
+  },
+  {
+    "location": "KYAUKPYU",
+    "unsafe_non_drinking_water": 61050,
+    "unsafe_non_drinking_water_percentage": 59.98
+  },
+  {
+    "location": "Kyaukpyu",
+    "unsafe_non_drinking_water": 24070,
+    "unsafe_non_drinking_water_percentage": 64.59
+  },
+  {
+    "location": "Mannaung",
+    "unsafe_non_drinking_water": 4943,
+    "unsafe_non_drinking_water_percentage": 33.55
+  },
+  {
+    "location": "Yanbye",
+    "unsafe_non_drinking_water": 13957,
+    "unsafe_non_drinking_water_percentage": 62.26
+  },
+  {
+    "location": "An",
+    "unsafe_non_drinking_water": 18080,
+    "unsafe_non_drinking_water_percentage": 66.08
+  },
+  {
+    "location": "THANDWE",
+    "unsafe_non_drinking_water": 21275,
+    "unsafe_non_drinking_water_percentage": 25.45
+  },
+  {
+    "location": "Thandwe",
+    "unsafe_non_drinking_water": 5175,
+    "unsafe_non_drinking_water_percentage": 16.65
+  },
+  {
+    "location": "Taungup",
+    "unsafe_non_drinking_water": 6588,
+    "unsafe_non_drinking_water_percentage": 26.1
+  },
+  {
+    "location": "Gwa",
+    "unsafe_non_drinking_water": 3638,
+    "unsafe_non_drinking_water_percentage": 32.35
+  },
+  {
+    "location": "Maei(Sub-Tsp)",
+    "unsafe_non_drinking_water": 4462,
+    "unsafe_non_drinking_water_percentage": 44.83
+  },
+  {
+    "location": "Kyeintali(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1412,
+    "unsafe_non_drinking_water_percentage": 23.22
+  },
+  {
+    "location": "SAGAING",
+    "unsafe_non_drinking_water": 22016,
+    "unsafe_non_drinking_water_percentage": 19.19
+  },
+  {
+    "location": "Sagaing",
+    "unsafe_non_drinking_water": 11196,
+    "unsafe_non_drinking_water_percentage": 17.19
+  },
+  {
+    "location": "Myinmu",
+    "unsafe_non_drinking_water": 7533,
+    "unsafe_non_drinking_water_percentage": 29.77
+  },
+  {
+    "location": "Myaung",
+    "unsafe_non_drinking_water": 3287,
+    "unsafe_non_drinking_water_percentage": 13.55
+  },
+  {
+    "location": "SHWEBO",
+    "unsafe_non_drinking_water": 41855,
+    "unsafe_non_drinking_water_percentage": 13.44
+  },
+  {
+    "location": "Shwebo",
+    "unsafe_non_drinking_water": 3530,
+    "unsafe_non_drinking_water_percentage": 7.03
+  },
+  {
+    "location": "KhinU",
+    "unsafe_non_drinking_water": 2675,
+    "unsafe_non_drinking_water_percentage": 8.2
+  },
+  {
+    "location": "Wetlet",
+    "unsafe_non_drinking_water": 8817,
+    "unsafe_non_drinking_water_percentage": 18.88
+  },
+  {
+    "location": "Kambalu",
+    "unsafe_non_drinking_water": 14766,
+    "unsafe_non_drinking_water_percentage": 24.08
+  },
+  {
+    "location": "Kyunhla",
+    "unsafe_non_drinking_water": 3596,
+    "unsafe_non_drinking_water_percentage": 17.24
+  },
+  {
+    "location": "YeU",
+    "unsafe_non_drinking_water": 1465,
+    "unsafe_non_drinking_water_percentage": 5.55
+  },
+  {
+    "location": "Depayin",
+    "unsafe_non_drinking_water": 3557,
+    "unsafe_non_drinking_water_percentage": 11.72
+  },
+  {
+    "location": "Tasei",
+    "unsafe_non_drinking_water": 1005,
+    "unsafe_non_drinking_water_percentage": 2.8
+  },
+  {
+    "location": "Kyaukmyaung(Sub-Tsp)",
+    "unsafe_non_drinking_water": 2444,
+    "unsafe_non_drinking_water_percentage": 34.67
+  },
+  {
+    "location": "MONYWA",
+    "unsafe_non_drinking_water": 21193,
+    "unsafe_non_drinking_water_percentage": 12.96
+  },
+  {
+    "location": "Monywa",
+    "unsafe_non_drinking_water": 5504,
+    "unsafe_non_drinking_water_percentage": 7.25
+  },
+  {
+    "location": "Butalin",
+    "unsafe_non_drinking_water": 7763,
+    "unsafe_non_drinking_water_percentage": 27.13
+  },
+  {
+    "location": "Ayartaw",
+    "unsafe_non_drinking_water": 5490,
+    "unsafe_non_drinking_water_percentage": 15.43
+  },
+  {
+    "location": "ChaungOo",
+    "unsafe_non_drinking_water": 2436,
+    "unsafe_non_drinking_water_percentage": 10.42
+  },
+  {
+    "location": "KATHA",
+    "unsafe_non_drinking_water": 24024,
+    "unsafe_non_drinking_water_percentage": 14.3
+  },
+  {
+    "location": "Katha",
+    "unsafe_non_drinking_water": 4357,
+    "unsafe_non_drinking_water_percentage": 13.63
+  },
+  {
+    "location": "Indaw",
+    "unsafe_non_drinking_water": 3595,
+    "unsafe_non_drinking_water_percentage": 15.48
+  },
+  {
+    "location": "Tigyaing",
+    "unsafe_non_drinking_water": 3272,
+    "unsafe_non_drinking_water_percentage": 12.4
+  },
+  {
+    "location": "Banmauk",
+    "unsafe_non_drinking_water": 3578,
+    "unsafe_non_drinking_water_percentage": 18.96
+  },
+  {
+    "location": "Kawlin",
+    "unsafe_non_drinking_water": 5097,
+    "unsafe_non_drinking_water_percentage": 16.23
+  },
+  {
+    "location": "Wuntho",
+    "unsafe_non_drinking_water": 1666,
+    "unsafe_non_drinking_water_percentage": 11.73
+  },
+  {
+    "location": "Pinlebu",
+    "unsafe_non_drinking_water": 2459,
+    "unsafe_non_drinking_water_percentage": 11.23
+  },
+  {
+    "location": "KALAY",
+    "unsafe_non_drinking_water": 24309,
+    "unsafe_non_drinking_water_percentage": 22.81
+  },
+  {
+    "location": "Kalay",
+    "unsafe_non_drinking_water": 12099,
+    "unsafe_non_drinking_water_percentage": 16.63
+  },
+  {
+    "location": "Kalewa",
+    "unsafe_non_drinking_water": 5911,
+    "unsafe_non_drinking_water_percentage": 50.37
+  },
+  {
+    "location": "Mingin",
+    "unsafe_non_drinking_water": 6299,
+    "unsafe_non_drinking_water_percentage": 28.56
+  },
+  {
+    "location": "TAMU",
+    "unsafe_non_drinking_water": 6861,
+    "unsafe_non_drinking_water_percentage": 30.37
+  },
+  {
+    "location": "Tamu",
+    "unsafe_non_drinking_water": 3897,
+    "unsafe_non_drinking_water_percentage": 32.51
+  },
+  {
+    "location": "Myothit(Sub-Tsp)",
+    "unsafe_non_drinking_water": 969,
+    "unsafe_non_drinking_water_percentage": 31.29
+  },
+  {
+    "location": "Khampat(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1995,
+    "unsafe_non_drinking_water_percentage": 26.57
+  },
+  {
+    "location": "MAWLAIK",
+    "unsafe_non_drinking_water": 5928,
+    "unsafe_non_drinking_water_percentage": 19.38
+  },
+  {
+    "location": "Mawlaik",
+    "unsafe_non_drinking_water": 2687,
+    "unsafe_non_drinking_water_percentage": 25.97
+  },
+  {
+    "location": "Phaungpyin",
+    "unsafe_non_drinking_water": 3241,
+    "unsafe_non_drinking_water_percentage": 16.01
+  },
+  {
+    "location": "HKAMTI",
+    "unsafe_non_drinking_water": 30685,
+    "unsafe_non_drinking_water_percentage": 49.62
+  },
+  {
+    "location": "Hkamti",
+    "unsafe_non_drinking_water": 4730,
+    "unsafe_non_drinking_water_percentage": 64.26
+  },
+  {
+    "location": "Homalin",
+    "unsafe_non_drinking_water": 11916,
+    "unsafe_non_drinking_water_percentage": 33.34
+  },
+  {
+    "location": "Leshi",
+    "unsafe_non_drinking_water": 1160,
+    "unsafe_non_drinking_water_percentage": 70.05
+  },
+  {
+    "location": "Lahe",
+    "unsafe_non_drinking_water": 4610,
+    "unsafe_non_drinking_water_percentage": 66.07
+  },
+  {
+    "location": "Nanyun",
+    "unsafe_non_drinking_water": 1318,
+    "unsafe_non_drinking_water_percentage": 84.06
+  },
+  {
+    "location": "Mobaingluk(Sub-Tsp)",
+    "unsafe_non_drinking_water": 165,
+    "unsafe_non_drinking_water_percentage": 53.23
+  },
+  {
+    "location": "Sonemara(Sub-Tsp)",
+    "unsafe_non_drinking_water": 605,
+    "unsafe_non_drinking_water_percentage": 50.67
+  },
+  {
+    "location": "Htanparkway(Sub-Tsp)",
+    "unsafe_non_drinking_water": 499,
+    "unsafe_non_drinking_water_percentage": 65.57
+  },
+  {
+    "location": "Pansaung(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1960,
+    "unsafe_non_drinking_water_percentage": 83.44
+  },
+  {
+    "location": "Donhee(Sub-Tsp)",
+    "unsafe_non_drinking_water": 3722,
+    "unsafe_non_drinking_water_percentage": 94.88
+  },
+  {
+    "location": "YINMARPIN",
+    "unsafe_non_drinking_water": 17741,
+    "unsafe_non_drinking_water_percentage": 15.09
+  },
+  {
+    "location": "Yinmarpin",
+    "unsafe_non_drinking_water": 2662,
+    "unsafe_non_drinking_water_percentage": 9.01
+  },
+  {
+    "location": "Salingyi",
+    "unsafe_non_drinking_water": 3641,
+    "unsafe_non_drinking_water_percentage": 13.76
+  },
+  {
+    "location": "Palae",
+    "unsafe_non_drinking_water": 6637,
+    "unsafe_non_drinking_water_percentage": 20.51
+  },
+  {
+    "location": "Kani",
+    "unsafe_non_drinking_water": 4801,
+    "unsafe_non_drinking_water_percentage": 16.43
+  },
+  {
+    "location": "TAUNGGYI",
+    "unsafe_non_drinking_water": 208443,
+    "unsafe_non_drinking_water_percentage": 56.56
+  },
+  {
+    "location": "Taunggyi",
+    "unsafe_non_drinking_water": 29545,
+    "unsafe_non_drinking_water_percentage": 35.77
+  },
+  {
+    "location": "Nyaungshwe",
+    "unsafe_non_drinking_water": 24317,
+    "unsafe_non_drinking_water_percentage": 57.04
+  },
+  {
+    "location": "Hopon",
+    "unsafe_non_drinking_water": 14563,
+    "unsafe_non_drinking_water_percentage": 58.89
+  },
+  {
+    "location": "Hsihseng",
+    "unsafe_non_drinking_water": 19311,
+    "unsafe_non_drinking_water_percentage": 58.93
+  },
+  {
+    "location": "Kalaw",
+    "unsafe_non_drinking_water": 18522,
+    "unsafe_non_drinking_water_percentage": 44.8
+  },
+  {
+    "location": "Pindaya",
+    "unsafe_non_drinking_water": 11468,
+    "unsafe_non_drinking_water_percentage": 65.37
+  },
+  {
+    "location": "Ywarngan",
+    "unsafe_non_drinking_water": 14037,
+    "unsafe_non_drinking_water_percentage": 76.5
+  },
+  {
+    "location": "Yatsauk",
+    "unsafe_non_drinking_water": 15016,
+    "unsafe_non_drinking_water_percentage": 57.85
+  },
+  {
+    "location": "Pinlaung",
+    "unsafe_non_drinking_water": 21039,
+    "unsafe_non_drinking_water_percentage": 82.49
+  },
+  {
+    "location": "Phekon",
+    "unsafe_non_drinking_water": 10801,
+    "unsafe_non_drinking_water_percentage": 53.78
+  },
+  {
+    "location": "Kyauktalongyi(Sub-Tsp)",
+    "unsafe_non_drinking_water": 10685,
+    "unsafe_non_drinking_water_percentage": 87.12
+  },
+  {
+    "location": "Indaw(Sub-Tsp)",
+    "unsafe_non_drinking_water": 6852,
+    "unsafe_non_drinking_water_percentage": 84.07
+  },
+  {
+    "location": "Naungtayar(Sub-Tsp)",
+    "unsafe_non_drinking_water": 12287,
+    "unsafe_non_drinking_water_percentage": 74.11
+  },
+  {
+    "location": "LOILIN",
+    "unsafe_non_drinking_water": 73765,
+    "unsafe_non_drinking_water_percentage": 63.88
+  },
+  {
+    "location": "Loilin",
+    "unsafe_non_drinking_water": 5069,
+    "unsafe_non_drinking_water_percentage": 46.5
+  },
+  {
+    "location": "Le`char",
+    "unsafe_non_drinking_water": 4854,
+    "unsafe_non_drinking_water_percentage": 55.22
+  },
+  {
+    "location": "Nanhsam(South)",
+    "unsafe_non_drinking_water": 13107,
+    "unsafe_non_drinking_water_percentage": 69.49
+  },
+  {
+    "location": "Kunhing",
+    "unsafe_non_drinking_water": 2988,
+    "unsafe_non_drinking_water_percentage": 65.38
+  },
+  {
+    "location": "Kehsi",
+    "unsafe_non_drinking_water": 7006,
+    "unsafe_non_drinking_water_percentage": 78.71
+  },
+  {
+    "location": "Mongkai",
+    "unsafe_non_drinking_water": 11620,
+    "unsafe_non_drinking_water_percentage": 71.15
+  },
+  {
+    "location": "Mineshu",
+    "unsafe_non_drinking_water": 6261,
+    "unsafe_non_drinking_water_percentage": 68.05
+  },
+  {
+    "location": "Panglong(Sub-Tsp)",
+    "unsafe_non_drinking_water": 9071,
+    "unsafe_non_drinking_water_percentage": 62.49
+  },
+  {
+    "location": "Kholan(Sub-Tsp)",
+    "unsafe_non_drinking_water": 2029,
+    "unsafe_non_drinking_water_percentage": 46.49
+  },
+  {
+    "location": "Karli(Sub-Tsp)",
+    "unsafe_non_drinking_water": 4505,
+    "unsafe_non_drinking_water_percentage": 68.6
+  },
+  {
+    "location": "Minenaung(Sub-Tsp)",
+    "unsafe_non_drinking_water": 4338,
+    "unsafe_non_drinking_water_percentage": 74.65
+  },
+  {
+    "location": "Minesan(Monsan)(Sub-Tsp)",
+    "unsafe_non_drinking_water": 2917,
+    "unsafe_non_drinking_water_percentage": 43.76
+  },
+  {
+    "location": "LINKHE`",
+    "unsafe_non_drinking_water": 14107,
+    "unsafe_non_drinking_water_percentage": 46.03
+  },
+  {
+    "location": "Linkhe`",
+    "unsafe_non_drinking_water": 3379,
+    "unsafe_non_drinking_water_percentage": 40.28
+  },
+  {
+    "location": "Mone`",
+    "unsafe_non_drinking_water": 2706,
+    "unsafe_non_drinking_water_percentage": 43.48
+  },
+  {
+    "location": "Maukme`",
+    "unsafe_non_drinking_water": 3960,
+    "unsafe_non_drinking_water_percentage": 55.05
+  },
+  {
+    "location": "Minepan",
+    "unsafe_non_drinking_water": 2140,
+    "unsafe_non_drinking_water_percentage": 39.48
+  },
+  {
+    "location": "Homane(Sub-Tsp)",
+    "unsafe_non_drinking_water": 846,
+    "unsafe_non_drinking_water_percentage": 72.93
+  },
+  {
+    "location": "Kengtaung(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1076,
+    "unsafe_non_drinking_water_percentage": 47.59
+  },
+  {
+    "location": "LASHIO",
+    "unsafe_non_drinking_water": 57111,
+    "unsafe_non_drinking_water_percentage": 45.62
+  },
+  {
+    "location": "Lashio",
+    "unsafe_non_drinking_water": 21149,
+    "unsafe_non_drinking_water_percentage": 32.57
+  },
+  {
+    "location": "Theinni",
+    "unsafe_non_drinking_water": 4662,
+    "unsafe_non_drinking_water_percentage": 39.58
+  },
+  {
+    "location": "Mineye`",
+    "unsafe_non_drinking_water": 9538,
+    "unsafe_non_drinking_water_percentage": 71.56
+  },
+  {
+    "location": "Tantyan",
+    "unsafe_non_drinking_water": 21762,
+    "unsafe_non_drinking_water_percentage": 61.93
+  },
+  {
+    "location": "MUSE",
+    "unsafe_non_drinking_water": 22256,
+    "unsafe_non_drinking_water_percentage": 25.8
+  },
+  {
+    "location": "MuSe",
+    "unsafe_non_drinking_water": 3235,
+    "unsafe_non_drinking_water_percentage": 14.56
+  },
+  {
+    "location": "Namkham",
+    "unsafe_non_drinking_water": 4437,
+    "unsafe_non_drinking_water_percentage": 20.72
+  },
+  {
+    "location": "Kukai",
+    "unsafe_non_drinking_water": 7627,
+    "unsafe_non_drinking_water_percentage": 40.08
+  },
+  {
+    "location": "Monekoe(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1330,
+    "unsafe_non_drinking_water_percentage": 30.52
+  },
+  {
+    "location": "Manhero/ManKyo(Sub-Tsp)",
+    "unsafe_non_drinking_water": 16,
+    "unsafe_non_drinking_water_percentage": 0.97
+  },
+  {
+    "location": "Pansai(KyuKok)(Sub-Tsp)",
+    "unsafe_non_drinking_water": 522,
+    "unsafe_non_drinking_water_percentage": 11.49
+  },
+  {
+    "location": "Tamoenye(Sub-Tsp)",
+    "unsafe_non_drinking_water": 5089,
+    "unsafe_non_drinking_water_percentage": 39
+  },
+  {
+    "location": "KYAUKME",
+    "unsafe_non_drinking_water": 86596,
+    "unsafe_non_drinking_water_percentage": 52.91
+  },
+  {
+    "location": "Kyaukme",
+    "unsafe_non_drinking_water": 11310,
+    "unsafe_non_drinking_water_percentage": 39.86
+  },
+  {
+    "location": "NaungKhio",
+    "unsafe_non_drinking_water": 15251,
+    "unsafe_non_drinking_water_percentage": 47.33
+  },
+  {
+    "location": "Hsipaw",
+    "unsafe_non_drinking_water": 23145,
+    "unsafe_non_drinking_water_percentage": 61.06
+  },
+  {
+    "location": "Namtu",
+    "unsafe_non_drinking_water": 5707,
+    "unsafe_non_drinking_water_percentage": 49.02
+  },
+  {
+    "location": "Namsan(North)",
+    "unsafe_non_drinking_water": 12170,
+    "unsafe_non_drinking_water_percentage": 88.93
+  },
+  {
+    "location": "Momeik",
+    "unsafe_non_drinking_water": 4492,
+    "unsafe_non_drinking_water_percentage": 32.9
+  },
+  {
+    "location": "Mabane",
+    "unsafe_non_drinking_water": 989,
+    "unsafe_non_drinking_water_percentage": 11.46
+  },
+  {
+    "location": "Manton",
+    "unsafe_non_drinking_water": 5452,
+    "unsafe_non_drinking_water_percentage": 70.96
+  },
+  {
+    "location": "Minengaw(Sub-Tsp)",
+    "unsafe_non_drinking_water": 3519,
+    "unsafe_non_drinking_water_percentage": 87.34
+  },
+  {
+    "location": "Minelon(Sub-Tsp)",
+    "unsafe_non_drinking_water": 4561,
+    "unsafe_non_drinking_water_percentage": 77.89
+  },
+  {
+    "location": "KUNLON",
+    "unsafe_non_drinking_water": 7215,
+    "unsafe_non_drinking_water_percentage": 69.43
+  },
+  {
+    "location": "Kunlon",
+    "unsafe_non_drinking_water": 7215,
+    "unsafe_non_drinking_water_percentage": 69.43
+  },
+  {
+    "location": "LAUKINE",
+    "unsafe_non_drinking_water": 11501,
+    "unsafe_non_drinking_water_percentage": 46.29
+  },
+  {
+    "location": "Laukine",
+    "unsafe_non_drinking_water": 7323,
+    "unsafe_non_drinking_water_percentage": 51.46
+  },
+  {
+    "location": "Kongyan",
+    "unsafe_non_drinking_water": 2905,
+    "unsafe_non_drinking_water_percentage": 53.19
+  },
+  {
+    "location": "Chinshwehaw(Sub-Tsp)",
+    "unsafe_non_drinking_water": 443,
+    "unsafe_non_drinking_water_percentage": 46.63
+  },
+  {
+    "location": "Mawhtike(Sub-Tsp)",
+    "unsafe_non_drinking_water": 830,
+    "unsafe_non_drinking_water_percentage": 19.75
+  },
+  {
+    "location": "HOPAN",
+    "unsafe_non_drinking_water": 11329,
+    "unsafe_non_drinking_water_percentage": 31.8
+  },
+  {
+    "location": "Hopan",
+    "unsafe_non_drinking_water": 3300,
+    "unsafe_non_drinking_water_percentage": 32.9
+  },
+  {
+    "location": "Minemaw",
+    "unsafe_non_drinking_water": 2048,
+    "unsafe_non_drinking_water_percentage": 19.61
+  },
+  {
+    "location": "Panwine",
+    "unsafe_non_drinking_water": 4796,
+    "unsafe_non_drinking_water_percentage": 34.33
+  },
+  {
+    "location": "Panlon(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1185,
+    "unsafe_non_drinking_water_percentage": 100
+  },
+  {
+    "location": "MAKMAN",
+    "unsafe_non_drinking_water": 11418,
+    "unsafe_non_drinking_water_percentage": 31.5
+  },
+  {
+    "location": "Makman",
+    "unsafe_non_drinking_water": 3317,
+    "unsafe_non_drinking_water_percentage": 99.97
+  },
+  {
+    "location": "PanSan(PanKham)",
+    "unsafe_non_drinking_water": 3234,
+    "unsafe_non_drinking_water_percentage": 20.03
+  },
+  {
+    "location": "Naphang",
+    "unsafe_non_drinking_water": 4614,
+    "unsafe_non_drinking_water_percentage": 28.01
+  },
+  {
+    "location": "ManKan(Sub-Tsp)",
+    "unsafe_non_drinking_water": 253,
+    "unsafe_non_drinking_water_percentage": 80.32
+  },
+  {
+    "location": "KENGTUNG",
+    "unsafe_non_drinking_water": 30598,
+    "unsafe_non_drinking_water_percentage": 45.85
+  },
+  {
+    "location": "Kengtung",
+    "unsafe_non_drinking_water": 15776,
+    "unsafe_non_drinking_water_percentage": 46.27
+  },
+  {
+    "location": "Minekat",
+    "unsafe_non_drinking_water": 4669,
+    "unsafe_non_drinking_water_percentage": 58.18
+  },
+  {
+    "location": "Mineyan",
+    "unsafe_non_drinking_water": 5993,
+    "unsafe_non_drinking_water_percentage": 59.23
+  },
+  {
+    "location": "Minelar",
+    "unsafe_non_drinking_water": 1383,
+    "unsafe_non_drinking_water_percentage": 26.56
+  },
+  {
+    "location": "MinePauk(Sub-Tsp)",
+    "unsafe_non_drinking_water": 2777,
+    "unsafe_non_drinking_water_percentage": 29.91
+  },
+  {
+    "location": "MINESAT",
+    "unsafe_non_drinking_water": 17770,
+    "unsafe_non_drinking_water_percentage": 39.55
+  },
+  {
+    "location": "Minesat",
+    "unsafe_non_drinking_water": 3534,
+    "unsafe_non_drinking_water_percentage": 22.21
+  },
+  {
+    "location": "Minepyin",
+    "unsafe_non_drinking_water": 5847,
+    "unsafe_non_drinking_water_percentage": 55.13
+  },
+  {
+    "location": "Minetung",
+    "unsafe_non_drinking_water": 1671,
+    "unsafe_non_drinking_water_percentage": 39.24
+  },
+  {
+    "location": "Minekoke(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1065,
+    "unsafe_non_drinking_water_percentage": 33.26
+  },
+  {
+    "location": "Tontar(Sub-Tsp)",
+    "unsafe_non_drinking_water": 2644,
+    "unsafe_non_drinking_water_percentage": 98.14
+  },
+  {
+    "location": "Ponparkyin(Sub-Tsp)",
+    "unsafe_non_drinking_water": 2483,
+    "unsafe_non_drinking_water_percentage": 33.86
+  },
+  {
+    "location": "Monehta(Sub-Tsp)",
+    "unsafe_non_drinking_water": 526,
+    "unsafe_non_drinking_water_percentage": 56.62
+  },
+  {
+    "location": "TACHILEIK",
+    "unsafe_non_drinking_water": 12635,
+    "unsafe_non_drinking_water_percentage": 33.54
+  },
+  {
+    "location": "Tachileik",
+    "unsafe_non_drinking_water": 9638,
+    "unsafe_non_drinking_water_percentage": 30.91
+  },
+  {
+    "location": "Talay(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1457,
+    "unsafe_non_drinking_water_percentage": 36.26
+  },
+  {
+    "location": "Kenglat(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1540,
+    "unsafe_non_drinking_water_percentage": 62.2
+  },
+  {
+    "location": "MINEPHYAT",
+    "unsafe_non_drinking_water": 7113,
+    "unsafe_non_drinking_water_percentage": 30.45
+  },
+  {
+    "location": "Minephyat",
+    "unsafe_non_drinking_water": 1077,
+    "unsafe_non_drinking_water_percentage": 17.47
+  },
+  {
+    "location": "Mineyaung",
+    "unsafe_non_drinking_water": 498,
+    "unsafe_non_drinking_water_percentage": 7.87
+  },
+  {
+    "location": "Mineyu(Sub-Tsp)",
+    "unsafe_non_drinking_water": 5538,
+    "unsafe_non_drinking_water_percentage": 50.96
+  },
+  {
+    "location": "DAWEI",
+    "unsafe_non_drinking_water": 48407,
+    "unsafe_non_drinking_water_percentage": 46.5
+  },
+  {
+    "location": "Dawei",
+    "unsafe_non_drinking_water": 8627,
+    "unsafe_non_drinking_water_percentage": 34.59
+  },
+  {
+    "location": "Lounglon",
+    "unsafe_non_drinking_water": 9920,
+    "unsafe_non_drinking_water_percentage": 38.55
+  },
+  {
+    "location": "Thayetchaung",
+    "unsafe_non_drinking_water": 11829,
+    "unsafe_non_drinking_water_percentage": 51.71
+  },
+  {
+    "location": "Yebyu",
+    "unsafe_non_drinking_water": 11601,
+    "unsafe_non_drinking_water_percentage": 52.56
+  },
+  {
+    "location": "Myitta(Sub-Tsp)",
+    "unsafe_non_drinking_water": 2737,
+    "unsafe_non_drinking_water_percentage": 65.32
+  },
+  {
+    "location": "Kaleinaung(Sub-Tsp)",
+    "unsafe_non_drinking_water": 3693,
+    "unsafe_non_drinking_water_percentage": 86.35
+  },
+  {
+    "location": "MYEIK",
+    "unsafe_non_drinking_water": 45044,
+    "unsafe_non_drinking_water_percentage": 33.89
+  },
+  {
+    "location": "Myeik",
+    "unsafe_non_drinking_water": 9327,
+    "unsafe_non_drinking_water_percentage": 17.16
+  },
+  {
+    "location": "Kyunsu",
+    "unsafe_non_drinking_water": 14168,
+    "unsafe_non_drinking_water_percentage": 42.95
+  },
+  {
+    "location": "Palaw",
+    "unsafe_non_drinking_water": 5969,
+    "unsafe_non_drinking_water_percentage": 32.22
+  },
+  {
+    "location": "Tanintharyi",
+    "unsafe_non_drinking_water": 12647,
+    "unsafe_non_drinking_water_percentage": 63.46
+  },
+  {
+    "location": "Palauk(Sub-Tsp)",
+    "unsafe_non_drinking_water": 2933,
+    "unsafe_non_drinking_water_percentage": 41.15
+  },
+  {
+    "location": "KAWTHOUNG",
+    "unsafe_non_drinking_water": 16452,
+    "unsafe_non_drinking_water_percentage": 35.7
+  },
+  {
+    "location": "Kawthoung",
+    "unsafe_non_drinking_water": 7748,
+    "unsafe_non_drinking_water_percentage": 30.41
+  },
+  {
+    "location": "Bokepyin",
+    "unsafe_non_drinking_water": 3300,
+    "unsafe_non_drinking_water_percentage": 37.18
+  },
+  {
+    "location": "Khamaukkyi(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1917,
+    "unsafe_non_drinking_water_percentage": 39.4
+  },
+  {
+    "location": "Pyigyimandaing(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1838,
+    "unsafe_non_drinking_water_percentage": 59.21
+  },
+  {
+    "location": "Karathuri(Sub-Tsp)",
+    "unsafe_non_drinking_water": 1649,
+    "unsafe_non_drinking_water_percentage": 43.83
+  },
+  {
+    "location": "NORTHYANGON",
+    "unsafe_non_drinking_water": 62020,
+    "unsafe_non_drinking_water_percentage": 10.95
+  },
+  {
+    "location": "Insein",
+    "unsafe_non_drinking_water": 849,
+    "unsafe_non_drinking_water_percentage": 1.38
+  },
+  {
+    "location": "Mingaladon",
+    "unsafe_non_drinking_water": 6134,
+    "unsafe_non_drinking_water_percentage": 9.25
+  },
+  {
+    "location": "Hmawby",
+    "unsafe_non_drinking_water": 5299,
+    "unsafe_non_drinking_water_percentage": 9.38
+  },
+  {
+    "location": "Hlegu",
+    "unsafe_non_drinking_water": 20255,
+    "unsafe_non_drinking_water_percentage": 34.91
+  },
+  {
+    "location": "Taikkyi",
+    "unsafe_non_drinking_water": 10385,
+    "unsafe_non_drinking_water_percentage": 15.5
+  },
+  {
+    "location": "Htantabin",
+    "unsafe_non_drinking_water": 11240,
+    "unsafe_non_drinking_water_percentage": 32.85
+  },
+  {
+    "location": "Shwepyitha",
+    "unsafe_non_drinking_water": 1851,
+    "unsafe_non_drinking_water_percentage": 2.51
+  },
+  {
+    "location": "Hlinethaya",
+    "unsafe_non_drinking_water": 6007,
+    "unsafe_non_drinking_water_percentage": 4.04
+  },
+  {
+    "location": "EASTYANGON",
+    "unsafe_non_drinking_water": 20308,
+    "unsafe_non_drinking_water_percentage": 4.17
+  },
+  {
+    "location": "Thingangyun",
+    "unsafe_non_drinking_water": 333,
+    "unsafe_non_drinking_water_percentage": 0.77
+  },
+  {
+    "location": "Yankin",
+    "unsafe_non_drinking_water": 131,
+    "unsafe_non_drinking_water_percentage": 0.89
+  },
+  {
+    "location": "SouthOkkalapa",
+    "unsafe_non_drinking_water": 60,
+    "unsafe_non_drinking_water_percentage": 0.18
+  },
+  {
+    "location": "NorthOkkalapa",
+    "unsafe_non_drinking_water": 634,
+    "unsafe_non_drinking_water_percentage": 0.98
+  },
+  {
+    "location": "Thakayta",
+    "unsafe_non_drinking_water": 1503,
+    "unsafe_non_drinking_water_percentage": 3.31
+  },
+  {
+    "location": "Dawbon",
+    "unsafe_non_drinking_water": 629,
+    "unsafe_non_drinking_water_percentage": 4.37
+  },
+  {
+    "location": "Tamway",
+    "unsafe_non_drinking_water": 26,
+    "unsafe_non_drinking_water_percentage": 0.07
+  },
+  {
+    "location": "Pazuntaung",
+    "unsafe_non_drinking_water": 33,
+    "unsafe_non_drinking_water_percentage": 0.32
+  },
+  {
+    "location": "Botahtaung",
+    "unsafe_non_drinking_water": 20,
+    "unsafe_non_drinking_water_percentage": 0.24
+  },
+  {
+    "location": "DagonMyothit(South)",
+    "unsafe_non_drinking_water": 7423,
+    "unsafe_non_drinking_water_percentage": 9.64
+  },
+  {
+    "location": "DagonMyothit(North)",
+    "unsafe_non_drinking_water": 1006,
+    "unsafe_non_drinking_water_percentage": 2.36
+  },
+  {
+    "location": "DagonMyothit(East)",
+    "unsafe_non_drinking_water": 4351,
+    "unsafe_non_drinking_water_percentage": 12.83
+  },
+  {
+    "location": "DagonMyothit(Seikkan)",
+    "unsafe_non_drinking_water": 4091,
+    "unsafe_non_drinking_water_percentage": 10.79
+  },
+  {
+    "location": "MingalaTaungnyunt",
+    "unsafe_non_drinking_water": 68,
+    "unsafe_non_drinking_water_percentage": 0.26
+  },
+  {
+    "location": "SOUTHYANGON",
+    "unsafe_non_drinking_water": 228886,
+    "unsafe_non_drinking_water_percentage": 67.48
+  },
+  {
+    "location": "Thanlyin",
+    "unsafe_non_drinking_water": 19514,
+    "unsafe_non_drinking_water_percentage": 31.68
+  },
+  {
+    "location": "Kyauktan",
+    "unsafe_non_drinking_water": 24091,
+    "unsafe_non_drinking_water_percentage": 73.06
+  },
+  {
+    "location": "Thongwa",
+    "unsafe_non_drinking_water": 38210,
+    "unsafe_non_drinking_water_percentage": 95.32
+  },
+  {
+    "location": "Khayan",
+    "unsafe_non_drinking_water": 39003,
+    "unsafe_non_drinking_water_percentage": 99.21
+  },
+  {
+    "location": "Twantay",
+    "unsafe_non_drinking_water": 29348,
+    "unsafe_non_drinking_water_percentage": 56.87
+  },
+  {
+    "location": "Kawhmu",
+    "unsafe_non_drinking_water": 17636,
+    "unsafe_non_drinking_water_percentage": 59.2
+  },
+  {
+    "location": "Kungyangon",
+    "unsafe_non_drinking_water": 11210,
+    "unsafe_non_drinking_water_percentage": 39.54
+  },
+  {
+    "location": "Dala",
+    "unsafe_non_drinking_water": 32703,
+    "unsafe_non_drinking_water_percentage": 86.26
+  },
+  {
+    "location": "Seikkyi/Khanaungto",
+    "unsafe_non_drinking_water": 7661,
+    "unsafe_non_drinking_water_percentage": 99.12
+  },
+  {
+    "location": "Cocogyun",
+    "unsafe_non_drinking_water": 112,
+    "unsafe_non_drinking_water_percentage": 31.91
+  },
+  {
+    "location": "Tada(Sub-Tsp)",
+    "unsafe_non_drinking_water": 9398,
+    "unsafe_non_drinking_water_percentage": 99
+  },
+  {
+    "location": "WESTYANGON",
+    "unsafe_non_drinking_water": 4980,
+    "unsafe_non_drinking_water_percentage": 2.61
+  },
+  {
+    "location": "Kyauktada",
+    "unsafe_non_drinking_water": 1,
+    "unsafe_non_drinking_water_percentage": 0.02
+  },
+  {
+    "location": "Pabedan",
+    "unsafe_non_drinking_water": 2,
+    "unsafe_non_drinking_water_percentage": 0.03
+  },
+  {
+    "location": "Lanmadaw",
+    "unsafe_non_drinking_water": 1,
+    "unsafe_non_drinking_water_percentage": 0.01
+  },
+  {
+    "location": "Latha",
+    "unsafe_non_drinking_water": 0,
+    "unsafe_non_drinking_water_percentage": 0
+  },
+  {
+    "location": "Ahlon",
+    "unsafe_non_drinking_water": 19,
+    "unsafe_non_drinking_water_percentage": 0.17
+  },
+  {
+    "location": "Kyimyindine",
+    "unsafe_non_drinking_water": 4498,
+    "unsafe_non_drinking_water_percentage": 19.5
+  },
+  {
+    "location": "Sangyoung",
+    "unsafe_non_drinking_water": 55,
+    "unsafe_non_drinking_water_percentage": 0.27
+  },
+  {
+    "location": "Hline",
+    "unsafe_non_drinking_water": 96,
+    "unsafe_non_drinking_water_percentage": 0.29
+  },
+  {
+    "location": "Kamayut",
+    "unsafe_non_drinking_water": 19,
+    "unsafe_non_drinking_water_percentage": 0.12
+  },
+  {
+    "location": "Mayangon",
+    "unsafe_non_drinking_water": 253,
+    "unsafe_non_drinking_water_percentage": 0.65
+  },
+  {
+    "location": "Dagon",
+    "unsafe_non_drinking_water": 1,
+    "unsafe_non_drinking_water_percentage": 0.02
+  },
+  {
+    "location": "Bahan",
+    "unsafe_non_drinking_water": 34,
+    "unsafe_non_drinking_water_percentage": 0.2
+  },
+  {
+    "location": "Seikkan",
+    "unsafe_non_drinking_water": 1,
+    "unsafe_non_drinking_water_percentage": 0.24
+  }
+]

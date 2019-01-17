@@ -1,0 +1,2924 @@
+[
+  {
+    "total": 394147,
+    "location": "PATHEIN",
+    "unsafe_sanitation": 83783,
+    "unsafe_sanitation_percentage": 21.26
+  },
+  {
+    "total": 42966,
+    "location": "Kangyidaunt",
+    "unsafe_sanitation": 6959,
+    "unsafe_sanitation_percentage": 16.2
+  },
+  {
+    "total": 41402,
+    "location": "Kyaungon",
+    "unsafe_sanitation": 3017,
+    "unsafe_sanitation_percentage": 7.29
+  },
+  {
+    "total": 59488,
+    "location": "Kyonpyaw",
+    "unsafe_sanitation": 1660,
+    "unsafe_sanitation_percentage": 2.79
+  },
+  {
+    "total": 37376,
+    "location": "Ngaputaw",
+    "unsafe_sanitation": 18816,
+    "unsafe_sanitation_percentage": 50.34
+  },
+  {
+    "total": 66036,
+    "location": "Pathein",
+    "unsafe_sanitation": 6086,
+    "unsafe_sanitation_percentage": 9.22
+  },
+  {
+    "total": 27802,
+    "location": "Yekyi",
+    "unsafe_sanitation": 1969,
+    "unsafe_sanitation_percentage": 7.08
+  },
+  {
+    "total": 37237,
+    "location": "Thapaung",
+    "unsafe_sanitation": 13054,
+    "unsafe_sanitation_percentage": 35.06
+  },
+  {
+    "total": 10201,
+    "location": "Ngayokaung",
+    "unsafe_sanitation": 6177,
+    "unsafe_sanitation_percentage": 60.55
+  },
+  {
+    "total": 29075,
+    "location": "Hainggyikyun",
+    "unsafe_sanitation": 12746,
+    "unsafe_sanitation_percentage": 43.84
+  },
+  {
+    "total": 10181,
+    "location": "Shwethaungyan",
+    "unsafe_sanitation": 3446,
+    "unsafe_sanitation_percentage": 33.85
+  },
+  {
+    "total": 9470,
+    "location": "Ngwehsaung",
+    "unsafe_sanitation": 2422,
+    "unsafe_sanitation_percentage": 25.58
+  },
+  {
+    "total": 22913,
+    "location": "Ngathaingchaung",
+    "unsafe_sanitation": 7431,
+    "unsafe_sanitation_percentage": 32.43
+  },
+  {
+    "total": 237761,
+    "location": "PHYAPON",
+    "unsafe_sanitation": 79036,
+    "unsafe_sanitation_percentage": 33.24
+  },
+  {
+    "total": 43748,
+    "location": "Kyaiklatt",
+    "unsafe_sanitation": 5330,
+    "unsafe_sanitation_percentage": 12.18
+  },
+  {
+    "total": 48610,
+    "location": "Daydaye",
+    "unsafe_sanitation": 12296,
+    "unsafe_sanitation_percentage": 25.3
+  },
+  {
+    "total": 41630,
+    "location": "Phyapon",
+    "unsafe_sanitation": 14929,
+    "unsafe_sanitation_percentage": 35.86
+  },
+  {
+    "total": 75987,
+    "location": "Bogale",
+    "unsafe_sanitation": 26727,
+    "unsafe_sanitation_percentage": 35.17
+  },
+  {
+    "total": 27786,
+    "location": "Ahmar ",
+    "unsafe_sanitation": 19754,
+    "unsafe_sanitation_percentage": 71.09
+  },
+  {
+    "total": 228079,
+    "location": "MAUBIN",
+    "unsafe_sanitation": 24721,
+    "unsafe_sanitation_percentage": 10.84
+  },
+  {
+    "total": 51201,
+    "location": "Nyaungdon",
+    "unsafe_sanitation": 3953,
+    "unsafe_sanitation_percentage": 7.72
+  },
+  {
+    "total": 44797,
+    "location": "Danubyu",
+    "unsafe_sanitation": 3346,
+    "unsafe_sanitation_percentage": 7.47
+  },
+  {
+    "total": 60277,
+    "location": "Pantanaw",
+    "unsafe_sanitation": 8551,
+    "unsafe_sanitation_percentage": 14.19
+  },
+  {
+    "total": 71804,
+    "location": "Maubin",
+    "unsafe_sanitation": 8871,
+    "unsafe_sanitation_percentage": 12.35
+  },
+  {
+    "total": 180075,
+    "location": "MYAUNGMYA",
+    "unsafe_sanitation": 33646,
+    "unsafe_sanitation_percentage": 18.68
+  },
+  {
+    "total": 66172,
+    "location": "Myaungmya",
+    "unsafe_sanitation": 17566,
+    "unsafe_sanitation_percentage": 26.55
+  },
+  {
+    "total": 67448,
+    "location": "Wakema",
+    "unsafe_sanitation": 11146,
+    "unsafe_sanitation_percentage": 16.53
+  },
+  {
+    "total": 46455,
+    "location": "Einme",
+    "unsafe_sanitation": 4934,
+    "unsafe_sanitation_percentage": 10.62
+  },
+  {
+    "total": 150469,
+    "location": "LABUTTA",
+    "unsafe_sanitation": 44263,
+    "unsafe_sanitation_percentage": 29.42
+  },
+  {
+    "total": 74886,
+    "location": "Mawlamyinegyun",
+    "unsafe_sanitation": 13848,
+    "unsafe_sanitation_percentage": 18.49
+  },
+  {
+    "total": 55146,
+    "location": "Labutta",
+    "unsafe_sanitation": 21726,
+    "unsafe_sanitation_percentage": 39.4
+  },
+  {
+    "total": 20437,
+    "location": "Pyinsalu",
+    "unsafe_sanitation": 8689,
+    "unsafe_sanitation_percentage": 42.52
+  },
+  {
+    "total": 298452,
+    "location": "HINTHADA",
+    "unsafe_sanitation": 30258,
+    "unsafe_sanitation_percentage": 10.14
+  },
+  {
+    "total": 26857,
+    "location": "Kyangin",
+    "unsafe_sanitation": 2418,
+    "unsafe_sanitation_percentage": 9
+  },
+  {
+    "total": 42073,
+    "location": "Zalun",
+    "unsafe_sanitation": 2771,
+    "unsafe_sanitation_percentage": 6.59
+  },
+  {
+    "total": 59920,
+    "location": "Myanaung",
+    "unsafe_sanitation": 6701,
+    "unsafe_sanitation_percentage": 11.18
+  },
+  {
+    "total": 26244,
+    "location": "Laymyethna",
+    "unsafe_sanitation": 3973,
+    "unsafe_sanitation_percentage": 15.14
+  },
+  {
+    "total": 86129,
+    "location": "Hinthada",
+    "unsafe_sanitation": 3293,
+    "unsafe_sanitation_percentage": 3.82
+  },
+  {
+    "total": 57229,
+    "location": "Ingapu",
+    "unsafe_sanitation": 11102,
+    "unsafe_sanitation_percentage": 19.4
+  },
+  {
+    "total": 19699,
+    "location": "HAKA",
+    "unsafe_sanitation": 809,
+    "unsafe_sanitation_percentage": 4.11
+  },
+  {
+    "total": 9917,
+    "location": "HaKa",
+    "unsafe_sanitation": 75,
+    "unsafe_sanitation_percentage": 0.76
+  },
+  {
+    "total": 9782,
+    "location": "Thantlang",
+    "unsafe_sanitation": 734,
+    "unsafe_sanitation_percentage": 7.5
+  },
+  {
+    "total": 29250,
+    "location": "FALAM",
+    "unsafe_sanitation": 1325,
+    "unsafe_sanitation_percentage": 4.53
+  },
+  {
+    "total": 8428,
+    "location": "Falam",
+    "unsafe_sanitation": 266,
+    "unsafe_sanitation_percentage": 3.16
+  },
+  {
+    "total": 14683,
+    "location": "Tedim",
+    "unsafe_sanitation": 361,
+    "unsafe_sanitation_percentage": 2.46
+  },
+  {
+    "total": 3411,
+    "location": "Tonzaung",
+    "unsafe_sanitation": 493,
+    "unsafe_sanitation_percentage": 14.45
+  },
+  {
+    "total": 1198,
+    "location": "Rihkhuadal(Sub-Tsp)",
+    "unsafe_sanitation": 25,
+    "unsafe_sanitation_percentage": 2.09
+  },
+  {
+    "total": 1530,
+    "location": "Cikha(Sub-Tsp)",
+    "unsafe_sanitation": 180,
+    "unsafe_sanitation_percentage": 11.76
+  },
+  {
+    "total": 42172,
+    "location": "MINDAT",
+    "unsafe_sanitation": 13835,
+    "unsafe_sanitation_percentage": 32.81
+  },
+  {
+    "total": 8522,
+    "location": "Mindat",
+    "unsafe_sanitation": 365,
+    "unsafe_sanitation_percentage": 4.28
+  },
+  {
+    "total": 7636,
+    "location": "Matupi",
+    "unsafe_sanitation": 509,
+    "unsafe_sanitation_percentage": 6.67
+  },
+  {
+    "total": 3977,
+    "location": "Kanpalet",
+    "unsafe_sanitation": 957,
+    "unsafe_sanitation_percentage": 24.06
+  },
+  {
+    "total": 13293,
+    "location": "Paletwa",
+    "unsafe_sanitation": 7742,
+    "unsafe_sanitation_percentage": 58.24
+  },
+  {
+    "total": 2521,
+    "location": "Reazu(Sub-Tsp)",
+    "unsafe_sanitation": 22,
+    "unsafe_sanitation_percentage": 0.87
+  },
+  {
+    "total": 6223,
+    "location": "Sami(Sub-Tsp)",
+    "unsafe_sanitation": 4240,
+    "unsafe_sanitation_percentage": 68.13
+  },
+  {
+    "total": 161457,
+    "location": "HPA-AN",
+    "unsafe_sanitation": 44202,
+    "unsafe_sanitation_percentage": 27.38
+  },
+  {
+    "total": 89197,
+    "location": "Hpa-an",
+    "unsafe_sanitation": 18818,
+    "unsafe_sanitation_percentage": 21.1
+  },
+  {
+    "total": 31586,
+    "location": "Hlaingbwe",
+    "unsafe_sanitation": 7985,
+    "unsafe_sanitation_percentage": 25.28
+  },
+  {
+    "total": 5809,
+    "location": "Thandaunggyi",
+    "unsafe_sanitation": 723,
+    "unsafe_sanitation_percentage": 12.45
+  },
+  {
+    "total": 17778,
+    "location": "Paingkyon(Sub-Tsp)",
+    "unsafe_sanitation": 9792,
+    "unsafe_sanitation_percentage": 55.08
+  },
+  {
+    "total": 3756,
+    "location": "ShanYwathit(Sub-Tsp)",
+    "unsafe_sanitation": 3090,
+    "unsafe_sanitation_percentage": 82.27
+  },
+  {
+    "total": 9926,
+    "location": "Leiktho(Sub-Tsp)",
+    "unsafe_sanitation": 2686,
+    "unsafe_sanitation_percentage": 27.06
+  },
+  {
+    "total": 3405,
+    "location": "Bawgali(Sub-Tsp)",
+    "unsafe_sanitation": 1108,
+    "unsafe_sanitation_percentage": 32.54
+  },
+  {
+    "total": 6502,
+    "location": "PHARPON",
+    "unsafe_sanitation": 1213,
+    "unsafe_sanitation_percentage": 18.66
+  },
+  {
+    "total": 2544,
+    "location": "Pharpon",
+    "unsafe_sanitation": 345,
+    "unsafe_sanitation_percentage": 13.56
+  },
+  {
+    "total": 3958,
+    "location": "Kamamaung(Sub-Tsp)",
+    "unsafe_sanitation": 868,
+    "unsafe_sanitation_percentage": 21.93
+  },
+  {
+    "total": 44016,
+    "location": "MYAWADY",
+    "unsafe_sanitation": 5931,
+    "unsafe_sanitation_percentage": 13.47
+  },
+  {
+    "total": 41258,
+    "location": "Myawady",
+    "unsafe_sanitation": 4993,
+    "unsafe_sanitation_percentage": 12.1
+  },
+  {
+    "total": 1061,
+    "location": "Sugali(Sub-Tsp)",
+    "unsafe_sanitation": 459,
+    "unsafe_sanitation_percentage": 43.26
+  },
+  {
+    "total": 1697,
+    "location": "Wawlaymyaing(Sub-Tsp)",
+    "unsafe_sanitation": 479,
+    "unsafe_sanitation_percentage": 28.23
+  },
+  {
+    "total": 96066,
+    "location": "KAWKAREIK",
+    "unsafe_sanitation": 29479,
+    "unsafe_sanitation_percentage": 30.69
+  },
+  {
+    "total": 45498,
+    "location": "Kawkareik",
+    "unsafe_sanitation": 12133,
+    "unsafe_sanitation_percentage": 26.67
+  },
+  {
+    "total": 22040,
+    "location": "Kyarinseikkyi",
+    "unsafe_sanitation": 5970,
+    "unsafe_sanitation_percentage": 27.09
+  },
+  {
+    "total": 17795,
+    "location": "Payarthonezu(Sub-Tsp)",
+    "unsafe_sanitation": 4899,
+    "unsafe_sanitation_percentage": 27.53
+  },
+  {
+    "total": 10733,
+    "location": "Kyaidon(Sub-Tsp)",
+    "unsafe_sanitation": 6477,
+    "unsafe_sanitation_percentage": 60.35
+  },
+  {
+    "total": 124099,
+    "location": "OTTARA(NORTH)",
+    "unsafe_sanitation": 9894,
+    "unsafe_sanitation_percentage": 7.97
+  },
+  {
+    "total": 51747,
+    "location": "Tatkon",
+    "unsafe_sanitation": 5123,
+    "unsafe_sanitation_percentage": 9.9
+  },
+  {
+    "total": 26075,
+    "location": "Zeyarthiri",
+    "unsafe_sanitation": 1062,
+    "unsafe_sanitation_percentage": 4.07
+  },
+  {
+    "total": 18661,
+    "location": "Ottarathiri",
+    "unsafe_sanitation": 1577,
+    "unsafe_sanitation_percentage": 8.45
+  },
+  {
+    "total": 27616,
+    "location": "Pobbathiri",
+    "unsafe_sanitation": 2132,
+    "unsafe_sanitation_percentage": 7.72
+  },
+  {
+    "total": 138154,
+    "location": "DEKKHINA(SOUTH)",
+    "unsafe_sanitation": 11796,
+    "unsafe_sanitation_percentage": 8.54
+  },
+  {
+    "total": 39663,
+    "location": "Pyinmana",
+    "unsafe_sanitation": 2375,
+    "unsafe_sanitation_percentage": 5.99
+  },
+  {
+    "total": 65174,
+    "location": "Lewe",
+    "unsafe_sanitation": 8477,
+    "unsafe_sanitation_percentage": 13.01
+  },
+  {
+    "total": 26320,
+    "location": "Zabuthiri",
+    "unsafe_sanitation": 600,
+    "unsafe_sanitation_percentage": 2.28
+  },
+  {
+    "total": 6997,
+    "location": "Dekkhinathiri",
+    "unsafe_sanitation": 344,
+    "unsafe_sanitation_percentage": 4.92
+  },
+  {
+    "total": 324477,
+    "location": "MAWLAMYINE",
+    "unsafe_sanitation": 25779,
+    "unsafe_sanitation_percentage": 7.94
+  },
+  {
+    "total": 49731,
+    "location": "Mawlamyine",
+    "unsafe_sanitation": 2111,
+    "unsafe_sanitation_percentage": 4.24
+  },
+  {
+    "total": 33281,
+    "location": "Kyaikemaraw",
+    "unsafe_sanitation": 648,
+    "unsafe_sanitation_percentage": 1.95
+  },
+  {
+    "total": 41927,
+    "location": "Chaungzon",
+    "unsafe_sanitation": 2028,
+    "unsafe_sanitation_percentage": 4.84
+  },
+  {
+    "total": 53047,
+    "location": "Thanbyuzayat",
+    "unsafe_sanitation": 2005,
+    "unsafe_sanitation_percentage": 3.78
+  },
+  {
+    "total": 43875,
+    "location": "Mudon",
+    "unsafe_sanitation": 1987,
+    "unsafe_sanitation_percentage": 4.53
+  },
+  {
+    "total": 49626,
+    "location": "Ye",
+    "unsafe_sanitation": 7118,
+    "unsafe_sanitation_percentage": 14.34
+  },
+  {
+    "total": 52990,
+    "location": "Lamine(Sub-Tsp)",
+    "unsafe_sanitation": 9882,
+    "unsafe_sanitation_percentage": 18.65
+  },
+  {
+    "total": 214948,
+    "location": "Khawzar(Sub-Tsp)",
+    "unsafe_sanitation": 29899,
+    "unsafe_sanitation_percentage": 13.91
+  },
+  {
+    "total": 53382,
+    "location": "THATON",
+    "unsafe_sanitation": 1433,
+    "unsafe_sanitation_percentage": 2.68
+  },
+  {
+    "total": 58645,
+    "location": "Thaton",
+    "unsafe_sanitation": 13325,
+    "unsafe_sanitation_percentage": 22.72
+  },
+  {
+    "total": 34533,
+    "location": "Paung",
+    "unsafe_sanitation": 5708,
+    "unsafe_sanitation_percentage": 16.53
+  },
+  {
+    "total": 35247,
+    "location": "Kyaikto",
+    "unsafe_sanitation": 1065,
+    "unsafe_sanitation_percentage": 3.02
+  },
+  {
+    "total": 25749,
+    "location": "Bilin",
+    "unsafe_sanitation": 5676,
+    "unsafe_sanitation_percentage": 22.04
+  },
+  {
+    "total": 109256,
+    "location": "SITTWAY",
+    "unsafe_sanitation": 77620,
+    "unsafe_sanitation_percentage": 71.04
+  },
+  {
+    "total": 29036,
+    "location": "Sittway",
+    "unsafe_sanitation": 8457,
+    "unsafe_sanitation_percentage": 29.13
+  },
+  {
+    "total": 25335,
+    "location": "Ponnagyun",
+    "unsafe_sanitation": 21756,
+    "unsafe_sanitation_percentage": 85.87
+  },
+  {
+    "total": 30544,
+    "location": "Pauktaw",
+    "unsafe_sanitation": 26973,
+    "unsafe_sanitation_percentage": 88.31
+  },
+  {
+    "total": 24341,
+    "location": "Yathedaung",
+    "unsafe_sanitation": 20434,
+    "unsafe_sanitation_percentage": 83.95
+  },
+  {
+    "total": 145987,
+    "location": "MYAUKU",
+    "unsafe_sanitation": 117318,
+    "unsafe_sanitation_percentage": 80.36
+  },
+  {
+    "total": 41525,
+    "location": "MyaukU",
+    "unsafe_sanitation": 32652,
+    "unsafe_sanitation_percentage": 78.63
+  },
+  {
+    "total": 36495,
+    "location": "Kyauktaw",
+    "unsafe_sanitation": 28139,
+    "unsafe_sanitation_percentage": 77.1
+  },
+  {
+    "total": 36628,
+    "location": "Minbya",
+    "unsafe_sanitation": 30408,
+    "unsafe_sanitation_percentage": 83.02
+  },
+  {
+    "total": 31339,
+    "location": "Myebon",
+    "unsafe_sanitation": 26119,
+    "unsafe_sanitation_percentage": 83.34
+  },
+  {
+    "total": 19160,
+    "location": "MAUNGTAW",
+    "unsafe_sanitation": 9574,
+    "unsafe_sanitation_percentage": 49.97
+  },
+  {
+    "total": 7390,
+    "location": "Maungtaw",
+    "unsafe_sanitation": 2415,
+    "unsafe_sanitation_percentage": 32.68
+  },
+  {
+    "total": 11264,
+    "location": "Buthidaung",
+    "unsafe_sanitation": 6848,
+    "unsafe_sanitation_percentage": 60.8
+  },
+  {
+    "total": 506,
+    "location": "Taungpyoletwe(Sub-TSP)",
+    "unsafe_sanitation": 311,
+    "unsafe_sanitation_percentage": 61.46
+  },
+  {
+    "total": 101776,
+    "location": "KYAUKPYU",
+    "unsafe_sanitation": 69945,
+    "unsafe_sanitation_percentage": 68.72
+  },
+  {
+    "total": 37264,
+    "location": "Kyaukpyu",
+    "unsafe_sanitation": 26447,
+    "unsafe_sanitation_percentage": 70.97
+  },
+  {
+    "total": 14735,
+    "location": "Mannaung",
+    "unsafe_sanitation": 10114,
+    "unsafe_sanitation_percentage": 68.64
+  },
+  {
+    "total": 22418,
+    "location": "Yanbye",
+    "unsafe_sanitation": 17560,
+    "unsafe_sanitation_percentage": 78.33
+  },
+  {
+    "total": 27359,
+    "location": "An",
+    "unsafe_sanitation": 15824,
+    "unsafe_sanitation_percentage": 57.84
+  },
+  {
+    "total": 83593,
+    "location": "THANDWE",
+    "unsafe_sanitation": 32431,
+    "unsafe_sanitation_percentage": 38.8
+  },
+  {
+    "total": 31075,
+    "location": "Thandwe",
+    "unsafe_sanitation": 8536,
+    "unsafe_sanitation_percentage": 27.47
+  },
+  {
+    "total": 25239,
+    "location": "Taungup",
+    "unsafe_sanitation": 11193,
+    "unsafe_sanitation_percentage": 44.35
+  },
+  {
+    "total": 11245,
+    "location": "Gwa",
+    "unsafe_sanitation": 4757,
+    "unsafe_sanitation_percentage": 42.3
+  },
+  {
+    "total": 9953,
+    "location": "Maei(Sub-Tsp)",
+    "unsafe_sanitation": 6236,
+    "unsafe_sanitation_percentage": 62.65
+  },
+  {
+    "total": 6081,
+    "location": "Kyeintali(Sub-Tsp)",
+    "unsafe_sanitation": 1709,
+    "unsafe_sanitation_percentage": 28.1
+  },
+  {
+    "total": 49158,
+    "location": "LOIKAW",
+    "unsafe_sanitation": 3181,
+    "unsafe_sanitation_percentage": 6.47
+  },
+  {
+    "total": 26495,
+    "location": "Loikaw",
+    "unsafe_sanitation": 643,
+    "unsafe_sanitation_percentage": 2.43
+  },
+  {
+    "total": 15347,
+    "location": "Dimawso",
+    "unsafe_sanitation": 862,
+    "unsafe_sanitation_percentage": 5.62
+  },
+  {
+    "total": 5910,
+    "location": "Phruso",
+    "unsafe_sanitation": 1447,
+    "unsafe_sanitation_percentage": 24.48
+  },
+  {
+    "total": 1406,
+    "location": "Shardaw",
+    "unsafe_sanitation": 229,
+    "unsafe_sanitation_percentage": 16.29
+  },
+  {
+    "total": 8116,
+    "location": "BAWLAKHE",
+    "unsafe_sanitation": 1421,
+    "unsafe_sanitation_percentage": 17.51
+  },
+  {
+    "total": 1589,
+    "location": "Bawlakhe",
+    "unsafe_sanitation": 58,
+    "unsafe_sanitation_percentage": 3.65
+  },
+  {
+    "total": 4733,
+    "location": "Parsaung",
+    "unsafe_sanitation": 1178,
+    "unsafe_sanitation_percentage": 24.89
+  },
+  {
+    "total": 1302,
+    "location": "Meisi",
+    "unsafe_sanitation": 152,
+    "unsafe_sanitation_percentage": 11.67
+  },
+  {
+    "total": 492,
+    "location": "Ywathit(Sub-Tsp)",
+    "unsafe_sanitation": 33,
+    "unsafe_sanitation_percentage": 6.71
+  },
+  {
+    "total": 324477,
+    "location": "MANDALAY",
+    "unsafe_sanitation": 25779,
+    "unsafe_sanitation_percentage": 7.94
+  },
+  {
+    "total": 49731,
+    "location": "Aungmyetharzan",
+    "unsafe_sanitation": 2111,
+    "unsafe_sanitation_percentage": 4.24
+  },
+  {
+    "total": 33281,
+    "location": "Chanayetharzan",
+    "unsafe_sanitation": 648,
+    "unsafe_sanitation_percentage": 1.95
+  },
+  {
+    "total": 41927,
+    "location": "Mahaaungmye",
+    "unsafe_sanitation": 2028,
+    "unsafe_sanitation_percentage": 4.84
+  },
+  {
+    "total": 53047,
+    "location": "Chanmyatharzi",
+    "unsafe_sanitation": 2005,
+    "unsafe_sanitation_percentage": 3.78
+  },
+  {
+    "total": 43875,
+    "location": "Pyigyidagun",
+    "unsafe_sanitation": 1987,
+    "unsafe_sanitation_percentage": 4.53
+  },
+  {
+    "total": 49626,
+    "location": "Amarapura",
+    "unsafe_sanitation": 7118,
+    "unsafe_sanitation_percentage": 14.34
+  },
+  {
+    "total": 52990,
+    "location": "Patheingyi",
+    "unsafe_sanitation": 9882,
+    "unsafe_sanitation_percentage": 18.65
+  },
+  {
+    "total": 214948,
+    "location": "PYINOOLWIN",
+    "unsafe_sanitation": 29899,
+    "unsafe_sanitation_percentage": 13.91
+  },
+  {
+    "total": 53382,
+    "location": "PyinOoLwin",
+    "unsafe_sanitation": 1433,
+    "unsafe_sanitation_percentage": 2.68
+  },
+  {
+    "total": 58645,
+    "location": "Madaya",
+    "unsafe_sanitation": 13325,
+    "unsafe_sanitation_percentage": 22.72
+  },
+  {
+    "total": 34533,
+    "location": "Sinku",
+    "unsafe_sanitation": 5708,
+    "unsafe_sanitation_percentage": 16.53
+  },
+  {
+    "total": 35247,
+    "location": "Mogok",
+    "unsafe_sanitation": 1065,
+    "unsafe_sanitation_percentage": 3.02
+  },
+  {
+    "total": 25749,
+    "location": "Thabeikkyin",
+    "unsafe_sanitation": 5676,
+    "unsafe_sanitation_percentage": 22.04
+  },
+  {
+    "total": 7392,
+    "location": "Tagaung(Sub-Tsp)",
+    "unsafe_sanitation": 2692,
+    "unsafe_sanitation_percentage": 36.42
+  },
+  {
+    "total": 169988,
+    "location": "KYAUKSE",
+    "unsafe_sanitation": 28935,
+    "unsafe_sanitation_percentage": 17.02
+  },
+  {
+    "total": 57765,
+    "location": "Kyaukse",
+    "unsafe_sanitation": 8205,
+    "unsafe_sanitation_percentage": 14.2
+  },
+  {
+    "total": 33579,
+    "location": "Singaing",
+    "unsafe_sanitation": 4248,
+    "unsafe_sanitation_percentage": 12.65
+  },
+  {
+    "total": 46017,
+    "location": "Myitthar",
+    "unsafe_sanitation": 9910,
+    "unsafe_sanitation_percentage": 21.54
+  },
+  {
+    "total": 32627,
+    "location": "TadaU",
+    "unsafe_sanitation": 6572,
+    "unsafe_sanitation_percentage": 20.14
+  },
+  {
+    "total": 242956,
+    "location": "MYINGYAN",
+    "unsafe_sanitation": 68778,
+    "unsafe_sanitation_percentage": 28.31
+  },
+  {
+    "total": 62340,
+    "location": "Myingyan",
+    "unsafe_sanitation": 16922,
+    "unsafe_sanitation_percentage": 27.14
+  },
+  {
+    "total": 49852,
+    "location": "Taungtha",
+    "unsafe_sanitation": 21763,
+    "unsafe_sanitation_percentage": 43.66
+  },
+  {
+    "total": 40965,
+    "location": "Natogyi",
+    "unsafe_sanitation": 9068,
+    "unsafe_sanitation_percentage": 22.14
+  },
+  {
+    "total": 61961,
+    "location": "Kyaukpadaung",
+    "unsafe_sanitation": 10100,
+    "unsafe_sanitation_percentage": 16.3
+  },
+  {
+    "total": 27838,
+    "location": "Ngazun",
+    "unsafe_sanitation": 10925,
+    "unsafe_sanitation_percentage": 39.24
+  },
+  {
+    "total": 54473,
+    "location": "NYAUNGU",
+    "unsafe_sanitation": 18631,
+    "unsafe_sanitation_percentage": 34.2
+  },
+  {
+    "total": 44662,
+    "location": "NyaungU",
+    "unsafe_sanitation": 13592,
+    "unsafe_sanitation_percentage": 30.43
+  },
+  {
+    "total": 9811,
+    "location": "Ngathayauk(Sub-Tsp)",
+    "unsafe_sanitation": 5039,
+    "unsafe_sanitation_percentage": 51.36
+  },
+  {
+    "total": 116122,
+    "location": "YAME`THIN",
+    "unsafe_sanitation": 16356,
+    "unsafe_sanitation_percentage": 14.09
+  },
+  {
+    "total": 57259,
+    "location": "Yame`thin",
+    "unsafe_sanitation": 9315,
+    "unsafe_sanitation_percentage": 16.27
+  },
+  {
+    "total": 58863,
+    "location": "Pyawbwe",
+    "unsafe_sanitation": 7041,
+    "unsafe_sanitation_percentage": 11.96
+  },
+  {
+    "total": 200227,
+    "location": "MEIKTILA",
+    "unsafe_sanitation": 27052,
+    "unsafe_sanitation_percentage": 13.51
+  },
+  {
+    "total": 68439,
+    "location": "Meiktila",
+    "unsafe_sanitation": 6567,
+    "unsafe_sanitation_percentage": 9.6
+  },
+  {
+    "total": 33327,
+    "location": "Mahlaing",
+    "unsafe_sanitation": 4083,
+    "unsafe_sanitation_percentage": 12.25
+  },
+  {
+    "total": 44892,
+    "location": "Thazi",
+    "unsafe_sanitation": 6579,
+    "unsafe_sanitation_percentage": 14.66
+  },
+  {
+    "total": 53569,
+    "location": "Wundwin",
+    "unsafe_sanitation": 9823,
+    "unsafe_sanitation_percentage": 18.34
+  },
+  {
+    "total": 291432,
+    "location": "MAGWAY",
+    "unsafe_sanitation": 50862,
+    "unsafe_sanitation_percentage": 17.45
+  },
+  {
+    "total": 68677,
+    "location": "Magway",
+    "unsafe_sanitation": 10421,
+    "unsafe_sanitation_percentage": 15.17
+  },
+  {
+    "total": 32500,
+    "location": "Yenangyoung",
+    "unsafe_sanitation": 8757,
+    "unsafe_sanitation_percentage": 26.94
+  },
+  {
+    "total": 44618,
+    "location": "Chauk",
+    "unsafe_sanitation": 8418,
+    "unsafe_sanitation_percentage": 18.87
+  },
+  {
+    "total": 60263,
+    "location": "Taungdwingyi",
+    "unsafe_sanitation": 5972,
+    "unsafe_sanitation_percentage": 9.91
+  },
+  {
+    "total": 36948,
+    "location": "Myothit",
+    "unsafe_sanitation": 9158,
+    "unsafe_sanitation_percentage": 24.79
+  },
+  {
+    "total": 48426,
+    "location": "Natmauk",
+    "unsafe_sanitation": 8136,
+    "unsafe_sanitation_percentage": 16.8
+  },
+  {
+    "total": 162423,
+    "location": "MINBU",
+    "unsafe_sanitation": 25129,
+    "unsafe_sanitation_percentage": 15.47
+  },
+  {
+    "total": 43817,
+    "location": "Minbu",
+    "unsafe_sanitation": 5345,
+    "unsafe_sanitation_percentage": 12.2
+  },
+  {
+    "total": 39764,
+    "location": "PwintPhyu",
+    "unsafe_sanitation": 5918,
+    "unsafe_sanitation_percentage": 14.88
+  },
+  {
+    "total": 12457,
+    "location": "Ngape",
+    "unsafe_sanitation": 995,
+    "unsafe_sanitation_percentage": 7.99
+  },
+  {
+    "total": 55605,
+    "location": "Salin",
+    "unsafe_sanitation": 11922,
+    "unsafe_sanitation_percentage": 21.44
+  },
+  {
+    "total": 10780,
+    "location": "Saytottara",
+    "unsafe_sanitation": 949,
+    "unsafe_sanitation_percentage": 8.8
+  },
+  {
+    "total": 179839,
+    "location": "THAYET",
+    "unsafe_sanitation": 31967,
+    "unsafe_sanitation_percentage": 17.78
+  },
+  {
+    "total": 25972,
+    "location": "Thayet",
+    "unsafe_sanitation": 3788,
+    "unsafe_sanitation_percentage": 14.58
+  },
+  {
+    "total": 31622,
+    "location": "Minhla",
+    "unsafe_sanitation": 5439,
+    "unsafe_sanitation_percentage": 17.2
+  },
+  {
+    "total": 16809,
+    "location": "Mindon",
+    "unsafe_sanitation": 1567,
+    "unsafe_sanitation_percentage": 9.32
+  },
+  {
+    "total": 19143,
+    "location": "Kamma",
+    "unsafe_sanitation": 1874,
+    "unsafe_sanitation_percentage": 9.79
+  },
+  {
+    "total": 57609,
+    "location": "Aunglan",
+    "unsafe_sanitation": 13015,
+    "unsafe_sanitation_percentage": 22.59
+  },
+  {
+    "total": 28684,
+    "location": "Sinpaungwe`",
+    "unsafe_sanitation": 6284,
+    "unsafe_sanitation_percentage": 21.91
+  },
+  {
+    "total": 229705,
+    "location": "PAKOKKU",
+    "unsafe_sanitation": 63252,
+    "unsafe_sanitation_percentage": 27.54
+  },
+  {
+    "total": 66340,
+    "location": "PakokkU",
+    "unsafe_sanitation": 14086,
+    "unsafe_sanitation_percentage": 21.23
+  },
+  {
+    "total": 47332,
+    "location": "Yesagyo",
+    "unsafe_sanitation": 11947,
+    "unsafe_sanitation_percentage": 25.24
+  },
+  {
+    "total": 53641,
+    "location": "Myaing",
+    "unsafe_sanitation": 16802,
+    "unsafe_sanitation_percentage": 31.32
+  },
+  {
+    "total": 38965,
+    "location": "Pauk",
+    "unsafe_sanitation": 12172,
+    "unsafe_sanitation_percentage": 31.24
+  },
+  {
+    "total": 23427,
+    "location": "Seikphyu",
+    "unsafe_sanitation": 8245,
+    "unsafe_sanitation_percentage": 35.19
+  },
+  {
+    "total": 56378,
+    "location": "GANGAW",
+    "unsafe_sanitation": 1058,
+    "unsafe_sanitation_percentage": 1.88
+  },
+  {
+    "total": 29912,
+    "location": "Gangaw",
+    "unsafe_sanitation": 412,
+    "unsafe_sanitation_percentage": 1.38
+  },
+  {
+    "total": 10532,
+    "location": "Htilin",
+    "unsafe_sanitation": 42,
+    "unsafe_sanitation_percentage": 0.4
+  },
+  {
+    "total": 8325,
+    "location": "Saw",
+    "unsafe_sanitation": 391,
+    "unsafe_sanitation_percentage": 4.7
+  },
+  {
+    "total": 7609,
+    "location": "Kyaukhtu(Sub-Tsp)",
+    "unsafe_sanitation": 213,
+    "unsafe_sanitation_percentage": 2.8
+  },
+  {
+    "total": 386762,
+    "location": "BAGO",
+    "unsafe_sanitation": 89980,
+    "unsafe_sanitation_percentage": 23.26
+  },
+  {
+    "total": 107132,
+    "location": "Bago",
+    "unsafe_sanitation": 13799,
+    "unsafe_sanitation_percentage": 12.88
+  },
+  {
+    "total": 32527,
+    "location": "Tanatpin",
+    "unsafe_sanitation": 21978,
+    "unsafe_sanitation_percentage": 67.57
+  },
+  {
+    "total": 46075,
+    "location": "Kawa",
+    "unsafe_sanitation": 19843,
+    "unsafe_sanitation_percentage": 43.07
+  },
+  {
+    "total": 37083,
+    "location": "Waw",
+    "unsafe_sanitation": 13067,
+    "unsafe_sanitation_percentage": 35.24
+  },
+  {
+    "total": 44762,
+    "location": "Nyaunglebin",
+    "unsafe_sanitation": 5017,
+    "unsafe_sanitation_percentage": 11.21
+  },
+  {
+    "total": 51648,
+    "location": "Kyauktaga",
+    "unsafe_sanitation": 6082,
+    "unsafe_sanitation_percentage": 11.78
+  },
+  {
+    "total": 45753,
+    "location": "Daik U",
+    "unsafe_sanitation": 5277,
+    "unsafe_sanitation_percentage": 11.53
+  },
+  {
+    "total": 21782,
+    "location": "Shwegyin",
+    "unsafe_sanitation": 4917,
+    "unsafe_sanitation_percentage": 22.57
+  },
+  {
+    "total": 249452,
+    "location": "TOUNGOO",
+    "unsafe_sanitation": 44265,
+    "unsafe_sanitation_percentage": 17.74
+  },
+  {
+    "total": 57460,
+    "location": "Toungoo",
+    "unsafe_sanitation": 7546,
+    "unsafe_sanitation_percentage": 13.13
+  },
+  {
+    "total": 50527,
+    "location": "Yaedashe",
+    "unsafe_sanitation": 14622,
+    "unsafe_sanitation_percentage": 28.94
+  },
+  {
+    "total": 22883,
+    "location": "Kyaukkyi",
+    "unsafe_sanitation": 5931,
+    "unsafe_sanitation_percentage": 25.92
+  },
+  {
+    "total": 54931,
+    "location": "Pyu",
+    "unsafe_sanitation": 6006,
+    "unsafe_sanitation_percentage": 10.93
+  },
+  {
+    "total": 36870,
+    "location": "Oatwin",
+    "unsafe_sanitation": 6561,
+    "unsafe_sanitation_percentage": 17.79
+  },
+  {
+    "total": 26781,
+    "location": "Htantapin",
+    "unsafe_sanitation": 3599,
+    "unsafe_sanitation_percentage": 13.44
+  },
+  {
+    "total": 236010,
+    "location": "PYAY",
+    "unsafe_sanitation": 27885,
+    "unsafe_sanitation_percentage": 11.82
+  },
+  {
+    "total": 58557,
+    "location": "Pyay",
+    "unsafe_sanitation": 4342,
+    "unsafe_sanitation_percentage": 7.41
+  },
+  {
+    "total": 32347,
+    "location": "Paukkhaung",
+    "unsafe_sanitation": 7012,
+    "unsafe_sanitation_percentage": 21.68
+  },
+  {
+    "total": 38892,
+    "location": "Padaung",
+    "unsafe_sanitation": 3476,
+    "unsafe_sanitation_percentage": 8.94
+  },
+  {
+    "total": 36700,
+    "location": "Paunde",
+    "unsafe_sanitation": 4687,
+    "unsafe_sanitation_percentage": 12.77
+  },
+  {
+    "total": 35950,
+    "location": "Thegon",
+    "unsafe_sanitation": 3336,
+    "unsafe_sanitation_percentage": 9.28
+  },
+  {
+    "total": 33564,
+    "location": "Shwedaung",
+    "unsafe_sanitation": 5032,
+    "unsafe_sanitation_percentage": 14.99
+  },
+  {
+    "total": 270750,
+    "location": "THAYAWADY",
+    "unsafe_sanitation": 37474,
+    "unsafe_sanitation_percentage": 13.84
+  },
+  {
+    "total": 36626,
+    "location": "Thayawady",
+    "unsafe_sanitation": 5432,
+    "unsafe_sanitation_percentage": 14.83
+  },
+  {
+    "total": 43484,
+    "location": "Letpadan",
+    "unsafe_sanitation": 5081,
+    "unsafe_sanitation_percentage": 11.68
+  },
+  {
+    "total": 30894,
+    "location": "Minhla",
+    "unsafe_sanitation": 3693,
+    "unsafe_sanitation_percentage": 11.95
+  },
+  {
+    "total": 31894,
+    "location": "Okpo",
+    "unsafe_sanitation": 4987,
+    "unsafe_sanitation_percentage": 15.64
+  },
+  {
+    "total": 18210,
+    "location": "Zigon",
+    "unsafe_sanitation": 1866,
+    "unsafe_sanitation_percentage": 10.25
+  },
+  {
+    "total": 45769,
+    "location": "Nattalin",
+    "unsafe_sanitation": 4120,
+    "unsafe_sanitation_percentage": 9
+  },
+  {
+    "total": 33287,
+    "location": "Monyo",
+    "unsafe_sanitation": 7727,
+    "unsafe_sanitation_percentage": 23.21
+  },
+  {
+    "total": 30586,
+    "location": "Gyobingauk",
+    "unsafe_sanitation": 4568,
+    "unsafe_sanitation_percentage": 14.93
+  },
+  {
+    "total": 88643,
+    "location": "MYITKYINA",
+    "unsafe_sanitation": 3420,
+    "unsafe_sanitation_percentage": 3.86
+  },
+  {
+    "total": 50583,
+    "location": "Myitkyina",
+    "unsafe_sanitation": 479,
+    "unsafe_sanitation_percentage": 0.95
+  },
+  {
+    "total": 19780,
+    "location": "Waingmaw",
+    "unsafe_sanitation": 950,
+    "unsafe_sanitation_percentage": 4.8
+  },
+  {
+    "total": 285,
+    "location": "Ingyanyan",
+    "unsafe_sanitation": 39,
+    "unsafe_sanitation_percentage": 13.68
+  },
+  {
+    "total": 6398,
+    "location": "Tanaing",
+    "unsafe_sanitation": 87,
+    "unsafe_sanitation_percentage": 1.36
+  },
+  {
+    "total": 1931,
+    "location": "Chiphwe",
+    "unsafe_sanitation": 606,
+    "unsafe_sanitation_percentage": 31.38
+  },
+  {
+    "total": 1073,
+    "location": "Hsotlaw",
+    "unsafe_sanitation": 245,
+    "unsafe_sanitation_percentage": 22.83
+  },
+  {
+    "total": 2008,
+    "location": "Hsinbo(Sub-Tsp)",
+    "unsafe_sanitation": 101,
+    "unsafe_sanitation_percentage": 5.03
+  },
+  {
+    "total": 1610,
+    "location": "Hsadone(Sub-Tsp)",
+    "unsafe_sanitation": 122,
+    "unsafe_sanitation_percentage": 7.58
+  },
+  {
+    "total": 1470,
+    "location": "Kanpaikti(Sub-Tsp)",
+    "unsafe_sanitation": 308,
+    "unsafe_sanitation_percentage": 20.95
+  },
+  {
+    "total": 2130,
+    "location": "Shinbwayyan(Sub-Tsp)",
+    "unsafe_sanitation": 55,
+    "unsafe_sanitation_percentage": 2.58
+  },
+  {
+    "total": 1375,
+    "location": "Panwa(Sub-Tsp)",
+    "unsafe_sanitation": 428,
+    "unsafe_sanitation_percentage": 31.13
+  },
+  {
+    "total": 101152,
+    "location": "MOHNYIN",
+    "unsafe_sanitation": 1327,
+    "unsafe_sanitation_percentage": 1.31
+  },
+  {
+    "total": 30190,
+    "location": "Mohnyin",
+    "unsafe_sanitation": 310,
+    "unsafe_sanitation_percentage": 1.03
+  },
+  {
+    "total": 24898,
+    "location": "Mogaung",
+    "unsafe_sanitation": 171,
+    "unsafe_sanitation_percentage": 0.69
+  },
+  {
+    "total": 33134,
+    "location": "Phakant",
+    "unsafe_sanitation": 703,
+    "unsafe_sanitation_percentage": 2.12
+  },
+  {
+    "total": 9432,
+    "location": "Hopin(Sub-Tsp)",
+    "unsafe_sanitation": 52,
+    "unsafe_sanitation_percentage": 0.55
+  },
+  {
+    "total": 3498,
+    "location": "Kamine(Sub-Tsp)",
+    "unsafe_sanitation": 91,
+    "unsafe_sanitation_percentage": 2.6
+  },
+  {
+    "total": 63706,
+    "location": "BHAMO",
+    "unsafe_sanitation": 3421,
+    "unsafe_sanitation_percentage": 5.37
+  },
+  {
+    "total": 24161,
+    "location": "Bhamo",
+    "unsafe_sanitation": 677,
+    "unsafe_sanitation_percentage": 2.8
+  },
+  {
+    "total": 15828,
+    "location": "Shwegu",
+    "unsafe_sanitation": 1278,
+    "unsafe_sanitation_percentage": 8.07
+  },
+  {
+    "total": 8634,
+    "location": "Momauk",
+    "unsafe_sanitation": 544,
+    "unsafe_sanitation_percentage": 6.3
+  },
+  {
+    "total": 10554,
+    "location": "Mansi",
+    "unsafe_sanitation": 386,
+    "unsafe_sanitation_percentage": 3.66
+  },
+  {
+    "total": 793,
+    "location": "Myohla(Sub-Tsp)",
+    "unsafe_sanitation": 105,
+    "unsafe_sanitation_percentage": 13.24
+  },
+  {
+    "total": 1503,
+    "location": "Lwe`ge`(Sub-Tsp)",
+    "unsafe_sanitation": 26,
+    "unsafe_sanitation_percentage": 1.73
+  },
+  {
+    "total": 2233,
+    "location": "Dotphoneyan(Sub-Tsp)",
+    "unsafe_sanitation": 405,
+    "unsafe_sanitation_percentage": 18.14
+  },
+  {
+    "total": 15864,
+    "location": "PUTAO",
+    "unsafe_sanitation": 340,
+    "unsafe_sanitation_percentage": 2.14
+  },
+  {
+    "total": 10743,
+    "location": "Putao",
+    "unsafe_sanitation": 161,
+    "unsafe_sanitation_percentage": 1.5
+  },
+  {
+    "total": 479,
+    "location": "Sumprabum",
+    "unsafe_sanitation": 94,
+    "unsafe_sanitation_percentage": 19.62
+  },
+  {
+    "total": 1719,
+    "location": "Machanbaw",
+    "unsafe_sanitation": 24,
+    "unsafe_sanitation_percentage": 1.4
+  },
+  {
+    "total": 1711,
+    "location": "Khaunglanphoo",
+    "unsafe_sanitation": 48,
+    "unsafe_sanitation_percentage": 2.81
+  },
+  {
+    "total": 943,
+    "location": "Naungmoon",
+    "unsafe_sanitation": 8,
+    "unsafe_sanitation_percentage": 0.85
+  },
+  {
+    "total": 269,
+    "location": "Pannandin(Sub-Tsp)",
+    "unsafe_sanitation": 5,
+    "unsafe_sanitation_percentage": 1.86
+  },
+  {
+    "total": 566167,
+    "location": "NORTHYANGON",
+    "unsafe_sanitation": 28838,
+    "unsafe_sanitation_percentage": 5.09
+  },
+  {
+    "total": 61676,
+    "location": "Insein",
+    "unsafe_sanitation": 2803,
+    "unsafe_sanitation_percentage": 4.54
+  },
+  {
+    "total": 66303,
+    "location": "Mingaladon",
+    "unsafe_sanitation": 578,
+    "unsafe_sanitation_percentage": 0.87
+  },
+  {
+    "total": 56469,
+    "location": "Hmawby",
+    "unsafe_sanitation": 2908,
+    "unsafe_sanitation_percentage": 5.15
+  },
+  {
+    "total": 58023,
+    "location": "Hlegu",
+    "unsafe_sanitation": 4718,
+    "unsafe_sanitation_percentage": 8.13
+  },
+  {
+    "total": 66999,
+    "location": "Taikkyi",
+    "unsafe_sanitation": 6975,
+    "unsafe_sanitation_percentage": 10.41
+  },
+  {
+    "total": 34211,
+    "location": "Htantabin",
+    "unsafe_sanitation": 3969,
+    "unsafe_sanitation_percentage": 11.6
+  },
+  {
+    "total": 73775,
+    "location": "Shwepyitha",
+    "unsafe_sanitation": 1543,
+    "unsafe_sanitation_percentage": 2.09
+  },
+  {
+    "total": 148711,
+    "location": "Hlinethaya",
+    "unsafe_sanitation": 5344,
+    "unsafe_sanitation_percentage": 3.59
+  },
+  {
+    "total": 486790,
+    "location": "EASTYANGON",
+    "unsafe_sanitation": 6642,
+    "unsafe_sanitation_percentage": 1.36
+  },
+  {
+    "total": 43320,
+    "location": "Thingangyun",
+    "unsafe_sanitation": 362,
+    "unsafe_sanitation_percentage": 0.84
+  },
+  {
+    "total": 14637,
+    "location": "Yankin",
+    "unsafe_sanitation": 105,
+    "unsafe_sanitation_percentage": 0.72
+  },
+  {
+    "total": 32725,
+    "location": "SouthOkkalapa",
+    "unsafe_sanitation": 141,
+    "unsafe_sanitation_percentage": 0.43
+  },
+  {
+    "total": 64756,
+    "location": "NorthOkkalapa",
+    "unsafe_sanitation": 611,
+    "unsafe_sanitation_percentage": 0.94
+  },
+  {
+    "total": 45456,
+    "location": "Thakayta",
+    "unsafe_sanitation": 616,
+    "unsafe_sanitation_percentage": 1.36
+  },
+  {
+    "total": 14409,
+    "location": "Dawbon",
+    "unsafe_sanitation": 260,
+    "unsafe_sanitation_percentage": 1.8
+  },
+  {
+    "total": 35360,
+    "location": "Tamway",
+    "unsafe_sanitation": 41,
+    "unsafe_sanitation_percentage": 0.12
+  },
+  {
+    "total": 10306,
+    "location": "Pazuntaung",
+    "unsafe_sanitation": 23,
+    "unsafe_sanitation_percentage": 0.22
+  },
+  {
+    "total": 8397,
+    "location": "Botahtaung",
+    "unsafe_sanitation": 30,
+    "unsafe_sanitation_percentage": 0.36
+  },
+  {
+    "total": 76984,
+    "location": "DagonMyothit(South)",
+    "unsafe_sanitation": 1121,
+    "unsafe_sanitation_percentage": 1.46
+  },
+  {
+    "total": 42704,
+    "location": "DagonMyothit(North)",
+    "unsafe_sanitation": 360,
+    "unsafe_sanitation_percentage": 0.84
+  },
+  {
+    "total": 33913,
+    "location": "DagonMyothit(East)",
+    "unsafe_sanitation": 876,
+    "unsafe_sanitation_percentage": 2.58
+  },
+  {
+    "total": 37905,
+    "location": "DagonMyothit(Seikkan)",
+    "unsafe_sanitation": 1617,
+    "unsafe_sanitation_percentage": 4.27
+  },
+  {
+    "total": 25918,
+    "location": "MingalaTaungnyunt",
+    "unsafe_sanitation": 479,
+    "unsafe_sanitation_percentage": 1.85
+  },
+  {
+    "total": 339205,
+    "location": "SOUTHYANGON",
+    "unsafe_sanitation": 57043,
+    "unsafe_sanitation_percentage": 16.82
+  },
+  {
+    "total": 61597,
+    "location": "Thanlyin",
+    "unsafe_sanitation": 2833,
+    "unsafe_sanitation_percentage": 4.6
+  },
+  {
+    "total": 32976,
+    "location": "Kyauktan",
+    "unsafe_sanitation": 8552,
+    "unsafe_sanitation_percentage": 25.93
+  },
+  {
+    "total": 40087,
+    "location": "Thongwa",
+    "unsafe_sanitation": 11736,
+    "unsafe_sanitation_percentage": 29.28
+  },
+  {
+    "total": 39314,
+    "location": "Khayan",
+    "unsafe_sanitation": 1742,
+    "unsafe_sanitation_percentage": 4.43
+  },
+  {
+    "total": 51602,
+    "location": "Twantay",
+    "unsafe_sanitation": 9210,
+    "unsafe_sanitation_percentage": 17.85
+  },
+  {
+    "total": 29792,
+    "location": "Kawhmu",
+    "unsafe_sanitation": 7635,
+    "unsafe_sanitation_percentage": 25.63
+  },
+  {
+    "total": 28352,
+    "location": "Kungyangon",
+    "unsafe_sanitation": 4316,
+    "unsafe_sanitation_percentage": 15.22
+  },
+  {
+    "total": 37912,
+    "location": "Dala",
+    "unsafe_sanitation": 4880,
+    "unsafe_sanitation_percentage": 12.87
+  },
+  {
+    "total": 7729,
+    "location": "Seikkyi/Khanaungto",
+    "unsafe_sanitation": 997,
+    "unsafe_sanitation_percentage": 12.9
+  },
+  {
+    "total": 351,
+    "location": "Cocogyun",
+    "unsafe_sanitation": 26,
+    "unsafe_sanitation_percentage": 7.41
+  },
+  {
+    "total": 9493,
+    "location": "Tada(Sub-Tsp)",
+    "unsafe_sanitation": 5116,
+    "unsafe_sanitation_percentage": 53.89
+  },
+  {
+    "total": 190782,
+    "location": "WESTYANGON",
+    "unsafe_sanitation": 6310,
+    "unsafe_sanitation_percentage": 3.31
+  },
+  {
+    "total": 6120,
+    "location": "Kyauktada",
+    "unsafe_sanitation": 4,
+    "unsafe_sanitation_percentage": 0.07
+  },
+  {
+    "total": 6563,
+    "location": "Pabedan",
+    "unsafe_sanitation": 4,
+    "unsafe_sanitation_percentage": 0.06
+  },
+  {
+    "total": 8599,
+    "location": "Lanmadaw",
+    "unsafe_sanitation": 31,
+    "unsafe_sanitation_percentage": 0.36
+  },
+  {
+    "total": 4473,
+    "location": "Latha",
+    "unsafe_sanitation": 0,
+    "unsafe_sanitation_percentage": 0
+  },
+  {
+    "total": 10943,
+    "location": "Ahlon",
+    "unsafe_sanitation": 251,
+    "unsafe_sanitation_percentage": 2.29
+  },
+  {
+    "total": 23062,
+    "location": "Kyimyindine",
+    "unsafe_sanitation": 5336,
+    "unsafe_sanitation_percentage": 23.14
+  },
+  {
+    "total": 20635,
+    "location": "Sangyoung",
+    "unsafe_sanitation": 10,
+    "unsafe_sanitation_percentage": 0.05
+  },
+  {
+    "total": 32837,
+    "location": "Hline",
+    "unsafe_sanitation": 138,
+    "unsafe_sanitation_percentage": 0.42
+  },
+  {
+    "total": 16299,
+    "location": "Kamayut",
+    "unsafe_sanitation": 10,
+    "unsafe_sanitation_percentage": 0.06
+  },
+  {
+    "total": 38807,
+    "location": "Mayangon",
+    "unsafe_sanitation": 277,
+    "unsafe_sanitation_percentage": 0.71
+  },
+  {
+    "total": 4608,
+    "location": "Dagon",
+    "unsafe_sanitation": 15,
+    "unsafe_sanitation_percentage": 0.33
+  },
+  {
+    "total": 17426,
+    "location": "Bahan",
+    "unsafe_sanitation": 233,
+    "unsafe_sanitation_percentage": 1.34
+  },
+  {
+    "total": 410,
+    "location": "Seikkan",
+    "unsafe_sanitation": 1,
+    "unsafe_sanitation_percentage": 0.24
+  },
+  {
+    "total": 368509,
+    "location": "TAUNGGYI",
+    "unsafe_sanitation": 30915,
+    "unsafe_sanitation_percentage": 8.39
+  },
+  {
+    "total": 82604,
+    "location": "Taunggyi",
+    "unsafe_sanitation": 1378,
+    "unsafe_sanitation_percentage": 1.67
+  },
+  {
+    "total": 42634,
+    "location": "Nyaungshwe",
+    "unsafe_sanitation": 12337,
+    "unsafe_sanitation_percentage": 28.94
+  },
+  {
+    "total": 24728,
+    "location": "Hopon",
+    "unsafe_sanitation": 1390,
+    "unsafe_sanitation_percentage": 5.62
+  },
+  {
+    "total": 32771,
+    "location": "Hsihseng",
+    "unsafe_sanitation": 1925,
+    "unsafe_sanitation_percentage": 5.87
+  },
+  {
+    "total": 41341,
+    "location": "Kalaw",
+    "unsafe_sanitation": 2434,
+    "unsafe_sanitation_percentage": 5.89
+  },
+  {
+    "total": 17544,
+    "location": "Pindaya",
+    "unsafe_sanitation": 1858,
+    "unsafe_sanitation_percentage": 10.59
+  },
+  {
+    "total": 18348,
+    "location": "Ywarngan",
+    "unsafe_sanitation": 2070,
+    "unsafe_sanitation_percentage": 11.28
+  },
+  {
+    "total": 25957,
+    "location": "Yatsauk",
+    "unsafe_sanitation": 2164,
+    "unsafe_sanitation_percentage": 8.34
+  },
+  {
+    "total": 25504,
+    "location": "Pinlaung",
+    "unsafe_sanitation": 1537,
+    "unsafe_sanitation_percentage": 6.03
+  },
+  {
+    "total": 20084,
+    "location": "Phekon",
+    "unsafe_sanitation": 2023,
+    "unsafe_sanitation_percentage": 10.07
+  },
+  {
+    "total": 12265,
+    "location": "Kyauktalongyi(Sub-Tsp)",
+    "unsafe_sanitation": 209,
+    "unsafe_sanitation_percentage": 1.7
+  },
+  {
+    "total": 8150,
+    "location": "Indaw(Sub-Tsp)",
+    "unsafe_sanitation": 373,
+    "unsafe_sanitation_percentage": 4.58
+  },
+  {
+    "total": 16579,
+    "location": "Naungtayar(Sub-Tsp)",
+    "unsafe_sanitation": 1217,
+    "unsafe_sanitation_percentage": 7.34
+  },
+  {
+    "total": 115482,
+    "location": "LOILIN",
+    "unsafe_sanitation": 14562,
+    "unsafe_sanitation_percentage": 12.61
+  },
+  {
+    "total": 10901,
+    "location": "Loilin",
+    "unsafe_sanitation": 509,
+    "unsafe_sanitation_percentage": 4.67
+  },
+  {
+    "total": 8790,
+    "location": "Le`char",
+    "unsafe_sanitation": 710,
+    "unsafe_sanitation_percentage": 8.08
+  },
+  {
+    "total": 18863,
+    "location": "Nanhsam(South)",
+    "unsafe_sanitation": 2301,
+    "unsafe_sanitation_percentage": 12.2
+  },
+  {
+    "total": 4570,
+    "location": "Kunhing",
+    "unsafe_sanitation": 377,
+    "unsafe_sanitation_percentage": 8.25
+  },
+  {
+    "total": 8901,
+    "location": "Kehsi",
+    "unsafe_sanitation": 355,
+    "unsafe_sanitation_percentage": 3.99
+  },
+  {
+    "total": 16332,
+    "location": "Mongkai",
+    "unsafe_sanitation": 4965,
+    "unsafe_sanitation_percentage": 30.4
+  },
+  {
+    "total": 9201,
+    "location": "Mineshu",
+    "unsafe_sanitation": 740,
+    "unsafe_sanitation_percentage": 8.04
+  },
+  {
+    "total": 14516,
+    "location": "Panglong(Sub-Tsp)",
+    "unsafe_sanitation": 461,
+    "unsafe_sanitation_percentage": 3.18
+  },
+  {
+    "total": 4364,
+    "location": "Kholan(Sub-Tsp)",
+    "unsafe_sanitation": 524,
+    "unsafe_sanitation_percentage": 12.01
+  },
+  {
+    "total": 6567,
+    "location": "Karli(Sub-Tsp)",
+    "unsafe_sanitation": 1027,
+    "unsafe_sanitation_percentage": 15.64
+  },
+  {
+    "total": 5811,
+    "location": "Minenaung(Sub-Tsp)",
+    "unsafe_sanitation": 1493,
+    "unsafe_sanitation_percentage": 25.69
+  },
+  {
+    "total": 6666,
+    "location": "Minesan(Monsan)(Sub-Tsp)",
+    "unsafe_sanitation": 1100,
+    "unsafe_sanitation_percentage": 16.5
+  },
+  {
+    "total": 30648,
+    "location": "LINKHE`",
+    "unsafe_sanitation": 3048,
+    "unsafe_sanitation_percentage": 9.95
+  },
+  {
+    "total": 8388,
+    "location": "Linkhe`",
+    "unsafe_sanitation": 666,
+    "unsafe_sanitation_percentage": 7.94
+  },
+  {
+    "total": 6224,
+    "location": "Mone`",
+    "unsafe_sanitation": 772,
+    "unsafe_sanitation_percentage": 12.4
+  },
+  {
+    "total": 7194,
+    "location": "Maukme`",
+    "unsafe_sanitation": 746,
+    "unsafe_sanitation_percentage": 10.37
+  },
+  {
+    "total": 5421,
+    "location": "Minepan",
+    "unsafe_sanitation": 537,
+    "unsafe_sanitation_percentage": 9.91
+  },
+  {
+    "total": 1160,
+    "location": "Homane(Sub-Tsp)",
+    "unsafe_sanitation": 183,
+    "unsafe_sanitation_percentage": 15.78
+  },
+  {
+    "total": 2261,
+    "location": "Kengtaung(Sub-Tsp)",
+    "unsafe_sanitation": 144,
+    "unsafe_sanitation_percentage": 6.37
+  },
+  {
+    "total": 125181,
+    "location": "LASHIO",
+    "unsafe_sanitation": 13818,
+    "unsafe_sanitation_percentage": 11.04
+  },
+  {
+    "total": 64932,
+    "location": "Lashio",
+    "unsafe_sanitation": 3587,
+    "unsafe_sanitation_percentage": 5.52
+  },
+  {
+    "total": 11779,
+    "location": "Theinni",
+    "unsafe_sanitation": 541,
+    "unsafe_sanitation_percentage": 4.59
+  },
+  {
+    "total": 13328,
+    "location": "Mineye`",
+    "unsafe_sanitation": 2279,
+    "unsafe_sanitation_percentage": 17.1
+  },
+  {
+    "total": 35142,
+    "location": "Tantyan",
+    "unsafe_sanitation": 7411,
+    "unsafe_sanitation_percentage": 21.09
+  },
+  {
+    "total": 86255,
+    "location": "MUSE",
+    "unsafe_sanitation": 9135,
+    "unsafe_sanitation_percentage": 10.59
+  },
+  {
+    "total": 22214,
+    "location": "MuSe",
+    "unsafe_sanitation": 283,
+    "unsafe_sanitation_percentage": 1.27
+  },
+  {
+    "total": 21417,
+    "location": "Namkham",
+    "unsafe_sanitation": 2786,
+    "unsafe_sanitation_percentage": 13.01
+  },
+  {
+    "total": 19031,
+    "location": "Kukai",
+    "unsafe_sanitation": 2349,
+    "unsafe_sanitation_percentage": 12.34
+  },
+  {
+    "total": 4358,
+    "location": "Monekoe(Sub-Tsp)",
+    "unsafe_sanitation": 1722,
+    "unsafe_sanitation_percentage": 39.51
+  },
+  {
+    "total": 1643,
+    "location": "Manhero/ManKyo(Sub-Tsp)",
+    "unsafe_sanitation": 8,
+    "unsafe_sanitation_percentage": 0.49
+  },
+  {
+    "total": 4543,
+    "location": "Pansai(KyuKok)(Sub-Tsp)",
+    "unsafe_sanitation": 167,
+    "unsafe_sanitation_percentage": 3.68
+  },
+  {
+    "total": 13049,
+    "location": "Tamoenye(Sub-Tsp)",
+    "unsafe_sanitation": 1820,
+    "unsafe_sanitation_percentage": 13.95
+  },
+  {
+    "total": 163679,
+    "location": "KYAUKME",
+    "unsafe_sanitation": 11708,
+    "unsafe_sanitation_percentage": 7.15
+  },
+  {
+    "total": 28371,
+    "location": "Kyaukme",
+    "unsafe_sanitation": 1159,
+    "unsafe_sanitation_percentage": 4.09
+  },
+  {
+    "total": 32224,
+    "location": "NaungKhio",
+    "unsafe_sanitation": 3205,
+    "unsafe_sanitation_percentage": 9.95
+  },
+  {
+    "total": 37906,
+    "location": "Hsipaw",
+    "unsafe_sanitation": 1626,
+    "unsafe_sanitation_percentage": 4.29
+  },
+  {
+    "total": 11641,
+    "location": "Namtu",
+    "unsafe_sanitation": 1412,
+    "unsafe_sanitation_percentage": 12.13
+  },
+  {
+    "total": 13685,
+    "location": "Namsan(North)",
+    "unsafe_sanitation": 1077,
+    "unsafe_sanitation_percentage": 7.87
+  },
+  {
+    "total": 13652,
+    "location": "Momeik",
+    "unsafe_sanitation": 598,
+    "unsafe_sanitation_percentage": 4.38
+  },
+  {
+    "total": 8632,
+    "location": "Mabane",
+    "unsafe_sanitation": 465,
+    "unsafe_sanitation_percentage": 5.39
+  },
+  {
+    "total": 7683,
+    "location": "Manton",
+    "unsafe_sanitation": 1524,
+    "unsafe_sanitation_percentage": 19.84
+  },
+  {
+    "total": 4029,
+    "location": "Minengaw(Sub-Tsp)",
+    "unsafe_sanitation": 209,
+    "unsafe_sanitation_percentage": 5.19
+  },
+  {
+    "total": 5856,
+    "location": "Minelon(Sub-Tsp)",
+    "unsafe_sanitation": 433,
+    "unsafe_sanitation_percentage": 7.39
+  },
+  {
+    "total": 10392,
+    "location": "KUNLON",
+    "unsafe_sanitation": 3545,
+    "unsafe_sanitation_percentage": 34.11
+  },
+  {
+    "total": 10392,
+    "location": "Kunlon",
+    "unsafe_sanitation": 3545,
+    "unsafe_sanitation_percentage": 34.11
+  },
+  {
+    "total": 24846,
+    "location": "LAUKINE",
+    "unsafe_sanitation": 12556,
+    "unsafe_sanitation_percentage": 50.54
+  },
+  {
+    "total": 14231,
+    "location": "Laukine",
+    "unsafe_sanitation": 4821,
+    "unsafe_sanitation_percentage": 33.88
+  },
+  {
+    "total": 5462,
+    "location": "Kongyan",
+    "unsafe_sanitation": 4286,
+    "unsafe_sanitation_percentage": 78.47
+  },
+  {
+    "total": 950,
+    "location": "Chinshwehaw(Sub-Tsp)",
+    "unsafe_sanitation": 200,
+    "unsafe_sanitation_percentage": 21.05
+  },
+  {
+    "total": 4203,
+    "location": "Mawhtike(Sub-Tsp)",
+    "unsafe_sanitation": 3249,
+    "unsafe_sanitation_percentage": 77.3
+  },
+  {
+    "total": 35630,
+    "location": "HOPAN",
+    "unsafe_sanitation": 8173,
+    "unsafe_sanitation_percentage": 22.94
+  },
+  {
+    "total": 10031,
+    "location": "Hopan",
+    "unsafe_sanitation": 2381,
+    "unsafe_sanitation_percentage": 23.74
+  },
+  {
+    "total": 10445,
+    "location": "Minemaw",
+    "unsafe_sanitation": 1886,
+    "unsafe_sanitation_percentage": 18.06
+  },
+  {
+    "total": 13969,
+    "location": "Panwine",
+    "unsafe_sanitation": 3597,
+    "unsafe_sanitation_percentage": 25.75
+  },
+  {
+    "total": 1185,
+    "location": "Panlon(Sub-Tsp)",
+    "unsafe_sanitation": 309,
+    "unsafe_sanitation_percentage": 26.08
+  },
+  {
+    "total": 36249,
+    "location": "MAKMAN",
+    "unsafe_sanitation": 18128,
+    "unsafe_sanitation_percentage": 50.01
+  },
+  {
+    "total": 3318,
+    "location": "Makman",
+    "unsafe_sanitation": 2791,
+    "unsafe_sanitation_percentage": 84.12
+  },
+  {
+    "total": 16142,
+    "location": "PanSan(PanKham)",
+    "unsafe_sanitation": 7232,
+    "unsafe_sanitation_percentage": 44.8
+  },
+  {
+    "total": 16474,
+    "location": "Naphang",
+    "unsafe_sanitation": 7990,
+    "unsafe_sanitation_percentage": 48.5
+  },
+  {
+    "total": 315,
+    "location": "ManKan(Sub-Tsp)",
+    "unsafe_sanitation": 115,
+    "unsafe_sanitation_percentage": 36.51
+  },
+  {
+    "total": 66733,
+    "location": "KENGTUNG",
+    "unsafe_sanitation": 26146,
+    "unsafe_sanitation_percentage": 39.18
+  },
+  {
+    "total": 34096,
+    "location": "Kengtung",
+    "unsafe_sanitation": 9085,
+    "unsafe_sanitation_percentage": 26.65
+  },
+  {
+    "total": 8025,
+    "location": "Minekat",
+    "unsafe_sanitation": 6052,
+    "unsafe_sanitation_percentage": 75.41
+  },
+  {
+    "total": 10119,
+    "location": "Mineyan",
+    "unsafe_sanitation": 4869,
+    "unsafe_sanitation_percentage": 48.12
+  },
+  {
+    "total": 5208,
+    "location": "Minelar",
+    "unsafe_sanitation": 1552,
+    "unsafe_sanitation_percentage": 29.8
+  },
+  {
+    "total": 9285,
+    "location": "MinePauk(Sub-Tsp)",
+    "unsafe_sanitation": 4588,
+    "unsafe_sanitation_percentage": 49.41
+  },
+  {
+    "total": 44931,
+    "location": "MINESAT",
+    "unsafe_sanitation": 16514,
+    "unsafe_sanitation_percentage": 36.75
+  },
+  {
+    "total": 15909,
+    "location": "Minesat",
+    "unsafe_sanitation": 3599,
+    "unsafe_sanitation_percentage": 22.62
+  },
+  {
+    "total": 10605,
+    "location": "Minepyin",
+    "unsafe_sanitation": 6298,
+    "unsafe_sanitation_percentage": 59.39
+  },
+  {
+    "total": 4258,
+    "location": "Minetung",
+    "unsafe_sanitation": 1257,
+    "unsafe_sanitation_percentage": 29.52
+  },
+  {
+    "total": 3202,
+    "location": "Minekoke(Sub-Tsp)",
+    "unsafe_sanitation": 2484,
+    "unsafe_sanitation_percentage": 77.58
+  },
+  {
+    "total": 2694,
+    "location": "Tontar(Sub-Tsp)",
+    "unsafe_sanitation": 2107,
+    "unsafe_sanitation_percentage": 78.21
+  },
+  {
+    "total": 7334,
+    "location": "Ponparkyin(Sub-Tsp)",
+    "unsafe_sanitation": 625,
+    "unsafe_sanitation_percentage": 8.52
+  },
+  {
+    "total": 929,
+    "location": "Monehta(Sub-Tsp)",
+    "unsafe_sanitation": 144,
+    "unsafe_sanitation_percentage": 15.5
+  },
+  {
+    "total": 37673,
+    "location": "TACHILEIK",
+    "unsafe_sanitation": 3028,
+    "unsafe_sanitation_percentage": 8.04
+  },
+  {
+    "total": 31179,
+    "location": "Tachileik",
+    "unsafe_sanitation": 1853,
+    "unsafe_sanitation_percentage": 5.94
+  },
+  {
+    "total": 4018,
+    "location": "Talay(Sub-Tsp)",
+    "unsafe_sanitation": 625,
+    "unsafe_sanitation_percentage": 15.56
+  },
+  {
+    "total": 2476,
+    "location": "Kenglat(Sub-Tsp)",
+    "unsafe_sanitation": 550,
+    "unsafe_sanitation_percentage": 22.21
+  },
+  {
+    "total": 23361,
+    "location": "MINEPHYAT",
+    "unsafe_sanitation": 8555,
+    "unsafe_sanitation_percentage": 36.62
+  },
+  {
+    "total": 6165,
+    "location": "Minephyat",
+    "unsafe_sanitation": 2123,
+    "unsafe_sanitation_percentage": 34.44
+  },
+  {
+    "total": 6329,
+    "location": "Mineyaung",
+    "unsafe_sanitation": 698,
+    "unsafe_sanitation_percentage": 11.03
+  },
+  {
+    "total": 10867,
+    "location": "Mineyu(Sub-Tsp)",
+    "unsafe_sanitation": 5734,
+    "unsafe_sanitation_percentage": 52.77
+  },
+  {
+    "total": 104092,
+    "location": "DAWEI",
+    "unsafe_sanitation": 18221,
+    "unsafe_sanitation_percentage": 17.5
+  },
+  {
+    "total": 24943,
+    "location": "Dawei",
+    "unsafe_sanitation": 1578,
+    "unsafe_sanitation_percentage": 6.33
+  },
+  {
+    "total": 25735,
+    "location": "Lounglon",
+    "unsafe_sanitation": 6587,
+    "unsafe_sanitation_percentage": 25.6
+  },
+  {
+    "total": 22874,
+    "location": "Thayetchaung",
+    "unsafe_sanitation": 3437,
+    "unsafe_sanitation_percentage": 15.03
+  },
+  {
+    "total": 22073,
+    "location": "Yebyu",
+    "unsafe_sanitation": 5091,
+    "unsafe_sanitation_percentage": 23.06
+  },
+  {
+    "total": 4190,
+    "location": "Myitta(Sub-Tsp)",
+    "unsafe_sanitation": 799,
+    "unsafe_sanitation_percentage": 19.07
+  },
+  {
+    "total": 4277,
+    "location": "Kaleinaung(Sub-Tsp)",
+    "unsafe_sanitation": 729,
+    "unsafe_sanitation_percentage": 17.04
+  },
+  {
+    "total": 132919,
+    "location": "MYEIK",
+    "unsafe_sanitation": 38415,
+    "unsafe_sanitation_percentage": 28.9
+  },
+  {
+    "total": 54349,
+    "location": "Myeik",
+    "unsafe_sanitation": 7050,
+    "unsafe_sanitation_percentage": 12.97
+  },
+  {
+    "total": 32988,
+    "location": "Kyunsu",
+    "unsafe_sanitation": 21368,
+    "unsafe_sanitation_percentage": 64.78
+  },
+  {
+    "total": 18525,
+    "location": "Palaw",
+    "unsafe_sanitation": 4884,
+    "unsafe_sanitation_percentage": 26.36
+  },
+  {
+    "total": 19929,
+    "location": "Tanintharyi",
+    "unsafe_sanitation": 2986,
+    "unsafe_sanitation_percentage": 14.98
+  },
+  {
+    "total": 7128,
+    "location": "Palauk(Sub-Tsp)",
+    "unsafe_sanitation": 2127,
+    "unsafe_sanitation_percentage": 29.84
+  },
+  {
+    "total": 46088,
+    "location": "KAWTHOUNG",
+    "unsafe_sanitation": 14014,
+    "unsafe_sanitation_percentage": 30.41
+  },
+  {
+    "total": 25481,
+    "location": "Kawthoung",
+    "unsafe_sanitation": 4590,
+    "unsafe_sanitation_percentage": 18.01
+  },
+  {
+    "total": 8876,
+    "location": "Bokepyin",
+    "unsafe_sanitation": 4998,
+    "unsafe_sanitation_percentage": 56.31
+  },
+  {
+    "total": 4865,
+    "location": "Khamaukkyi(Sub-Tsp)",
+    "unsafe_sanitation": 842,
+    "unsafe_sanitation_percentage": 17.31
+  },
+  {
+    "total": 3104,
+    "location": "Pyigyimandaing(Sub-Tsp)",
+    "unsafe_sanitation": 1579,
+    "unsafe_sanitation_percentage": 50.87
+  },
+  {
+    "total": 3762,
+    "location": "Karathuri(Sub-Tsp)",
+    "unsafe_sanitation": 2005,
+    "unsafe_sanitation_percentage": 53.3
+  },
+  {
+    "total": 114709,
+    "location": "SAGAING",
+    "unsafe_sanitation": 26101,
+    "unsafe_sanitation_percentage": 22.75
+  },
+  {
+    "total": 65143,
+    "location": "Sagaing",
+    "unsafe_sanitation": 10439,
+    "unsafe_sanitation_percentage": 16.02
+  },
+  {
+    "total": 25304,
+    "location": "Myinmu",
+    "unsafe_sanitation": 7402,
+    "unsafe_sanitation_percentage": 29.25
+  },
+  {
+    "total": 24262,
+    "location": "Myaung",
+    "unsafe_sanitation": 8260,
+    "unsafe_sanitation_percentage": 34.05
+  },
+  {
+    "total": 311477,
+    "location": "SHWEBO",
+    "unsafe_sanitation": 63907,
+    "unsafe_sanitation_percentage": 20.52
+  },
+  {
+    "total": 50247,
+    "location": "Shwebo",
+    "unsafe_sanitation": 8979,
+    "unsafe_sanitation_percentage": 17.87
+  },
+  {
+    "total": 32624,
+    "location": "KhinU",
+    "unsafe_sanitation": 8073,
+    "unsafe_sanitation_percentage": 24.75
+  },
+  {
+    "total": 46712,
+    "location": "Wetlet",
+    "unsafe_sanitation": 15553,
+    "unsafe_sanitation_percentage": 33.3
+  },
+  {
+    "total": 61326,
+    "location": "Kambalu",
+    "unsafe_sanitation": 8658,
+    "unsafe_sanitation_percentage": 14.12
+  },
+  {
+    "total": 20863,
+    "location": "Kyunhla",
+    "unsafe_sanitation": 1487,
+    "unsafe_sanitation_percentage": 7.13
+  },
+  {
+    "total": 26373,
+    "location": "YeU",
+    "unsafe_sanitation": 3807,
+    "unsafe_sanitation_percentage": 14.44
+  },
+  {
+    "total": 30345,
+    "location": "Depayin",
+    "unsafe_sanitation": 10216,
+    "unsafe_sanitation_percentage": 33.67
+  },
+  {
+    "total": 35937,
+    "location": "Tasei",
+    "unsafe_sanitation": 4383,
+    "unsafe_sanitation_percentage": 12.2
+  },
+  {
+    "total": 7050,
+    "location": "Kyaukmyaung(Sub-Tsp)",
+    "unsafe_sanitation": 2751,
+    "unsafe_sanitation_percentage": 39.02
+  },
+  {
+    "total": 163545,
+    "location": "MONYWA",
+    "unsafe_sanitation": 33181,
+    "unsafe_sanitation_percentage": 20.29
+  },
+  {
+    "total": 75962,
+    "location": "Monywa",
+    "unsafe_sanitation": 10200,
+    "unsafe_sanitation_percentage": 13.43
+  },
+  {
+    "total": 28616,
+    "location": "Butalin",
+    "unsafe_sanitation": 8712,
+    "unsafe_sanitation_percentage": 30.44
+  },
+  {
+    "total": 35591,
+    "location": "Ayartaw",
+    "unsafe_sanitation": 9421,
+    "unsafe_sanitation_percentage": 26.47
+  },
+  {
+    "total": 23376,
+    "location": "ChaungOo",
+    "unsafe_sanitation": 4848,
+    "unsafe_sanitation_percentage": 20.74
+  },
+  {
+    "total": 167956,
+    "location": "KATHA",
+    "unsafe_sanitation": 13048,
+    "unsafe_sanitation_percentage": 7.77
+  },
+  {
+    "total": 31961,
+    "location": "Katha",
+    "unsafe_sanitation": 3986,
+    "unsafe_sanitation_percentage": 12.47
+  },
+  {
+    "total": 23230,
+    "location": "Indaw",
+    "unsafe_sanitation": 622,
+    "unsafe_sanitation_percentage": 2.68
+  },
+  {
+    "total": 26389,
+    "location": "Tigyaing",
+    "unsafe_sanitation": 4220,
+    "unsafe_sanitation_percentage": 15.99
+  },
+  {
+    "total": 18868,
+    "location": "Banmauk",
+    "unsafe_sanitation": 828,
+    "unsafe_sanitation_percentage": 4.39
+  },
+  {
+    "total": 31403,
+    "location": "Kawlin",
+    "unsafe_sanitation": 1721,
+    "unsafe_sanitation_percentage": 5.48
+  },
+  {
+    "total": 14205,
+    "location": "Wuntho",
+    "unsafe_sanitation": 446,
+    "unsafe_sanitation_percentage": 3.14
+  },
+  {
+    "total": 21900,
+    "location": "Pinlebu",
+    "unsafe_sanitation": 1225,
+    "unsafe_sanitation_percentage": 5.59
+  },
+  {
+    "total": 106562,
+    "location": "KALAY",
+    "unsafe_sanitation": 8695,
+    "unsafe_sanitation_percentage": 8.16
+  },
+  {
+    "total": 72769,
+    "location": "Kalay",
+    "unsafe_sanitation": 1948,
+    "unsafe_sanitation_percentage": 2.68
+  },
+  {
+    "total": 11735,
+    "location": "Kalewa",
+    "unsafe_sanitation": 1259,
+    "unsafe_sanitation_percentage": 10.73
+  },
+  {
+    "total": 22058,
+    "location": "Mingin",
+    "unsafe_sanitation": 5488,
+    "unsafe_sanitation_percentage": 24.88
+  },
+  {
+    "total": 22591,
+    "location": "TAMU",
+    "unsafe_sanitation": 546,
+    "unsafe_sanitation_percentage": 2.42
+  },
+  {
+    "total": 11986,
+    "location": "Tamu",
+    "unsafe_sanitation": 158,
+    "unsafe_sanitation_percentage": 1.32
+  },
+  {
+    "total": 3097,
+    "location": "Myothit(Sub-Tsp)",
+    "unsafe_sanitation": 104,
+    "unsafe_sanitation_percentage": 3.36
+  },
+  {
+    "total": 7508,
+    "location": "Khampat(Sub-Tsp)",
+    "unsafe_sanitation": 284,
+    "unsafe_sanitation_percentage": 3.78
+  },
+  {
+    "total": 30591,
+    "location": "MAWLAIK",
+    "unsafe_sanitation": 1326,
+    "unsafe_sanitation_percentage": 4.33
+  },
+  {
+    "total": 10345,
+    "location": "Mawlaik",
+    "unsafe_sanitation": 649,
+    "unsafe_sanitation_percentage": 6.27
+  },
+  {
+    "total": 20246,
+    "location": "Phaungpyin",
+    "unsafe_sanitation": 677,
+    "unsafe_sanitation_percentage": 3.34
+  },
+  {
+    "total": 61842,
+    "location": "HKAMTI",
+    "unsafe_sanitation": 10828,
+    "unsafe_sanitation_percentage": 17.51
+  },
+  {
+    "total": 7361,
+    "location": "Hkamti",
+    "unsafe_sanitation": 1154,
+    "unsafe_sanitation_percentage": 15.68
+  },
+  {
+    "total": 35743,
+    "location": "Homalin",
+    "unsafe_sanitation": 1984,
+    "unsafe_sanitation_percentage": 5.55
+  },
+  {
+    "total": 1656,
+    "location": "Leshi",
+    "unsafe_sanitation": 221,
+    "unsafe_sanitation_percentage": 13.35
+  },
+  {
+    "total": 6977,
+    "location": "Lahe",
+    "unsafe_sanitation": 4222,
+    "unsafe_sanitation_percentage": 60.51
+  },
+  {
+    "total": 1568,
+    "location": "Nanyun",
+    "unsafe_sanitation": 100,
+    "unsafe_sanitation_percentage": 6.38
+  },
+  {
+    "total": 310,
+    "location": "Mobaingluk(Sub-Tsp)",
+    "unsafe_sanitation": 32,
+    "unsafe_sanitation_percentage": 10.32
+  },
+  {
+    "total": 1194,
+    "location": "Sonemara(Sub-Tsp)",
+    "unsafe_sanitation": 191,
+    "unsafe_sanitation_percentage": 16
+  },
+  {
+    "total": 761,
+    "location": "Htanparkway(Sub-Tsp)",
+    "unsafe_sanitation": 411,
+    "unsafe_sanitation_percentage": 54.01
+  },
+  {
+    "total": 2349,
+    "location": "Pansaung(Sub-Tsp)",
+    "unsafe_sanitation": 326,
+    "unsafe_sanitation_percentage": 13.88
+  },
+  {
+    "total": 3923,
+    "location": "Donhee(Sub-Tsp)",
+    "unsafe_sanitation": 2187,
+    "unsafe_sanitation_percentage": 55.75
+  },
+  {
+    "total": 117584,
+    "location": "YINMARPIN",
+    "unsafe_sanitation": 32374,
+    "unsafe_sanitation_percentage": 27.53
+  },
+  {
+    "total": 29532,
+    "location": "Yinmarpin",
+    "unsafe_sanitation": 8014,
+    "unsafe_sanitation_percentage": 27.14
+  },
+  {
+    "total": 26467,
+    "location": "Salingyi",
+    "unsafe_sanitation": 7172,
+    "unsafe_sanitation_percentage": 27.1
+  },
+  {
+    "total": 32362,
+    "location": "Palae",
+    "unsafe_sanitation": 10884,
+    "unsafe_sanitation_percentage": 33.63
+  },
+  {
+    "total": 29223,
+    "location": "Kani",
+    "unsafe_sanitation": 6304,
+    "unsafe_sanitation_percentage": 21.57
+  }
+]

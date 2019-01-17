@@ -1,0 +1,62 @@
+[
+  {
+    "location": "Ayeyarwady",
+    "below_poverty_line": 46
+  },
+  {
+    "location": "Bago",
+    "below_poverty_line": 36
+  },
+  {
+    "location": "Chin",
+    "below_poverty_line": 76
+  },
+  {
+    "location": "Kachin",
+    "below_poverty_line": 52
+  },
+  {
+    "location": "Kayah",
+    "below_poverty_line": 66
+  },
+  {
+    "location": "Kayin",
+    "below_poverty_line": 70
+  },
+  {
+    "location": "Mandalay",
+    "below_poverty_line": 39
+  },
+  {
+    "location": "Mon",
+    "below_poverty_line": 43
+  },
+  {
+    "location": "Magway",
+    "below_poverty_line": 24
+  },
+  {
+    "location": "Rakhine",
+    "below_poverty_line": 66
+  },
+  {
+    "location": "Shan",
+    "below_poverty_line": 50
+  },
+  {
+    "location": "Sagaing",
+    "below_poverty_line": 49
+  },
+  {
+    "location": "Tanintharyi",
+    "below_poverty_line": 46
+  },
+  {
+    "location": "Yangon",
+    "below_poverty_line": 30
+  },
+  {
+    "location": "Naypyitaw",
+    "below_poverty_line": 30
+  }
+]

@@ -1,0 +1,11 @@
+[
+  { "label": "1_person", "total": 55130 },
+  { "label": "2 persons", "total": 161056 },
+  { "label": "3 persons", "total": 257551 },
+  { "label": "4 persons", "total": 250866 },
+  { "label": "5 persons", "total": 181332 },
+  { "label": "6 persons", "total": 111219 },
+  { "label": "7 persons", "total": 61785 },
+  { "label": "8 persons", "total": 35343 },
+  { "label": "9 persons and more", "total": 28692 }
+]

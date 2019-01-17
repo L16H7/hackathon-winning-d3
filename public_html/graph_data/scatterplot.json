@@ -1,0 +1,93 @@
+[
+  {
+    "location": "Ayeyarwady",
+    "below_poverty_line": 46,
+    "average_household_size": 4.10,
+    "estimated_population": 6184829
+  },
+  {
+    "location": "Bago",
+    "below_poverty_line": 32,
+    "average_household_size": 4.20,
+    "estimated_population": 4867373
+  },
+  {
+    "location": "Chin",
+    "below_poverty_line": 72,
+    "average_household_size": 5.10,
+    "estimated_population": 478801
+  },
+  {
+    "location": "Kachin",
+    "below_poverty_line": 36,
+    "average_household_size": 5.10,
+    "estimated_population": 1642841
+  },
+  {
+    "location": "Kayah",
+    "below_poverty_line": 29,
+    "average_household_size": 4.80,
+    "estimated_population": 286627
+  },
+  {
+    "location": "Kayin",
+    "below_poverty_line": 26,
+    "average_household_size": 4.70,
+    "estimated_population": 1504326
+  },
+  {
+    "location": "Mandalay",
+    "below_poverty_line": 36,
+    "average_household_size": 4.10,
+    "estimated_population": 3917055
+  },
+  {
+    "location": "Mon",
+    "below_poverty_line": 33,
+    "average_household_size": 4.40,
+    "estimated_population": 6165723
+  },
+  {
+    "location": "Magway",
+    "below_poverty_line": 21,
+    "average_household_size": 4.60,
+    "estimated_population": 2054393
+  },
+  {
+    "location": "Rakhine",
+    "below_poverty_line": 36,
+    "average_household_size": 4.10,
+    "estimated_population": 2054393
+  },
+  {
+    "location": "Shan",
+    "below_poverty_line": 78,
+    "average_household_size": 4.40,
+    "estimated_population": 1160242
+  },
+  {
+    "location": "Sagaing",
+    "below_poverty_line": 34,
+    "average_household_size": 4.40,
+    "estimated_population": 2098807
+  },
+  {
+    "location": "Tanintharyi",
+    "below_poverty_line": 23,
+    "average_household_size": 4.60,
+    "estimated_population": 7360703
+  },
+  {
+    "location": "Yangon",
+    "below_poverty_line": 43,
+    "average_household_size": 4.70,
+    "estimated_population": 5325347
+  },
+  {
+    "location": "Naypyitaw",
+    "below_poverty_line": 23,
+    "average_household_size": 2.70,
+    "estimated_population": 325347
+  }
+
+]

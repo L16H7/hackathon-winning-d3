@@ -1,0 +1,407 @@
+[
+  {
+    "location": "chin",
+    "age_group": "5 - 9",
+    "sex": "male",
+    "male_total": 6283,
+    "never_attended": 1226,
+    "attended_previously": 231,
+    "currently_attending": 4826
+  },
+  {
+    "location": "chin",
+    "age_group": "10 - 14",
+    "sex": "male",
+    "male_total": 5755,
+    "never_attended": 84,
+    "attended_previously": 478,
+    "currently_attending": 5193
+  },
+  {
+    "location": "chin",
+    "age_group": "15 - 19",
+    "sex": "male",
+    "male_total": 4623,
+    "never_attended": 138,
+    "attended_previously": 2015,
+    "currently_attending": 2470
+  },
+  {
+    "location": "kayah",
+    "age_group": "5 - 9",
+    "sex": "male",
+    "male_total": 14072,
+    "never_attended": 2309,
+    "attended_previously": 769,
+    "currently_attending": 10994
+  },
+  {
+    "location": "kayah",
+    "age_group": "10 - 14",
+    "sex": "male",
+    "male_total": 13669,
+    "never_attended": 289,
+    "attended_previously": 2290,
+    "currently_attending": 11090
+  },
+  {
+    "location": "kayah",
+    "age_group": "15 - 19",
+    "sex": "male",
+    "male_total": 11154,
+    "never_attended": 361,
+    "attended_previously": 7323,
+    "currently_attending": 3470
+  },
+  {
+    "location": "magway",
+    "age_group": "5 - 9",
+    "sex": "male",
+    "male_total": 56427,
+    "never_attended": 9515,
+    "attended_previously": 4611,
+    "currently_attending": 42301
+  },
+  {
+    "location": "magway",
+    "age_group": "10 - 14",
+    "sex": "male",
+    "male_total": 56706,
+    "never_attended": 1018,
+    "attended_previously": 11376,
+    "currently_attending": 44312
+  },
+  {
+    "location": "magway",
+    "age_group": "15 - 19",
+    "sex": "male",
+    "male_total": 44338,
+    "never_attended": 1489,
+    "attended_previously": 27751,
+    "currently_attending": 15098
+  },
+  {
+    "location": "kachin",
+    "age_group": "5 - 9",
+    "sex": "male",
+    "male_total": 26748,
+    "never_attended": 5077,
+    "attended_previously": 1745,
+    "currently_attending": 19926
+  },
+  {
+    "location": "kachin",
+    "age_group": "10 - 14",
+    "sex": "male",
+    "male_total": 28089,
+    "never_attended": 786,
+    "attended_previously": 3988,
+    "currently_attending": 23315
+  },
+  {
+    "location": "kachin",
+    "age_group": "15 - 19",
+    "sex": "male",
+    "male_total": 24512,
+    "never_attended": 743,
+    "attended_previously": 12367,
+    "currently_attending": 11402
+  },
+  {
+    "location": "bago",
+    "age_group": "5 - 9",
+    "sex": "male",
+    "male_total": 95422,
+    "never_attended": 18477,
+    "attended_previously": 5556,
+    "currently_attending": 71389
+  },
+  {
+    "location": "bago",
+    "age_group": "10 - 14",
+    "sex": "male",
+    "male_total": 96081,
+    "never_attended": 2370,
+    "attended_previously": 21199,
+    "currently_attending": 72512
+  },
+  {
+    "location": "bago",
+    "age_group": "15 - 19",
+    "sex": "male",
+    "male_total": 75581,
+    "never_attended": 2856,
+    "attended_previously": 53623,
+    "currently_attending": 19102
+  },
+  {
+    "location": "mon",
+    "age_group": "5 - 9",
+    "sex": "male",
+    "male_total": 61539,
+    "never_attended": 12574,
+    "attended_previously": 5233,
+    "currently_attending": 43732
+  },
+  {
+    "location": "mon",
+    "age_group": "10 - 14",
+    "sex": "male",
+    "male_total": 62154,
+    "never_attended": 2195,
+    "attended_previously": 15710,
+    "currently_attending": 44249
+  },
+  {
+    "location": "mon",
+    "age_group": "15 - 19",
+    "sex": "male",
+    "male_total": 45101,
+    "never_attended": 2324,
+    "attended_previously": 31375,
+    "currently_attending": 11402
+  },
+  {
+    "location": "sagaing",
+    "age_group": "5 - 9",
+    "sex": "male",
+    "male_total": 19352,
+    "never_attended": 2776,
+    "attended_previously": 2609,
+    "currently_attending": 13967
+  },
+  {
+    "location": "sagaing",
+    "age_group": "10 - 14",
+    "sex": "male",
+    "male_total": 19877,
+    "never_attended": 243,
+    "attended_previously": 5970,
+    "currently_attending": 13664
+  },
+  {
+    "location": "sagaing",
+    "age_group": "15 - 19",
+    "sex": "male",
+    "male_total": 17862,
+    "never_attended": 295,
+    "attended_previously": 12568,
+    "currently_attending": 4999
+  },
+  {
+    "location": "ayeyawady",
+    "age_group": "5 - 9",
+    "sex": "male",
+    "male_total": 78600,
+    "never_attended": 14906,
+    "attended_previously": 7246,
+    "currently_attending": 56448
+  },
+  {
+    "location": "ayeyawady",
+    "age_group": "10 - 14",
+    "sex": "male",
+    "male_total": 79868,
+    "never_attended": 2085,
+    "attended_previously": 21094,
+    "currently_attending": 56689
+  },
+  {
+    "location": "ayeyawady",
+    "age_group": "15 - 19",
+    "sex": "male",
+    "male_total": 65346,
+    "never_attended": 2417,
+    "attended_previously": 46515,
+    "currently_attending": 16414
+  },
+  {
+    "location": "rakhine",
+    "age_group": "5 - 9",
+    "sex": "male",
+    "male_total": 30440,
+    "never_attended": 6043,
+    "attended_previously": 2599,
+    "currently_attending": 21798
+  },
+  {
+    "location": "rakhine",
+    "age_group": "10 - 14",
+    "sex": "male",
+    "male_total": 33427,
+    "never_attended": 1365,
+    "attended_previously": 7427,
+    "currently_attending": 24635
+  },
+  {
+    "location": "rakhine",
+    "age_group": "15 - 19",
+    "sex": "male",
+    "male_total": 24751,
+    "never_attended": 1415,
+    "attended_previously": 15969,
+    "currently_attending": 7367
+  },
+  {
+    "location": "naypyitaw",
+    "age_group": "5 - 9",
+    "sex": "male",
+    "male_total": 25552,
+    "never_attended": 4134,
+    "attended_previously": 1558,
+    "currently_attending": 19860
+  },
+  {
+    "location": "naypyitaw",
+    "age_group": "10 - 14",
+    "sex": "male",
+    "male_total": 24047,
+    "never_attended": 352,
+    "attended_previously": 3896,
+    "currently_attending": 19799
+  },
+  {
+    "location": "naypyitaw",
+    "age_group": "15 - 19",
+    "sex": "male",
+    "male_total": 19866,
+    "never_attended": 402,
+    "attended_previously": 12297,
+    "currently_attending": 7167
+  },
+  {
+    "location": "mandalay",
+    "age_group": "5 - 9",
+    "sex": "male",
+    "male_total": 62639,
+    "never_attended": 9873,
+    "attended_previously": 9509,
+    "currently_attending": 43257
+  },
+  {
+    "location": "mandalay",
+    "age_group": "10 - 14",
+    "sex": "male",
+    "male_total": 69674,
+    "never_attended": 1259,
+    "attended_previously": 21922,
+    "currently_attending": 46493
+  },
+  {
+    "location": "mandalay",
+    "age_group": "15 - 19",
+    "sex": "male",
+    "male_total": 76487,
+    "never_attended": 1566,
+    "attended_previously": 52832,
+    "currently_attending": 22089
+  },
+  {
+    "location": "tanintharyi",
+    "age_group": "5 - 9",
+    "sex": "male",
+    "male_total": 27228,
+    "never_attended": 5336,
+    "attended_previously": 2108,
+    "currently_attending": 19784
+  },
+  {
+    "location": "tanintharyi",
+    "age_group": "10 - 14",
+    "sex": "male",
+    "male_total": 28000,
+    "never_attended": 639,
+    "attended_previously": 5547,
+    "currently_attending": 21814
+  },
+  {
+    "location": "tanintharyi",
+    "age_group": "15 - 19",
+    "sex": "male",
+    "male_total": 19089,
+    "never_attended": 730,
+    "attended_previously": 12928,
+    "currently_attending": 5431
+  },
+  {
+    "location": "kayin",
+    "age_group": "5 - 9",
+    "sex": "male",
+    "male_total": 47699,
+    "never_attended": 13916,
+    "attended_previously": 2721,
+    "currently_attending": 31062
+  },
+  {
+    "location": "kayin",
+    "age_group": "10 - 14",
+    "sex": "male",
+    "male_total": 47462,
+    "never_attended": 4721,
+    "attended_previously": 10051,
+    "currently_attending": 32690
+  },
+  {
+    "location": "kayin",
+    "age_group": "15 - 19",
+    "sex": "male",
+    "male_total": 31325,
+    "never_attended": 4136,
+    "attended_previously": 18845,
+    "currently_attending": 8344
+  },
+  {
+    "location": "yangon",
+    "age_group": "5 - 9",
+    "sex": "male",
+    "male_total": 106168,
+    "never_attended": 18810,
+    "attended_previously": 12958,
+    "currently_attending": 74400
+  },
+  {
+    "location": "yangon",
+    "age_group": "10 - 14",
+    "sex": "male",
+    "male_total": 113457,
+    "never_attended": 2336,
+    "attended_previously": 29333,
+    "currently_attending": 81788
+  },
+  {
+    "location": "yangon",
+    "age_group": "15 - 19",
+    "sex": "male",
+    "male_total": 113014,
+    "never_attended": 2581,
+    "attended_previously": 77922,
+    "currently_attending": 32511
+  },
+  {
+    "location": "shan",
+    "age_group": "5 - 9",
+    "sex": "male",
+    "male_total": 83792,
+    "never_attended": 15342,
+    "attended_previously": 6072,
+    "currently_attending": 62378
+  },
+  {
+    "location": "shan",
+    "age_group": "10 - 14",
+    "sex": "male",
+    "male_total": 79737,
+    "never_attended": 1910,
+    "attended_previously": 19463,
+    "currently_attending": 58364
+  },
+  {
+    "location": "shan",
+    "age_group": "15 - 19",
+    "sex": "male",
+    "male_total": 77739,
+    "never_attended": 3257,
+    "attended_previously": 57502,
+    "currently_attending": 16980
+  }
+]

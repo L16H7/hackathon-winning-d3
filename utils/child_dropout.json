@@ -1,0 +1,362 @@
+[
+  {
+    "location": "naypyitaw",
+    "age_group": "5 - 9",
+    "male_total": 56383,
+    "male_none": 11197,
+    "female_total": 55246,
+    "female_none": 10401
+  },
+  {
+    "location": "naypyitaw",
+    "age_group": "10 - 14",
+    "male_total": 56417,
+    "male_none": 1293,
+    "female_total": 54075,
+    "female_none": 1124
+  },
+  {
+    "location": "naypyitaw",
+    "age_group": "15 - 19",
+    "male_total": 50712,
+    "male_none": 1002,
+    "female_total": 50838,
+    "female_none": 1381
+  },
+  {
+    "location": "chin",
+    "age_group": "5 - 9",
+    "male_total": 33192,
+    "male_none": 9094,
+    "female_total": 32203,
+    "female_none": 8734
+  },
+  {
+    "location": "chin",
+    "age_group": "10 - 14",
+    "male_total": 29980,
+    "male_none": 616,
+    "female_total": 29975,
+    "female_none": 955
+  },
+  {
+    "location": "chin",
+    "age_group": "15 - 19",
+    "male_total": 22841,
+    "male_none": 751,
+    "female_total": 24253,
+    "female_none": 1507
+  },
+  {
+    "location": "kachin",
+    "age_group": "5 - 9",
+    "male_total": 83427,
+    "male_none": 16338,
+    "female_total": 80627,
+    "female_none": 14902
+  },
+  {
+    "location": "kachin",
+    "age_group": "10 - 14",
+    "male_total": 88250,
+    "male_none": 1906,
+    "female_total": 85204,
+    "female_none": 1492
+  },
+  {
+    "location": "kachin",
+    "age_group": "15 - 19",
+    "male_total": 91568,
+    "male_none": 2091,
+    "female_total": 80118,
+    "female_none": 1703
+  },
+  {
+    "location": "bago",
+    "age_group": "5 - 9",
+    "male_total": 235130,
+    "male_none": 58725,
+    "female_total": 229646,
+    "female_none": 54333
+  },
+  {
+    "location": "bago",
+    "age_group": "10 - 14",
+    "male_total": 250907,
+    "male_none": 7683,
+    "female_total": 243296,
+    "female_none": 5843
+  },
+  {
+    "location": "bago",
+    "age_group": "15 - 19",
+    "male_total": 208076,
+    "male_none": 7436,
+    "female_total": 217650,
+    "female_none": 7389
+  },
+  {
+    "location": "magway",
+    "age_group": "5 - 9",
+    "male_total": 180038,
+    "male_none": 33993,
+    "female_total": 178608,
+    "female_none": 31662
+  },
+  {
+    "location": "magway",
+    "age_group": "10 - 14",
+    "male_total": 185921,
+    "male_none": 4710,
+    "female_total": 185833,
+    "female_none": 3193
+  },
+  {
+    "location": "magway",
+    "age_group": "15 - 19",
+    "male_total": 150890,
+    "male_none": 5901,
+    "female_total": 166975,
+    "female_none": 5125
+  },
+  {
+    "location": "sagaing",
+    "age_group": "5 - 9",
+    "male_total": 256092,
+    "male_none": 52065,
+    "female_total": 251117,
+    "female_none": 48418
+  },
+  {
+    "location": "sagaing",
+    "age_group": "10 - 14",
+    "male_total": 272349,
+    "male_none": 6310,
+    "female_total": 269637,
+    "female_none": 5161
+  },
+  {
+    "location": "sagaing",
+    "age_group": "15 - 19",
+    "male_total": 235309,
+    "male_none": 6347,
+    "female_total": 250713,
+    "female_none": 6331
+  },
+  {
+    "location": "mon",
+    "age_group": "5 - 9",
+    "male_total": 109610,
+    "male_none": 25950,
+    "female_total": 105610,
+    "female_none": 23687
+  },
+  {
+    "location": "mon",
+    "age_group": "10 - 14",
+    "male_total": 119174,
+    "male_none": 5463,
+    "female_total": 113411,
+    "female_none": 3482
+  },
+  {
+    "location": "mon",
+    "age_group": "15 - 19",
+    "male_total": 89473,
+    "male_none": 5510,
+    "female_total": 91407,
+    "female_none": 4491
+  },
+  {
+    "location": "mandalay",
+    "age_group": "5 - 9",
+    "male_total": 266887,
+    "male_none": 59771,
+    "female_total": 259963,
+    "female_none": 54952
+  },
+  {
+    "location": "mandalay",
+    "age_group": "10 - 14",
+    "male_total": 297376,
+    "male_none": 8482,
+    "female_total": 282557,
+    "female_none": 5361
+  },
+  {
+    "location": "mandalay",
+    "age_group": "15 - 19",
+    "male_total": 288642,
+    "male_none": 8833,
+    "female_total": 289705,
+    "female_none": 7925
+  },
+  {
+    "location": "kayah",
+    "age_group": "5 - 9",
+    "male_total": 16581,
+    "male_none": 3331,
+    "female_total": 16313,
+    "female_none": 3167
+  },
+  {
+    "location": "kayah",
+    "age_group": "10 - 14",
+    "male_total": 16536,
+    "male_none": 439,
+    "female_total": 16087,
+    "female_none": 374
+  },
+  {
+    "location": "kayah",
+    "age_group": "15 - 19",
+    "male_total": 14577,
+    "male_none": 489,
+    "female_total": 13989,
+    "female_none": 560
+  },
+  {
+    "location": "ayeyawady",
+    "age_group": "5 - 9",
+    "male_total": 310699,
+    "male_none": 80011,
+    "female_total": 305314,
+    "female_none": 75493
+  },
+  {
+    "location": "ayeyawady",
+    "age_group": "10 - 14",
+    "male_total": 319759,
+    "male_none": 10678,
+    "female_total": 311250,
+    "female_none": 8536
+  },
+  {
+    "location": "ayeyawady",
+    "age_group": "15 - 19",
+    "male_total": 263151,
+    "male_none": 11069,
+    "female_total": 263474,
+    "female_none": 10385
+  },
+  {
+    "location": "rakhine",
+    "age_group": "5 - 9",
+    "male_total": 116211,
+    "male_none": 27262,
+    "female_total": 112517,
+    "female_none": 26044
+  },
+  {
+    "location": "rakhine",
+    "age_group": "10 - 14",
+    "male_total": 124154,
+    "male_none": 6505,
+    "female_total": 121364,
+    "female_none": 6908
+  },
+  {
+    "location": "rakhine",
+    "age_group": "15 - 19",
+    "male_total": 93828,
+    "male_none": 6306,
+    "female_total": 101663,
+    "female_none": 9594
+  },
+  {
+    "location": "tanintharyi",
+    "age_group": "5 - 9",
+    "male_total": 83521,
+    "male_none": 21684,
+    "female_total": 81162,
+    "female_none": 20176
+  },
+  {
+    "location": "tanintharyi",
+    "age_group": "10 - 14",
+    "male_total": 83982,
+    "male_none": 2768,
+    "female_total": 81544,
+    "female_none": 1900
+  },
+  {
+    "location": "tanintharyi",
+    "age_group": "15 - 19",
+    "male_total": 65633,
+    "male_none": 2703,
+    "female_total": 65866,
+    "female_none": 2107
+  },
+  {
+    "location": "yangon",
+    "age_group": "5 - 9",
+    "male_total": 283461,
+    "male_none": 68840,
+    "female_total": 273841,
+    "female_none": 63747
+  },
+  {
+    "location": "yangon",
+    "age_group": "10 - 14",
+    "male_total": 330787,
+    "male_none": 8231,
+    "female_total": 313552,
+    "female_none": 6759
+  },
+  {
+    "location": "yangon",
+    "age_group": "15 - 19",
+    "male_total": 359758,
+    "male_none": 8643,
+    "female_total": 364030,
+    "female_none": 8688
+  },
+  {
+    "location": "shan",
+    "age_group": "5 - 9",
+    "male_total": 316206,
+    "male_none": 133751,
+    "female_total": 310328,
+    "female_none": 126824
+  },
+  {
+    "location": "shan",
+    "age_group": "10 - 14",
+    "male_total": 326912,
+    "male_none": 67275,
+    "female_total": 315138,
+    "female_none": 61717
+  },
+  {
+    "location": "shan",
+    "age_group": "15 - 19",
+    "male_total": 291109,
+    "male_none": 68634,
+    "female_total": 289055,
+    "female_none": 71421
+  },
+  {
+    "location": "kayin",
+    "age_group": "5 - 9",
+    "male_total": 90934,
+    "male_none": 32241,
+    "female_total": 88210,
+    "female_none": 28749
+  },
+  {
+    "location": "kayin",
+    "age_group": "10 - 14",
+    "male_total": 93245,
+    "male_none": 10624,
+    "female_total": 89690,
+    "female_none": 6696
+  },
+  {
+    "location": "kayin",
+    "age_group": "15 - 19",
+    "male_total": 65431,
+    "male_none": 8944,
+    "female_total": 65255,
+    "female_none": 6814
+  }
+]

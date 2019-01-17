@@ -1,0 +1,17 @@
+[
+  { "location": "mon", "total_employed": 89186 },
+  { "location": "kachin", "total_employed": 80835 },
+  { "location": "ayeyawady", "total_employed": 307321 },
+  { "location": "bago", "total_employed": 243252 },
+  { "location": "rakhine", "total_employed": 69423 },
+  { "location": "sagaing", "total_employed": 312708 },
+  { "location": "naypyitaw", "total_employed": 56287 },
+  { "location": "mandalay", "total_employed": 346334 },
+  { "location": "kayin", "total_employed": 66804 },
+  { "location": "kayah", "total_employed": 17433 },
+  { "location": "shan", "total_employed": 472030 },
+  { "location": "magway", "total_employed": 194654 },
+  { "location": "chin", "total_employed": 15860 },
+  { "location": "yangon", "total_employed": 367323 },
+  { "location": "tanintharyi", "total_employed": 66977 }
+]

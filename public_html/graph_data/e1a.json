@@ -1,0 +1,422 @@
+[
+  {
+    "location": "mandalay",
+    "age_group": "10 - 14 M",
+    "employed": 32005,
+    "unemployed": 4610,
+    "economically_inactive": 260761
+  },
+  {
+    "location": "mandalay",
+    "age_group": "10 - 14 F",
+    "employed": 30075,
+    "unemployed": 2719,
+    "economically_inactive": 249763
+  },
+  {
+    "location": "mandalay",
+    "age_group": "15 - 19 M",
+    "employed": 158873,
+    "unemployed": 14766,
+    "economically_inactive": 115003
+  },
+  {
+    "location": "mandalay",
+    "age_group": "15 - 19 F",
+    "employed": 125373,
+    "unemployed": 9179,
+    "economically_inactive": 155153
+  },
+  {
+    "location": "mon",
+    "age_group": "10 - 14 M",
+    "employed": 11411,
+    "unemployed": 3603,
+    "economically_inactive": 104160
+  },
+  {
+    "location": "mon",
+    "age_group": "10 - 14 F",
+    "employed": 7368,
+    "unemployed": 1971,
+    "economically_inactive": 104072
+  },
+  {
+    "location": "mon",
+    "age_group": "15 - 19 M",
+    "employed": 43774,
+    "unemployed": 7908,
+    "economically_inactive": 37791
+  },
+  {
+    "location": "mon",
+    "age_group": "15 - 19 F",
+    "employed": 26632,
+    "unemployed": 4863,
+    "economically_inactive": 59912
+  },
+  {
+    "location": "chin",
+    "age_group": "10 - 14 M",
+    "employed": 1356,
+    "unemployed": 132,
+    "economically_inactive": 28492
+  },
+  {
+    "location": "chin",
+    "age_group": "10 - 14 F",
+    "employed": 1488,
+    "unemployed": 78,
+    "economically_inactive": 28409
+  },
+  {
+    "location": "chin",
+    "age_group": "15 - 19 M",
+    "employed": 6770,
+    "unemployed": 1161,
+    "economically_inactive": 14910
+  },
+  {
+    "location": "chin",
+    "age_group": "15 - 19 F",
+    "employed": 6233,
+    "unemployed": 817,
+    "economically_inactive": 17203
+  },
+  {
+    "location": "kayin",
+    "age_group": "10 - 14 M",
+    "employed": 10461,
+    "unemployed": 3122,
+    "economically_inactive": 79662
+  },
+  {
+    "location": "kayin",
+    "age_group": "10 - 14 F",
+    "employed": 6853,
+    "unemployed": 1680,
+    "economically_inactive": 81157
+  },
+  {
+    "location": "kayin",
+    "age_group": "15 - 19 M",
+    "employed": 30404,
+    "unemployed": 7323,
+    "economically_inactive": 27704
+  },
+  {
+    "location": "kayin",
+    "age_group": "15 - 19 F",
+    "employed": 19077,
+    "unemployed": 4118,
+    "economically_inactive": 42060
+  },
+  {
+    "location": "kayah",
+    "age_group": "10 - 14 M",
+    "employed": 1708,
+    "unemployed": 146,
+    "economically_inactive": 14682
+  },
+  {
+    "location": "kayah",
+    "age_group": "10 - 14 F",
+    "employed": 1352,
+    "unemployed": 80,
+    "economically_inactive": 14655
+  },
+  {
+    "location": "kayah",
+    "age_group": "15 - 19 M",
+    "employed": 8551,
+    "unemployed": 677,
+    "economically_inactive": 5349
+  },
+  {
+    "location": "kayah",
+    "age_group": "15 - 19 F",
+    "employed": 5812,
+    "unemployed": 403,
+    "economically_inactive": 7774
+  },
+  {
+    "location": "kachin",
+    "age_group": "10 - 14 M",
+    "employed": 6700,
+    "unemployed": 897,
+    "economically_inactive": 80653
+  },
+  {
+    "location": "kachin",
+    "age_group": "10 - 14 F",
+    "employed": 4012,
+    "unemployed": 385,
+    "economically_inactive": 80807
+  },
+  {
+    "location": "kachin",
+    "age_group": "15 - 19 M",
+    "employed": 48400,
+    "unemployed": 4328,
+    "economically_inactive": 38840
+  },
+  {
+    "location": "kachin",
+    "age_group": "15 - 19 F",
+    "employed": 21721,
+    "unemployed": 2266,
+    "economically_inactive": 56131
+  },
+  {
+    "location": "magway",
+    "age_group": "10 - 14 M",
+    "employed": 19833,
+    "unemployed": 1915,
+    "economically_inactive": 164173
+  },
+  {
+    "location": "magway",
+    "age_group": "10 - 14 F",
+    "employed": 20903,
+    "unemployed": 1352,
+    "economically_inactive": 163578
+  },
+  {
+    "location": "magway",
+    "age_group": "15 - 19 M",
+    "employed": 79225,
+    "unemployed": 7959,
+    "economically_inactive": 63706
+  },
+  {
+    "location": "magway",
+    "age_group": "15 - 19 F",
+    "employed": 74681,
+    "unemployed": 6241,
+    "economically_inactive": 86053
+  },
+  {
+    "location": "rakhine",
+    "age_group": "10 - 14 M",
+    "employed": 7139,
+    "unemployed": 4808,
+    "economically_inactive": 112207
+  },
+  {
+    "location": "rakhine",
+    "age_group": "10 - 14 F",
+    "employed": 5709,
+    "unemployed": 4194,
+    "economically_inactive": 111461
+  },
+  {
+    "location": "rakhine",
+    "age_group": "15 - 19 M",
+    "employed": 34489,
+    "unemployed": 15888,
+    "economically_inactive": 43451
+  },
+  {
+    "location": "rakhine",
+    "age_group": "15 - 19 F",
+    "employed": 22081,
+    "unemployed": 12641,
+    "economically_inactive": 66941
+  },
+  {
+    "location": "ayeyawady",
+    "age_group": "10 - 14 M",
+    "employed": 38169,
+    "unemployed": 6239,
+    "economically_inactive": 275351
+  },
+  {
+    "location": "ayeyawady",
+    "age_group": "10 - 14 F",
+    "employed": 28557,
+    "unemployed": 3762,
+    "economically_inactive": 278931
+  },
+  {
+    "location": "ayeyawady",
+    "age_group": "15 - 19 M",
+    "employed": 147669,
+    "unemployed": 16308,
+    "economically_inactive": 99174
+  },
+  {
+    "location": "ayeyawady",
+    "age_group": "15 - 19 F",
+    "employed": 92923,
+    "unemployed": 10558,
+    "economically_inactive": 159993
+  },
+  {
+    "location": "bago",
+    "age_group": "10 - 14 M",
+    "employed": 28245,
+    "unemployed": 7038,
+    "economically_inactive": 215624
+  },
+  {
+    "location": "bago",
+    "age_group": "10 - 14 F",
+    "employed": 22751,
+    "unemployed": 4387,
+    "economically_inactive": 216158
+  },
+  {
+    "location": "bago",
+    "age_group": "15 - 19 M",
+    "employed": 111257,
+    "unemployed": 18964,
+    "economically_inactive": 77855
+  },
+  {
+    "location": "bago",
+    "age_group": "15 - 19 F",
+    "employed": 80995,
+    "unemployed": 12752,
+    "economically_inactive": 123903
+  },
+  {
+    "location": "naypyitaw",
+    "age_group": "10 - 14 M",
+    "employed": 4366,
+    "unemployed": 537,
+    "economically_inactive": 51514
+  },
+  {
+    "location": "naypyitaw",
+    "age_group": "10 - 14 F",
+    "employed": 4074,
+    "unemployed": 332,
+    "economically_inactive": 49669
+  },
+  {
+    "location": "naypyitaw",
+    "age_group": "15 - 19 M",
+    "employed": 26965,
+    "unemployed": 2569,
+    "economically_inactive": 21178
+  },
+  {
+    "location": "naypyitaw",
+    "age_group": "15 - 19 F",
+    "employed": 20875,
+    "unemployed": 1587,
+    "economically_inactive": 28376
+  },
+  {
+    "location": "shan",
+    "age_group": "10 - 14 M",
+    "employed": 61765,
+    "unemployed": 4014,
+    "economically_inactive": 261133
+  },
+  {
+    "location": "shan",
+    "age_group": "10 - 14 F",
+    "employed": 64861,
+    "unemployed": 3085,
+    "economically_inactive": 247192
+  },
+  {
+    "location": "shan",
+    "age_group": "15 - 19 M",
+    "employed": 186026,
+    "unemployed": 11880,
+    "economically_inactive": 93203
+  },
+  {
+    "location": "shan",
+    "age_group": "15 - 19 F",
+    "employed": 159367,
+    "unemployed": 8186,
+    "economically_inactive": 121502
+  },
+  {
+    "location": "sagaing",
+    "age_group": "10 - 14 M",
+    "employed": 30752,
+    "unemployed": 3936,
+    "economically_inactive": 237661
+  },
+  {
+    "location": "sagaing",
+    "age_group": "10 - 14 F",
+    "employed": 29981,
+    "unemployed": 2682,
+    "economically_inactive": 236974
+  },
+  {
+    "location": "sagaing",
+    "age_group": "15 - 19 M",
+    "employed": 134849,
+    "unemployed": 13370,
+    "economically_inactive": 87090
+  },
+  {
+    "location": "sagaing",
+    "age_group": "15 - 19 F",
+    "employed": 117120,
+    "unemployed": 10188,
+    "economically_inactive": 123405
+  },
+  {
+    "location": "tanintharyi",
+    "age_group": "10 - 14 M",
+    "employed": 7882,
+    "unemployed": 1582,
+    "economically_inactive": 74518
+  },
+  {
+    "location": "tanintharyi",
+    "age_group": "10 - 14 F",
+    "employed": 3997,
+    "unemployed": 815,
+    "economically_inactive": 76732
+  },
+  {
+    "location": "tanintharyi",
+    "age_group": "15 - 19 M",
+    "employed": 37107,
+    "unemployed": 4539,
+    "economically_inactive": 23987
+  },
+  {
+    "location": "tanintharyi",
+    "age_group": "15 - 19 F",
+    "employed": 17976,
+    "unemployed": 2885,
+    "economically_inactive": 45005
+  },
+  {
+    "location": "yangon",
+    "age_group": "10 - 14 M",
+    "employed": 26451,
+    "unemployed": 4680,
+    "economically_inactive": 299656
+  },
+  {
+    "location": "yangon",
+    "age_group": "10 - 14 F",
+    "employed": 22816,
+    "unemployed": 2501,
+    "economically_inactive": 288235
+  },
+  {
+    "location": "yangon",
+    "age_group": "15 - 19 M",
+    "employed": 172983,
+    "unemployed": 20340,
+    "economically_inactive": 166435
+  },
+  {
+    "location": "yangon",
+    "age_group": "15 - 19 F",
+    "employed": 145059,
+    "unemployed": 10040,
+    "economically_inactive": 208931
+  }
+]

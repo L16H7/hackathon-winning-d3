@@ -1,0 +1,407 @@
+[
+  {
+    "location": "kayah",
+    "age_group": "5 - 9",
+    "sex": "female",
+    "total": 2249,
+    "never_attended": 490,
+    "attended_previously": 125,
+    "currently_attending": 1634
+  },
+  {
+    "location": "kayah",
+    "age_group": "10 - 14",
+    "sex": "female",
+    "total": 2000,
+    "never_attended": 72,
+    "attended_previously": 352,
+    "currently_attending": 1576
+  },
+  {
+    "location": "kayah",
+    "age_group": "15 - 19",
+    "sex": "female",
+    "total": 1827,
+    "never_attended": 71,
+    "attended_previously": 1329,
+    "currently_attending": 427
+  },
+  {
+    "location": "bago",
+    "age_group": "5 - 9",
+    "sex": "female",
+    "total": 58665,
+    "never_attended": 10845,
+    "attended_previously": 4828,
+    "currently_attending": 42992
+  },
+  {
+    "location": "bago",
+    "age_group": "10 - 14",
+    "sex": "female",
+    "total": 59263,
+    "never_attended": 1356,
+    "attended_previously": 15071,
+    "currently_attending": 42836
+  },
+  {
+    "location": "bago",
+    "age_group": "15 - 19",
+    "sex": "female",
+    "total": 46972,
+    "never_attended": 1693,
+    "attended_previously": 33839,
+    "currently_attending": 11440
+  },
+  {
+    "location": "naypyitaw",
+    "age_group": "5 - 9",
+    "sex": "female",
+    "total": 28849,
+    "never_attended": 4611,
+    "attended_previously": 2751,
+    "currently_attending": 21487
+  },
+  {
+    "location": "naypyitaw",
+    "age_group": "10 - 14",
+    "sex": "female",
+    "total": 27789,
+    "never_attended": 352,
+    "attended_previously": 5893,
+    "currently_attending": 21544
+  },
+  {
+    "location": "naypyitaw",
+    "age_group": "15 - 19",
+    "sex": "female",
+    "total": 24263,
+    "never_attended": 414,
+    "attended_previously": 15957,
+    "currently_attending": 7892
+  },
+  {
+    "location": "rakhine",
+    "age_group": "5 - 9",
+    "sex": "female",
+    "total": 39780,
+    "never_attended": 7324,
+    "attended_previously": 2976,
+    "currently_attending": 29480
+  },
+  {
+    "location": "rakhine",
+    "age_group": "10 - 14",
+    "sex": "female",
+    "total": 41022,
+    "never_attended": 1764,
+    "attended_previously": 7713,
+    "currently_attending": 31545
+  },
+  {
+    "location": "rakhine",
+    "age_group": "15 - 19",
+    "sex": "female",
+    "total": 29367,
+    "never_attended": 2002,
+    "attended_previously": 19534,
+    "currently_attending": 7831
+  },
+  {
+    "location": "kayin",
+    "age_group": "5 - 9",
+    "sex": "female",
+    "total": 2115,
+    "never_attended": 608,
+    "attended_previously": 177,
+    "currently_attending": 1330
+  },
+  {
+    "location": "kayin",
+    "age_group": "10 - 14",
+    "sex": "female",
+    "total": 2177,
+    "never_attended": 132,
+    "attended_previously": 438,
+    "currently_attending": 1607
+  },
+  {
+    "location": "kayin",
+    "age_group": "15 - 19",
+    "sex": "female",
+    "total": 1651,
+    "never_attended": 120,
+    "attended_previously": 943,
+    "currently_attending": 588
+  },
+  {
+    "location": "mandalay",
+    "age_group": "5 - 9",
+    "sex": "female",
+    "total": 44835,
+    "never_attended": 7113,
+    "attended_previously": 4583,
+    "currently_attending": 33139
+  },
+  {
+    "location": "mandalay",
+    "age_group": "10 - 14",
+    "sex": "female",
+    "total": 47085,
+    "never_attended": 923,
+    "attended_previously": 11952,
+    "currently_attending": 34210
+  },
+  {
+    "location": "mandalay",
+    "age_group": "15 - 19",
+    "sex": "female",
+    "total": 46036,
+    "never_attended": 1352,
+    "attended_previously": 31601,
+    "currently_attending": 13083
+  },
+  {
+    "location": "mon",
+    "age_group": "5 - 9",
+    "sex": "female",
+    "total": 45412,
+    "never_attended": 9695,
+    "attended_previously": 4089,
+    "currently_attending": 31628
+  },
+  {
+    "location": "mon",
+    "age_group": "10 - 14",
+    "sex": "female",
+    "total": 46923,
+    "never_attended": 1950,
+    "attended_previously": 12683,
+    "currently_attending": 32290
+  },
+  {
+    "location": "mon",
+    "age_group": "15 - 19",
+    "sex": "female",
+    "total": 33643,
+    "never_attended": 2293,
+    "attended_previously": 23651,
+    "currently_attending": 7699
+  },
+  {
+    "location": "chin",
+    "age_group": "5 - 9",
+    "sex": "female",
+    "total": 11536,
+    "never_attended": 2031,
+    "attended_previously": 496,
+    "currently_attending": 9009
+  },
+  {
+    "location": "chin",
+    "age_group": "10 - 14",
+    "sex": "female",
+    "total": 10616,
+    "never_attended": 138,
+    "attended_previously": 1159,
+    "currently_attending": 9319
+  },
+  {
+    "location": "chin",
+    "age_group": "15 - 19",
+    "sex": "female",
+    "total": 8002,
+    "never_attended": 143,
+    "attended_previously": 4178,
+    "currently_attending": 3681
+  },
+  {
+    "location": "ayeyawady",
+    "age_group": "5 - 9",
+    "sex": "female",
+    "total": 56786,
+    "never_attended": 11265,
+    "attended_previously": 4536,
+    "currently_attending": 40985
+  },
+  {
+    "location": "ayeyawady",
+    "age_group": "10 - 14",
+    "sex": "female",
+    "total": 54990,
+    "never_attended": 1299,
+    "attended_previously": 12972,
+    "currently_attending": 40719
+  },
+  {
+    "location": "ayeyawady",
+    "age_group": "15 - 19",
+    "sex": "female",
+    "total": 42683,
+    "never_attended": 1695,
+    "attended_previously": 30403,
+    "currently_attending": 10585
+  },
+  {
+    "location": "magway",
+    "age_group": "5 - 9",
+    "sex": "female",
+    "total": 30842,
+    "never_attended": 4845,
+    "attended_previously": 3141,
+    "currently_attending": 22856
+  },
+  {
+    "location": "magway",
+    "age_group": "10 - 14",
+    "sex": "female",
+    "total": 29621,
+    "never_attended": 656,
+    "attended_previously": 7136,
+    "currently_attending": 21829
+  },
+  {
+    "location": "magway",
+    "age_group": "15 - 19",
+    "sex": "female",
+    "total": 25477,
+    "never_attended": 1092,
+    "attended_previously": 17030,
+    "currently_attending": 7355
+  },
+  {
+    "location": "tanintharyi",
+    "age_group": "5 - 9",
+    "sex": "female",
+    "total": 42166,
+    "never_attended": 9863,
+    "attended_previously": 2190,
+    "currently_attending": 30113
+  },
+  {
+    "location": "tanintharyi",
+    "age_group": "10 - 14",
+    "sex": "female",
+    "total": 40368,
+    "never_attended": 1043,
+    "attended_previously": 8112,
+    "currently_attending": 31213
+  },
+  {
+    "location": "tanintharyi",
+    "age_group": "15 - 19",
+    "sex": "female",
+    "total": 32415,
+    "never_attended": 1112,
+    "attended_previously": 23456,
+    "currently_attending": 7847
+  },
+  {
+    "location": "yangon",
+    "age_group": "5 - 9",
+    "sex": "female",
+    "total": 79982,
+    "never_attended": 13341,
+    "attended_previously": 11509,
+    "currently_attending": 55132
+  },
+  {
+    "location": "yangon",
+    "age_group": "10 - 14",
+    "sex": "female",
+    "total": 94211,
+    "never_attended": 1509,
+    "attended_previously": 23930,
+    "currently_attending": 68772
+  },
+  {
+    "location": "yangon",
+    "age_group": "15 - 19",
+    "sex": "female",
+    "total": 103558,
+    "never_attended": 1876,
+    "attended_previously": 63188,
+    "currently_attending": 38494
+  },
+  {
+    "location": "kachin",
+    "age_group": "5 - 9",
+    "sex": "female",
+    "total": 27130,
+    "never_attended": 4160,
+    "attended_previously": 1757,
+    "currently_attending": 21213
+  },
+  {
+    "location": "kachin",
+    "age_group": "10 - 14",
+    "sex": "female",
+    "total": 27278,
+    "never_attended": 213,
+    "attended_previously": 4212,
+    "currently_attending": 22853
+  },
+  {
+    "location": "kachin",
+    "age_group": "15 - 19",
+    "sex": "female",
+    "total": 23283,
+    "never_attended": 279,
+    "attended_previously": 14438,
+    "currently_attending": 8566
+  },
+  {
+    "location": "shan",
+    "age_group": "5 - 9",
+    "sex": "female",
+    "total": 29796,
+    "never_attended": 14070,
+    "attended_previously": 1594,
+    "currently_attending": 14132
+  },
+  {
+    "location": "shan",
+    "age_group": "10 - 14",
+    "sex": "female",
+    "total": 25116,
+    "never_attended": 7044,
+    "attended_previously": 4517,
+    "currently_attending": 13555
+  },
+  {
+    "location": "shan",
+    "age_group": "15 - 19",
+    "sex": "female",
+    "total": 21451,
+    "never_attended": 8093,
+    "attended_previously": 10083,
+    "currently_attending": 3275
+  },
+  {
+    "location": "sagaing",
+    "age_group": "5 - 9",
+    "sex": "female",
+    "total": 63998,
+    "never_attended": 8934,
+    "attended_previously": 5894,
+    "currently_attending": 49170
+  },
+  {
+    "location": "sagaing",
+    "age_group": "10 - 14",
+    "sex": "female",
+    "total": 65935,
+    "never_attended": 731,
+    "attended_previously": 15202,
+    "currently_attending": 50002
+  },
+  {
+    "location": "sagaing",
+    "age_group": "15 - 19",
+    "sex": "female",
+    "total": 55234,
+    "never_attended": 868,
+    "attended_previously": 39454,
+    "currently_attending": 14912
+  }
+]

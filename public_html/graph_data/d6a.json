@@ -1,0 +1,107 @@
+[
+  {
+    "location": "bago",
+    "total": 1231232,
+    "none": 104227,
+    "low": 890564,
+    "high": 236441
+  },
+  {
+    "location": "kachin",
+    "total": 418227,
+    "none": 40084,
+    "low": null,
+    "high": null
+  },
+  {
+    "location": "chin",
+    "total": 94547,
+    "none": 13306,
+    "low": null,
+    "high": null
+  },
+  {
+    "location": "kayah",
+    "total": 64997,
+    "none": 10455,
+    "low": 40256,
+    "high": 14286
+  },
+  {
+    "location": "kayin",
+    "total": 345215,
+    "none": 95330,
+    "low": 196795,
+    "high": null
+  },
+  {
+    "location": "magway",
+    "total": 995635,
+    "none": 166345,
+    "low": 649095,
+    "high": 180195
+  },
+  {
+    "location": "mandalay",
+    "total": 1556051,
+    "none": 136428,
+    "low": 1037833,
+    "high": 381790
+  },
+  {
+    "location": "mon",
+    "total": 496487,
+    "none": 73715,
+    "low": 327864,
+    "high": 94908
+  },
+  {
+    "location": "rakhine",
+    "total": 494281,
+    "none": 63395,
+    "low": 356324,
+    "high": 74562
+  },
+  {
+    "location": "naypyitaw",
+    "total": 294676,
+    "none": 11417,
+    "low": 191489,
+    "high": 91770
+  },
+  {
+    "location": "sagaing",
+    "total": 1304766,
+    "none": 115195,
+    "low": 932250,
+    "high": 257321
+  },
+  {
+    "location": "ayeyawady",
+    "total": 1596002,
+    "none": 165134,
+    "low": 1142251,
+    "high": 288617
+  },
+  {
+    "location": "tanintharyi",
+    "total": 334643,
+    "none": 30561,
+    "low": 239257,
+    "high": 64825
+  },
+  {
+    "location": "shan",
+    "total": 1411916,
+    "none": 561162,
+    "low": 651481,
+    "high": 199273
+  },
+  {
+    "location": "yangon",
+    "total": 1910612,
+    "none": 84477,
+    "low": 1043004,
+    "high": 783131
+  }
+]

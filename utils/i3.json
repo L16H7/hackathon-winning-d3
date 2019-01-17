@@ -1,0 +1,77 @@
+[
+  {
+    "location": "mandalay",
+    "unsafe_sanitation": 215430,
+    "unsafe_sanitation_percentage": "16.28"
+  },
+  {
+    "location": "mon",
+    "unsafe_sanitation": 215430,
+    "unsafe_sanitation_percentage": "16.28"
+  },
+  {
+    "location": "chin",
+    "unsafe_sanitation": 15969,
+    "unsafe_sanitation_percentage": "17.53"
+  },
+  {
+    "location": "ayeyawady",
+    "unsafe_sanitation": 295707,
+    "unsafe_sanitation_percentage": "19.86"
+  },
+  {
+    "location": "magway",
+    "unsafe_sanitation": 172268,
+    "unsafe_sanitation_percentage": "18.73"
+  },
+  {
+    "location": "rakhine",
+    "unsafe_sanitation": 306888,
+    "unsafe_sanitation_percentage": "66.75"
+  },
+  {
+    "location": "kachin",
+    "unsafe_sanitation": 8508,
+    "unsafe_sanitation_percentage": "3.16"
+  },
+  {
+    "location": "kayah",
+    "unsafe_sanitation": 4602,
+    "unsafe_sanitation_percentage": "8.04"
+  },
+  {
+    "location": "kayin",
+    "unsafe_sanitation": 80825,
+    "unsafe_sanitation_percentage": "26.24"
+  },
+  {
+    "location": "bago",
+    "unsafe_sanitation": 199604,
+    "unsafe_sanitation_percentage": "17.46"
+  },
+  {
+    "location": "sagaing",
+    "unsafe_sanitation": 190006,
+    "unsafe_sanitation_percentage": "17.32"
+  },
+  {
+    "location": "tanintharyi",
+    "unsafe_sanitation": 70650,
+    "unsafe_sanitation_percentage": "24.96"
+  },
+  {
+    "location": "yangon",
+    "unsafe_sanitation": 98833,
+    "unsafe_sanitation_percentage": "6.24"
+  },
+  {
+    "location": "naypyitaw",
+    "unsafe_sanitation": 21690,
+    "unsafe_sanitation_percentage": "8.27"
+  },
+  {
+    "location": "shan",
+    "unsafe_sanitation": 179831,
+    "unsafe_sanitation_percentage": "15.38"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "location": "ayeyawady",
+    "unsafe_non_drinking_water": 709959,
+    "unsafe_non_drinking_water_percentage": "47.68"
+  },
+  {
+    "location": "bago",
+    "unsafe_non_drinking_water": 275579,
+    "unsafe_non_drinking_water_percentage": "24.11"
+  },
+  {
+    "location": "magway",
+    "unsafe_non_drinking_water": 224981,
+    "unsafe_non_drinking_water_percentage": "24.46"
+  },
+  {
+    "location": "mandalay",
+    "unsafe_non_drinking_water": 214046,
+    "unsafe_non_drinking_water_percentage": "16.18"
+  },
+  {
+    "location": "kachin",
+    "unsafe_non_drinking_water": 66827,
+    "unsafe_non_drinking_water_percentage": "24.81"
+  },
+  {
+    "location": "chin",
+    "unsafe_non_drinking_water": 28661,
+    "unsafe_non_drinking_water_percentage": "31.45"
+  },
+  {
+    "location": "kayin",
+    "unsafe_non_drinking_water": 122312,
+    "unsafe_non_drinking_water_percentage": "39.71"
+  },
+  {
+    "location": "mon",
+    "unsafe_non_drinking_water": 142146,
+    "unsafe_non_drinking_water_percentage": "33.64"
+  },
+  {
+    "location": "kayah",
+    "unsafe_non_drinking_water": 275579,
+    "unsafe_non_drinking_water_percentage": "24.11"
+  },
+  {
+    "location": "rakhine",
+    "unsafe_non_drinking_water": 297124,
+    "unsafe_non_drinking_water_percentage": "64.62"
+  },
+  {
+    "location": "sagaing",
+    "unsafe_non_drinking_water": 194612,
+    "unsafe_non_drinking_water_percentage": "17.74"
+  },
+  {
+    "location": "tanintharyi",
+    "unsafe_non_drinking_water": 109903,
+    "unsafe_non_drinking_water_percentage": "38.82"
+  },
+  {
+    "location": "naypyitaw",
+    "unsafe_non_drinking_water": 34095,
+    "unsafe_non_drinking_water_percentage": "13.00"
+  },
+  {
+    "location": "shan",
+    "unsafe_non_drinking_water": 571857,
+    "unsafe_non_drinking_water_percentage": "48.89"
+  },
+  {
+    "location": "yangon",
+    "unsafe_non_drinking_water": 316194,
+    "unsafe_non_drinking_water_percentage": "19.98"
+  }
+]

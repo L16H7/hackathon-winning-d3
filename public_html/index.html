@@ -1,0 +1,281 @@
+<!DOCTYPE HTML>
+<!--
+	Overflow by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+  <title>UNICEF Data Viz</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="src/css/charts.css" />
+
+  <!-- Template Scripts -->
+  <!-- <script src="assets/js/jquery.min.js"></script> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="assets/js/jquery.scrolly.min.js"></script>
+  <script src="assets/js/jquery.poptrox.min.js"></script>
+  <script src="assets/js/skel.min.js"></script>
+  <script src="assets/js/util.js"></script>
+  <script src="assets/js/main.js"></script>
+
+
+  <!-- Charts and Graphs Javascript -->
+  <!-- D3 -->
+  <script src="https://d3js.org/d3.v4.js"></script>
+
+  <script src="./src/app.js"></script>
+  <script src="./src/js/map.js"></script>
+  <script src="./src/js/barChart.js"></script>
+  <script src="./src/js/scatterPlot.js"></script>
+  <script src="./src/js/dataTable.js"></script>
+  <script src="./src/js/stackChart.js"></script>
+  <script src="./src/js/stackChartWithLabels.js"></script>
+  <script src="./src/js/lineChart.js"></script>
+</head>
+
+<script>
+  $(document).ready(function () {
+    console.log('hello, world!');
+    init();
+
+    $("#drop-out").on("change", function () {
+      drawDropOutChart(this.value);
+    });
+
+    $("#child-labour").on("change", function () {
+      drawChildLabour(this.value);
+    });
+
+    $("#family-size").on("change", function () {
+      drawFamilySize(this.value);
+    });
+
+
+  });
+
+
+</script>
+
+<body>
+
+  <!-- Header -->
+  <section id="header">
+    <header>
+      <h1>Data Visualization Hackathon</h1>
+      <p>Team Pumpkins</p>
+    </header>
+    <footer>
+      <a href="#banner" class="button style2 scrolly-middle">Proceed as anticipated</a>
+    </footer>
+  </section>
+
+  <!-- Banner -->
+  <section id="banner">
+    <header>
+      <h2>Children who are going/dropping out of school</h2>
+      <div class="col-sm-2">
+        <select id="drop-out" class="form-control">
+          <option selected value="yangon">Select</option>
+          <option value="ayeyawady">Ayeyawady</option>
+          <option value="bago">Bago</option>
+          <option value="chin">Chin</option>
+          <option value="kachin">Kachin</option>
+          <option value="kayah">Kayah</option>
+          <option value="kayin">Kayin</option>
+          <option value="magway">Magway</option>
+          <option value="mandalay">Mandalay</option>
+          <option value="mon">Mon</option>
+          <option value="naypyitaw">Naypyitaw</option>
+          <option value="rakhine">Rakhine</option>
+          <option value="sagaing">Sagaing</option>
+          <option value="shan">Shan</option>
+          <option value="tanintharyi">Tanintharyi</option>
+          <option value="yangon">Yangon</option>
+        </select>
+      </div>
+    </header>
+    <div class="row">
+      <div class="col-sm-6 col-xs-12">
+        <div id="stack-chart-1" class="responsive-chart"></div>
+        <h2>
+          <span class="label label-default">Male</span>
+        </h2>
+      </div>
+      <div class="col-sm-6 col-xs-12">
+        <div id="stack-chart-2" class="responsive-chart"></div>
+        <div>
+          <h2>
+            <span class="label label-default">Female</span>
+          </h2>
+          <h2>
+            <span class="pull-left label label-primary" style="color: #0877BD;">.</span>
+            Never Attended
+          </h2>
+          <h2>
+            <span class="pull-left label label-primary" style="background-color: #D07523; color:#D07523">.</span>
+            Previously Attended
+          </h2>
+          <h2>
+            <span class="pull-left label label-primary" style="background-color: #00A915; color: #00A915">.</span>
+            Currently Attending
+          </h2>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="banner">
+    <header>
+      <h2>Children labour under 19 years old</h2>
+      <div class="col-sm-2">
+        <select id="child-labour" class="form-control">
+          <option selected value="yangon">Select</option>
+          <option value="ayeyawady">Ayeyawady</option>
+          <option value="bago">Bago</option>
+          <option value="chin">Chin</option>
+          <option value="kachin">Kachin</option>
+          <option value="kayah">Kayah</option>
+          <option value="kayin">Kayin</option>
+          <option value="magway">Magway</option>
+          <option value="mandalay">Mandalay</option>
+          <option value="mon">Mon</option>
+          <option value="naypyitaw">Naypyitaw</option>
+          <option value="rakhine">Rakhine</option>
+          <option value="sagaing">Sagaing</option>
+          <option value="shan">Shan</option>
+          <option value="tanintharyi">Tanintharyi</option>
+          <option value="yangon">Yangon</option>
+        </select>
+      </div>
+    </header>
+    <div class="row">
+      <div class="col-sm-6 col-xs-12">
+        <div id="choropleth-map-1" class="responsive-chart"></div>
+        <h2>
+          <span class="label label-primary">Total Employed Children</span>
+        </h2>
+      </div>
+      <div class="col-sm-6 col-xs-12">
+        <div id="stack-chart-3" class="responsive-chart"></div>
+        <div>
+          <h2>
+            <span class="label label-default">Male Female Combined</span>
+          </h2>
+          <h2>
+            <span class="pull-left label label-primary" style="color: #0877BD;">.</span>
+            Employed
+          </h2>
+          <h2>
+            <span class="pull-left label label-primary" style="background-color: #D07523; color:#D07523">.</span>
+            Unemployed
+          </h2>
+          <h2>
+            <span class="pull-left label label-primary" style="background-color: #00A915; color: #00A915">.</span>
+            Economically Inactive
+          </h2>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section id="banner">
+    <header>
+      <h2>Unsafe Fuel Usage</h2>
+    </header>
+    <div class="row">
+      <div class="col-sm-6 col-xs-12">
+        <div id="choropleth-map-2" class="responsive-chart"></div>
+        <h2>
+          <span class="label label-primary">By Percentage</span>
+        </h2>
+      </div>
+      <div class="col-sm-6 col-xs-12">
+        <div id="choropleth-map-3" class="responsive-chart"></div>
+        <h2>
+          <span class="label label-primary">By Number</span>
+        </h2>
+      </div>
+    </div>
+  </section>
+
+  <section id="banner">
+    <header>
+      <h2>Children Lack of Clean Water and Sanitation</h2>
+    </header>
+    <div id="scatter-plot-1" class="responsive-chart"></div>
+  </section>
+
+  <section id="banner">
+    <header>
+      <h2>Children Lack of Clean Water and Sanitation</h2>
+    </header>
+    <div id="scatter-plot-2" class="responsive-chart"></div>
+  </section>
+
+
+  <article class="container box style3">
+    <header>
+      <h2>Percentage of Unsafe Drinking Water Usage</h2>
+    </header>
+    <div class="row">
+      <div id="choropleth-map-4" class="responsive-chart col-sm-6 col-xs-12"></div>
+      <div id="choropleth-map-4-table" class="col-sm-6 col-xs-12"></div>
+    </div>
+  </article>
+
+  <!-- <article class="container box style3">
+    <header>
+      <h2>Percentage of Household Below Poverty Line</h2>
+    </header>
+    <div class="row">
+      <div id="choropleth-map-5" class="responsive-chart col-sm-6 col-xs-12"></div>
+      <div id="choropleth-map-5-table" class="col-sm-6 col-xs-12"></div>
+    </div>
+  </article> -->
+
+  <section id="banner">
+    <header>
+      <h2>Distribution of Average Household Sizes</h2>
+      <div class="col-sm-2">
+        <select id="family-size" class="form-control">
+          <option selected value="yangon">Select</option>
+          <option value="ayeyawady">Ayeyawady</option>
+          <option value="bago">Bago</option>
+          <option value="chin">Chin</option>
+          <option value="kachin">Kachin</option>
+          <option value="kayah">Kayah</option>
+          <option value="kayin">Kayin</option>
+          <option value="magway">Magway</option>
+          <option value="mandalay">Mandalay</option>
+          <option value="mon">Mon</option>
+          <option value="naypyitaw">Naypyitaw</option>
+          <option value="rakhine">Rakhine</option>
+          <option value="sagaing">Sagaing</option>
+          <option value="shan">Shan</option>
+          <option value="tanintharyi">Tanintharyi</option>
+          <option value="yangon">Yangon</option>
+        </select>
+      </div>
+
+    </header>
+    <div id="bar-chart-1" class="responsive-chart"></div>
+  </section>
+
+
+  <section id="footer">
+    <div class="copyright">
+      <ul class="menu">
+        <li>Team Pumpkins</li>
+      </ul>
+    </div>
+  </section>
+
+</body>
+
+</html>

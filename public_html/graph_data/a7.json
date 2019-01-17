@@ -1,0 +1,212 @@
+[
+  {
+    "location": "bago",
+    "plotdata": [
+      { "label": "1_person", "total": 55130 },
+      { "label": "2 persons", "total": 161056 },
+      { "label": "3 persons", "total": 257551 },
+      { "label": "4 persons", "total": 250866 },
+      { "label": "5 persons", "total": 181332 },
+      { "label": "6 persons", "total": 111219 },
+      { "label": "7 persons", "total": 61785 },
+      { "label": "8 persons", "total": 35343 },
+      { "label": "9 persons and more", "total": 28692 }
+    ]
+  },
+  {
+    "location": "chin",
+    "plotdata": [
+      { "label": "1_person", "total": 5268 },
+      { "label": "2 persons", "total": 9116 },
+      { "label": "3 persons", "total": 11442 },
+      { "label": "4 persons", "total": 13442 },
+      { "label": "5 persons", "total": 13916 },
+      { "label": "6 persons", "total": 12663 },
+      { "label": "7 persons", "total": 9803 },
+      { "label": "8 persons", "total": 7994 },
+      { "label": "9 persons and more", "total": 7477 }
+    ]
+  },
+  {
+    "location": "magway",
+    "plotdata": [
+      { "label": "1_person", "total": 50670 },
+      { "label": "2 persons", "total": 127474 },
+      { "label": "3 persons", "total": 200733 },
+      { "label": "4 persons", "total": 203925 },
+      { "label": "5 persons", "total": 148044 },
+      { "label": "6 persons", "total": 91121 },
+      { "label": "7 persons", "total": 50120 },
+      { "label": "8 persons", "total": 27878 },
+      { "label": "9 persons and more", "total": 19812 }
+    ]
+  },
+  {
+    "location": "sagaing",
+    "plotdata": [
+      { "label": "1_person", "total": 43563 },
+      { "label": "2 persons", "total": 112946 },
+      { "label": "3 persons", "total": 194947 },
+      { "label": "4 persons", "total": 234471 },
+      { "label": "5 persons", "total": 192085 },
+      { "label": "6 persons", "total": 133389 },
+      { "label": "7 persons", "total": 83212 },
+      { "label": "8 persons", "total": 53639 },
+      { "label": "9 persons and more", "total": 48605 }
+    ]
+  },
+  {
+    "location": "tanintharyi",
+    "plotdata": [
+      { "label": "1_person", "total": 11613 },
+      { "label": "2 persons", "total": 28879 },
+      { "label": "3 persons", "total": 47024 },
+      { "label": "4 persons", "total": 54245 },
+      { "label": "5 persons", "total": 48817 },
+      { "label": "6 persons", "total": 36780 },
+      { "label": "7 persons", "total": 23839 },
+      { "label": "8 persons", "total": 16360 },
+      { "label": "9 persons and more", "total": 15542 }
+    ]
+  },
+  {
+    "location": "kayin",
+    "plotdata": [
+      { "label": "1_person", "total": 14666 },
+      { "label": "2 persons", "total": 32865 },
+      { "label": "3 persons", "total": 50514 },
+      { "label": "4 persons", "total": 59363 },
+      { "label": "5 persons", "total": 52504 },
+      { "label": "6 persons", "total": 39167 },
+      { "label": "7 persons", "total": 25419 },
+      { "label": "8 persons", "total": 17204 },
+      { "label": "9 persons and more", "total": 16339 }
+    ]
+  },
+  {
+    "location": "naypyitaw",
+    "plotdata": [
+      { "label": "1_person", "total": 15738 },
+      { "label": "2 persons", "total": 37040 },
+      { "label": "3 persons", "total": 58575 },
+      { "label": "4 persons", "total": 57518 },
+      { "label": "5 persons", "total": 40477 },
+      { "label": "6 persons", "total": 25029 },
+      { "label": "7 persons", "total": 13748 },
+      { "label": "8 persons", "total": 7831 },
+      { "label": "9 persons and more", "total": 6297 }
+    ]
+  },
+  {
+    "location": "yangon",
+    "plotdata": [
+      { "label": "1_person", "total": 68073 },
+      { "label": "2 persons", "total": 216707 },
+      { "label": "3 persons", "total": 325983 },
+      { "label": "4 persons", "total": 338953 },
+      { "label": "5 persons", "total": 249425 },
+      { "label": "6 persons", "total": 158136 },
+      { "label": "7 persons", "total": 95117 },
+      { "label": "8 persons", "total": 63475 },
+      { "label": "9 persons and more", "total": 67075 }
+    ]
+  },
+  {
+    "location": "ayeyawady",
+    "plotdata": [
+      { "label": "1_person", "total": 76455 },
+      { "label": "2 persons", "total": 215608 },
+      { "label": "3 persons", "total": 338534 },
+      { "label": "4 persons", "total": 334803 },
+      { "label": "5 persons", "total": 236107 },
+      { "label": "6 persons", "total": 141023 },
+      { "label": "7 persons", "total": 75370 },
+      { "label": "8 persons", "total": 41309 },
+      { "label": "9 persons and more", "total": 29774 }
+    ]
+  },
+  {
+    "location": "shan",
+    "plotdata": [
+      { "label": "1_person", "total": 44285 },
+      { "label": "2 persons", "total": 117969 },
+      { "label": "3 persons", "total": 208307 },
+      { "label": "4 persons", "total": 241930 },
+      { "label": "5 persons", "total": 202732 },
+      { "label": "6 persons", "total": 143120 },
+      { "label": "7 persons", "total": 90204 },
+      { "label": "8 persons", "total": 63985 },
+      { "label": "9 persons and more", "total": 57037 }
+    ]
+  },
+  {
+    "location": "kachin",
+    "plotdata": [
+      { "label": "1_person", "total": 10751 },
+      { "label": "2 persons", "total": 24089 },
+      { "label": "3 persons", "total": 39044 },
+      { "label": "4 persons", "total": 49268 },
+      { "label": "5 persons", "total": 46432 },
+      { "label": "6 persons", "total": 35781 },
+      { "label": "7 persons", "total": 24660 },
+      { "label": "8 persons", "total": 18629 },
+      { "label": "9 persons and more", "total": 20711 }
+    ]
+  },
+  {
+    "location": "rakhine",
+    "plotdata": [
+      { "label": "1_person", "total": 19640 },
+      { "label": "2 persons", "total": 54689 },
+      { "label": "3 persons", "total": 87398 },
+      { "label": "4 persons", "total": 97428 },
+      { "label": "5 persons", "total": 80134 },
+      { "label": "6 persons", "total": 54649 },
+      { "label": "7 persons", "total": 32708 },
+      { "label": "8 persons", "total": 19429 },
+      { "label": "9 persons and more", "total": 13697 }
+    ]
+  },
+  {
+    "location": "mon",
+    "plotdata": [
+      { "label": "1_person", "total": 20824 },
+      { "label": "2 persons", "total": 47243 },
+      { "label": "3 persons", "total": 74416 },
+      { "label": "4 persons", "total": 86439 },
+      { "label": "5 persons", "total": 71360 },
+      { "label": "6 persons", "total": 49475 },
+      { "label": "7 persons", "total": 30626 },
+      { "label": "8 persons", "total": 20293 },
+      { "label": "9 persons and more", "total": 21936 }
+    ]
+  },
+  {
+    "location": "mandalay",
+    "plotdata": [
+      { "label": "1_person", "total": 61623 },
+      { "label": "2 persons", "total": 160901 },
+      { "label": "3 persons", "total": 261541 },
+      { "label": "4 persons", "total": 286840 },
+      { "label": "5 persons", "total": 220461 },
+      { "label": "6 persons", "total": 144070 },
+      { "label": "7 persons", "total": 84615 },
+      { "label": "8 persons", "total": 53139 },
+      { "label": "9 persons and more", "total": 50001 }
+    ]
+  },
+  {
+    "location": "kayah",
+    "plotdata": [
+      { "label": "1_person", "total": 2789 },
+      { "label": "2 persons", "total": 5647 },
+      { "label": "3 persons", "total": 9191 },
+      { "label": "4 persons", "total": 10798 },
+      { "label": "5 persons", "total": 9901 },
+      { "label": "6 persons", "total": 7488 },
+      { "label": "7 persons", "total": 4983 },
+      { "label": "8 persons", "total": 3451 },
+      { "label": "9 persons and more", "total": 3026 }
+    ]
+  }
+]
